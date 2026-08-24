@@ -1,0 +1,6 @@
+contextual_threshold,exact_recall,fuzzy_recall,contextual_recall
+0.45,1.0,0.695,0.9946
+0.5,1.0,0.695,0.9946
+0.55,1.0,0.695,0.9946
+0.6,1.0,0.695,0.9946
+0.65,1.0,0.695,0.9946

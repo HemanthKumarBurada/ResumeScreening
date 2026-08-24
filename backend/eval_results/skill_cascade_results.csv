@@ -1,0 +1,4251 @@
+resume_id,skill,true_tier,predicted_tier,match
+R0000,Natural Language Processing,exact,exact,True
+R0000,NumPy,exact,exact,True
+R0000,Pandas,exact,exact,True
+R0000,Data Visualization,contextual,contextual,True
+R0000,Deep Learning,exact,exact,True
+R0000,Scikit-learn,exact,exact,True
+R0000,Next.js,exact,exact,True
+R0000,REST API,contextual,contextual,True
+R0001,Natural Language Processing,exact,exact,True
+R0001,TensorFlow,exact,exact,True
+R0001,Scikit-learn,exact,exact,True
+R0001,NumPy,exact,exact,True
+R0001,Deep Learning,contextual,contextual,True
+R0001,Machine Learning,contextual,contextual,True
+R0001,PyTorch,fuzzy,exact,False
+R0001,Excel,fuzzy,exact,False
+R0001,Forecasting,exact,exact,True
+R0002,React,exact,exact,True
+R0002,HTML,exact,exact,True
+R0002,Next.js,exact,exact,True
+R0002,Express.js,exact,exact,True
+R0002,Node.js,exact,exact,True
+R0002,REST API,exact,exact,True
+R0002,TypeScript,exact,exact,True
+R0002,JavaScript,fuzzy,exact,False
+R0003,CI/CD,exact,exact,True
+R0003,Docker,exact,exact,True
+R0003,Terraform,exact,exact,True
+R0003,GCP,exact,exact,True
+R0003,AWS,fuzzy,fuzzy,True
+R0003,Azure,exact,exact,True
+R0003,Payroll,contextual,contextual,True
+R0003,Talent Acquisition,exact,exact,True
+R0004,Recruitment,exact,exact,True
+R0004,Performance Management,exact,exact,True
+R0004,Labor Law,exact,exact,True
+R0004,Onboarding,exact,exact,True
+R0004,HRIS,fuzzy,fuzzy,True
+R0004,Employee Relations,exact,exact,True
+R0005,Jenkins,exact,exact,True
+R0005,Linux,exact,exact,True
+R0005,AWS,exact,exact,True
+R0005,CI/CD,exact,exact,True
+R0005,Docker,exact,exact,True
+R0005,Ansible,exact,exact,True
+R0006,Financial Analysis,exact,exact,True
+R0006,Forecasting,exact,exact,True
+R0006,Auditing,exact,exact,True
+R0006,Financial Modeling,exact,exact,True
+R0006,Risk Management,exact,exact,True
+R0006,Accounting,exact,exact,True
+R0007,MongoDB,fuzzy,exact,False
+R0007,Express.js,exact,exact,True
+R0007,Node.js,fuzzy,fuzzy,True
+R0007,Next.js,exact,exact,True
+R0007,CSS,exact,exact,True
+R0007,TypeScript,exact,exact,True
+R0007,HTML,exact,exact,True
+R0008,SQL,exact,exact,True
+R0008,Pandas,exact,exact,True
+R0008,Data Visualization,exact,exact,True
+R0008,Statistics,exact,exact,True
+R0008,Python,contextual,contextual,True
+R0008,PyTorch,fuzzy,fuzzy,True
+R0008,Scikit-learn,fuzzy,fuzzy,True
+R0008,TensorFlow,exact,exact,True
+R0008,Machine Learning,exact,exact,True
+R0008,NumPy,exact,exact,True
+R0009,Labor Law,exact,exact,True
+R0009,Performance Management,exact,exact,True
+R0009,Talent Acquisition,exact,exact,True
+R0009,Recruitment,exact,exact,True
+R0009,HRIS,exact,exact,True
+R0009,Payroll,exact,exact,True
+R0009,Onboarding,exact,exact,True
+R0009,Employee Relations,exact,exact,True
+R0010,Python,contextual,contextual,True
+R0010,Machine Learning,contextual,contextual,True
+R0010,Pandas,exact,exact,True
+R0010,Deep Learning,contextual,contextual,True
+R0010,TensorFlow,exact,exact,True
+R0010,Data Visualization,exact,exact,True
+R0010,PyTorch,exact,exact,True
+R0010,Statistics,exact,exact,True
+R0010,Scikit-learn,exact,exact,True
+R0010,Natural Language Processing,exact,exact,True
+R0010,REST API,exact,exact,True
+R0010,CSS,exact,exact,True
+R0011,Accounting,exact,exact,True
+R0011,Financial Modeling,exact,exact,True
+R0011,Excel,exact,exact,True
+R0011,Risk Management,contextual,contextual,True
+R0011,Auditing,exact,exact,True
+R0011,QuickBooks,exact,exact,True
+R0011,Budgeting,exact,exact,True
+R0011,Financial Analysis,exact,exact,True
+R0011,SAP,exact,exact,True
+R0011,Forecasting,exact,exact,True
+R0011,Next.js,exact,exact,True
+R0011,JavaScript,exact,exact,True
+R0012,Excel,exact,exact,True
+R0012,Financial Analysis,exact,exact,True
+R0012,SAP,exact,exact,True
+R0012,Budgeting,exact,exact,True
+R0012,Accounting,exact,exact,True
+R0012,QuickBooks,exact,exact,True
+R0012,Forecasting,exact,exact,True
+R0012,Financial Modeling,exact,exact,True
+R0012,Auditing,exact,exact,True
+R0012,Risk Management,contextual,contextual,True
+R0012,HRIS,exact,exact,True
+R0012,Labor Law,exact,exact,True
+R0013,Ansible,exact,exact,True
+R0013,Jenkins,exact,exact,True
+R0013,Docker,exact,exact,True
+R0013,GCP,exact,exact,True
+R0013,Terraform,exact,exact,True
+R0013,CI/CD,contextual,contextual,True
+R0013,AWS,exact,exact,True
+R0013,Linux,exact,exact,True
+R0013,Azure,exact,exact,True
+R0013,Kubernetes,exact,exact,True
+R0014,CSS,exact,exact,True
+R0014,TypeScript,exact,exact,True
+R0014,JavaScript,exact,exact,True
+R0014,Node.js,contextual,contextual,True
+R0014,React,contextual,contextual,True
+R0014,Express.js,exact,exact,True
+R0015,Natural Language Processing,exact,exact,True
+R0015,Scikit-learn,fuzzy,fuzzy,True
+R0015,TensorFlow,exact,exact,True
+R0015,Pandas,exact,exact,True
+R0015,NumPy,exact,exact,True
+R0015,Machine Learning,exact,exact,True
+R0015,Statistics,exact,exact,True
+R0015,MongoDB,exact,exact,True
+R0015,HTML,exact,exact,True
+R0016,Financial Modeling,exact,exact,True
+R0016,Excel,exact,exact,True
+R0016,Budgeting,exact,exact,True
+R0016,QuickBooks,exact,exact,True
+R0016,Auditing,exact,exact,True
+R0016,Accounting,exact,exact,True
+R0016,Financial Analysis,exact,exact,True
+R0016,SAP,fuzzy,fuzzy,True
+R0017,Kubernetes,exact,exact,True
+R0017,Terraform,exact,exact,True
+R0017,Azure,exact,exact,True
+R0017,Ansible,exact,exact,True
+R0017,Docker,fuzzy,exact,False
+R0017,AWS,exact,exact,True
+R0017,Jenkins,exact,exact,True
+R0017,CI/CD,exact,exact,True
+R0017,GCP,exact,exact,True
+R0018,Forecasting,exact,exact,True
+R0018,Auditing,exact,exact,True
+R0018,QuickBooks,exact,exact,True
+R0018,SAP,exact,exact,True
+R0018,Financial Analysis,exact,exact,True
+R0018,Excel,exact,exact,True
+R0018,Risk Management,contextual,contextual,True
+R0018,Accounting,exact,exact,True
+R0018,Financial Modeling,contextual,contextual,True
+R0018,Budgeting,exact,exact,True
+R0018,Kubernetes,exact,exact,True
+R0018,CI/CD,fuzzy,fuzzy,True
+R0019,Pandas,exact,exact,True
+R0019,Deep Learning,exact,exact,True
+R0019,SQL,contextual,contextual,True
+R0019,PyTorch,exact,exact,True
+R0019,Python,exact,exact,True
+R0019,NumPy,exact,exact,True
+R0019,Machine Learning,exact,exact,True
+R0019,Data Visualization,contextual,contextual,True
+R0019,Natural Language Processing,exact,exact,True
+R0019,QuickBooks,exact,exact,True
+R0019,Financial Analysis,exact,exact,True
+R0020,HRIS,exact,exact,True
+R0020,Payroll,exact,exact,True
+R0020,Recruitment,exact,exact,True
+R0020,Employee Relations,exact,exact,True
+R0020,Onboarding,exact,exact,True
+R0020,Performance Management,exact,exact,True
+R0020,Labor Law,exact,exact,True
+R0021,Recruitment,exact,exact,True
+R0021,Performance Management,exact,exact,True
+R0021,HRIS,exact,exact,True
+R0021,Payroll,exact,exact,True
+R0021,Talent Acquisition,exact,exact,True
+R0021,Labor Law,exact,exact,True
+R0021,Onboarding,exact,exact,True
+R0021,Employee Relations,exact,exact,True
+R0022,Labor Law,exact,exact,True
+R0022,Onboarding,exact,exact,True
+R0022,HRIS,fuzzy,fuzzy,True
+R0022,Talent Acquisition,exact,exact,True
+R0022,Recruitment,contextual,contextual,True
+R0022,Performance Management,exact,exact,True
+R0022,Payroll,contextual,contextual,True
+R0022,Accounting,exact,exact,True
+R0022,Auditing,exact,exact,True
+R0023,Pandas,exact,exact,True
+R0023,Statistics,exact,exact,True
+R0023,Machine Learning,fuzzy,fuzzy,True
+R0023,Python,exact,exact,True
+R0023,SQL,fuzzy,exact,False
+R0023,Data Visualization,contextual,contextual,True
+R0023,TensorFlow,fuzzy,fuzzy,True
+R0023,PyTorch,exact,exact,True
+R0024,Python,exact,exact,True
+R0024,NumPy,exact,exact,True
+R0024,Data Visualization,exact,exact,True
+R0024,TensorFlow,exact,exact,True
+R0024,SQL,exact,exact,True
+R0024,Scikit-learn,exact,exact,True
+R0024,Machine Learning,contextual,contextual,True
+R0024,Natural Language Processing,exact,exact,True
+R0024,PyTorch,exact,exact,True
+R0024,Statistics,exact,exact,True
+R0025,Performance Management,exact,exact,True
+R0025,Onboarding,exact,exact,True
+R0025,Talent Acquisition,exact,exact,True
+R0025,HRIS,exact,exact,True
+R0025,Employee Relations,exact,exact,True
+R0025,Payroll,contextual,contextual,True
+R0025,Labor Law,exact,exact,True
+R0026,Scikit-learn,exact,exact,True
+R0026,Deep Learning,exact,exact,True
+R0026,PyTorch,fuzzy,exact,False
+R0026,Pandas,exact,exact,True
+R0026,Natural Language Processing,exact,exact,True
+R0026,TensorFlow,exact,exact,True
+R0026,Statistics,exact,exact,True
+R0026,Data Visualization,exact,exact,True
+R0026,NumPy,exact,exact,True
+R0027,Linux,exact,exact,True
+R0027,CI/CD,exact,exact,True
+R0027,Jenkins,exact,exact,True
+R0027,Terraform,exact,exact,True
+R0027,Ansible,exact,exact,True
+R0027,AWS,exact,exact,True
+R0027,Azure,exact,exact,True
+R0028,HTML,exact,exact,True
+R0028,MongoDB,exact,exact,True
+R0028,CSS,exact,exact,True
+R0028,TypeScript,exact,exact,True
+R0028,Express.js,exact,exact,True
+R0028,REST API,fuzzy,fuzzy,True
+R0028,Node.js,contextual,contextual,True
+R0029,Recruitment,exact,exact,True
+R0029,HRIS,exact,exact,True
+R0029,Employee Relations,exact,exact,True
+R0029,Payroll,exact,exact,True
+R0029,Performance Management,exact,exact,True
+R0029,Onboarding,exact,exact,True
+R0030,CI/CD,fuzzy,fuzzy,True
+R0030,Kubernetes,contextual,contextual,True
+R0030,Linux,exact,exact,True
+R0030,Jenkins,exact,exact,True
+R0030,Ansible,exact,exact,True
+R0030,Terraform,exact,exact,True
+R0030,Auditing,exact,exact,True
+R0030,Financial Analysis,exact,exact,True
+R0031,PyTorch,exact,exact,True
+R0031,Data Visualization,exact,exact,True
+R0031,Natural Language Processing,exact,exact,True
+R0031,NumPy,exact,exact,True
+R0031,Python,fuzzy,exact,False
+R0031,Machine Learning,fuzzy,fuzzy,True
+R0031,Deep Learning,contextual,contextual,True
+R0031,Scikit-learn,exact,exact,True
+R0031,Pandas,exact,exact,True
+R0031,Jenkins,exact,exact,True
+R0031,CI/CD,exact,exact,True
+R0032,Azure,exact,exact,True
+R0032,Ansible,exact,exact,True
+R0032,GCP,exact,exact,True
+R0032,Docker,exact,exact,True
+R0032,Jenkins,exact,exact,True
+R0032,Linux,exact,exact,True
+R0032,CI/CD,exact,exact,True
+R0032,AWS,exact,exact,True
+R0032,Kubernetes,exact,exact,True
+R0032,Terraform,exact,exact,True
+R0032,Next.js,exact,exact,True
+R0032,JavaScript,exact,exact,True
+R0033,Ansible,exact,exact,True
+R0033,Jenkins,exact,exact,True
+R0033,Linux,exact,exact,True
+R0033,GCP,exact,exact,True
+R0033,Azure,exact,exact,True
+R0033,Docker,fuzzy,fuzzy,True
+R0033,CI/CD,exact,exact,True
+R0033,Terraform,exact,exact,True
+R0033,Kubernetes,exact,exact,True
+R0033,TensorFlow,exact,exact,True
+R0033,SQL,exact,exact,True
+R0034,Pandas,exact,exact,True
+R0034,Deep Learning,exact,exact,True
+R0034,NumPy,exact,exact,True
+R0034,SQL,contextual,contextual,True
+R0034,Python,exact,exact,True
+R0034,Data Visualization,contextual,contextual,True
+R0034,Natural Language Processing,exact,exact,True
+R0034,PyTorch,exact,exact,True
+R0034,Machine Learning,exact,exact,True
+R0034,TensorFlow,exact,exact,True
+R0035,TensorFlow,exact,exact,True
+R0035,Scikit-learn,exact,exact,True
+R0035,SQL,fuzzy,exact,False
+R0035,NumPy,exact,exact,True
+R0035,Python,exact,exact,True
+R0035,Deep Learning,exact,exact,True
+R0035,Statistics,exact,exact,True
+R0035,Natural Language Processing,exact,exact,True
+R0036,JavaScript,exact,exact,True
+R0036,TypeScript,exact,exact,True
+R0036,MongoDB,exact,exact,True
+R0036,Express.js,exact,exact,True
+R0036,HTML,exact,exact,True
+R0036,REST API,fuzzy,fuzzy,True
+R0036,React,exact,exact,True
+R0036,CSS,exact,exact,True
+R0036,Next.js,exact,exact,True
+R0036,Onboarding,exact,exact,True
+R0036,Performance Management,exact,exact,True
+R0037,Forecasting,exact,exact,True
+R0037,Auditing,exact,exact,True
+R0037,Financial Modeling,exact,exact,True
+R0037,Budgeting,exact,exact,True
+R0037,QuickBooks,exact,exact,True
+R0037,Excel,exact,exact,True
+R0037,Accounting,exact,exact,True
+R0037,Financial Analysis,exact,exact,True
+R0037,SAP,fuzzy,fuzzy,True
+R0038,React,contextual,contextual,True
+R0038,REST API,exact,exact,True
+R0038,HTML,exact,exact,True
+R0038,MongoDB,exact,exact,True
+R0038,CSS,exact,exact,True
+R0038,Next.js,exact,exact,True
+R0038,TypeScript,exact,exact,True
+R0039,Jenkins,exact,exact,True
+R0039,Ansible,exact,exact,True
+R0039,GCP,exact,exact,True
+R0039,Kubernetes,fuzzy,exact,False
+R0039,CI/CD,fuzzy,fuzzy,True
+R0039,Terraform,exact,exact,True
+R0039,Docker,fuzzy,exact,False
+R0039,Azure,exact,exact,True
+R0039,Linux,exact,exact,True
+R0040,CI/CD,exact,exact,True
+R0040,Jenkins,exact,exact,True
+R0040,AWS,fuzzy,fuzzy,True
+R0040,Terraform,exact,exact,True
+R0040,Docker,fuzzy,exact,False
+R0040,Linux,exact,exact,True
+R0040,Ansible,exact,exact,True
+R0041,MongoDB,fuzzy,fuzzy,True
+R0041,CSS,exact,exact,True
+R0041,TypeScript,exact,exact,True
+R0041,REST API,exact,exact,True
+R0041,JavaScript,fuzzy,fuzzy,True
+R0041,HTML,exact,exact,True
+R0041,Next.js,exact,exact,True
+R0041,Express.js,exact,exact,True
+R0042,PyTorch,exact,exact,True
+R0042,Python,exact,exact,True
+R0042,Data Visualization,contextual,contextual,True
+R0042,SQL,exact,exact,True
+R0042,Scikit-learn,exact,exact,True
+R0042,NumPy,exact,exact,True
+R0042,Machine Learning,contextual,contextual,True
+R0043,MongoDB,exact,exact,True
+R0043,TypeScript,exact,exact,True
+R0043,REST API,contextual,contextual,True
+R0043,CSS,exact,exact,True
+R0043,Express.js,exact,exact,True
+R0043,React,fuzzy,fuzzy,True
+R0043,HTML,exact,exact,True
+R0043,Node.js,fuzzy,fuzzy,True
+R0043,JavaScript,exact,exact,True
+R0044,MongoDB,exact,exact,True
+R0044,React,contextual,contextual,True
+R0044,HTML,exact,exact,True
+R0044,TypeScript,fuzzy,exact,False
+R0044,REST API,exact,exact,True
+R0044,CSS,exact,exact,True
+R0045,Budgeting,exact,exact,True
+R0045,Accounting,exact,exact,True
+R0045,QuickBooks,exact,exact,True
+R0045,Financial Analysis,exact,exact,True
+R0045,Auditing,exact,exact,True
+R0045,Excel,exact,exact,True
+R0045,Deep Learning,contextual,contextual,True
+R0045,Python,exact,exact,True
+R0046,SQL,exact,exact,True
+R0046,Pandas,exact,exact,True
+R0046,Data Visualization,exact,exact,True
+R0046,Python,exact,exact,True
+R0046,NumPy,exact,exact,True
+R0046,Statistics,exact,exact,True
+R0046,Scikit-learn,exact,exact,True
+R0046,Natural Language Processing,exact,exact,True
+R0046,PyTorch,exact,exact,True
+R0047,GCP,exact,exact,True
+R0047,Azure,exact,exact,True
+R0047,Jenkins,exact,exact,True
+R0047,CI/CD,exact,exact,True
+R0047,Ansible,exact,exact,True
+R0047,Terraform,exact,exact,True
+R0047,Linux,exact,exact,True
+R0047,Docker,fuzzy,exact,False
+R0047,AWS,contextual,contextual,True
+R0048,Onboarding,exact,exact,True
+R0048,Performance Management,exact,exact,True
+R0048,Recruitment,contextual,contextual,True
+R0048,Talent Acquisition,exact,exact,True
+R0048,Payroll,contextual,contextual,True
+R0048,HRIS,exact,exact,True
+R0049,HRIS,exact,exact,True
+R0049,Labor Law,exact,exact,True
+R0049,Employee Relations,exact,exact,True
+R0049,Talent Acquisition,exact,exact,True
+R0049,Recruitment,contextual,contextual,True
+R0049,Performance Management,exact,exact,True
+R0050,QuickBooks,exact,exact,True
+R0050,Financial Modeling,exact,exact,True
+R0050,Budgeting,exact,exact,True
+R0050,Financial Analysis,exact,exact,True
+R0050,Excel,exact,exact,True
+R0050,Accounting,exact,exact,True
+R0050,Auditing,exact,exact,True
+R0050,Forecasting,exact,exact,True
+R0050,SAP,fuzzy,fuzzy,True
+R0050,Risk Management,exact,exact,True
+R0050,Next.js,exact,exact,True
+R0050,REST API,exact,exact,True
+R0051,PyTorch,fuzzy,exact,False
+R0051,Statistics,exact,exact,True
+R0051,TensorFlow,exact,exact,True
+R0051,Natural Language Processing,exact,exact,True
+R0051,SQL,contextual,contextual,True
+R0051,Pandas,exact,exact,True
+R0051,Deep Learning,exact,exact,True
+R0051,Machine Learning,contextual,contextual,True
+R0052,CSS,exact,exact,True
+R0052,TypeScript,exact,exact,True
+R0052,React,contextual,contextual,True
+R0052,JavaScript,exact,exact,True
+R0052,HTML,exact,exact,True
+R0052,Express.js,exact,exact,True
+R0052,MongoDB,exact,exact,True
+R0052,REST API,fuzzy,fuzzy,True
+R0053,HRIS,exact,exact,True
+R0053,Recruitment,contextual,contextual,True
+R0053,Payroll,exact,exact,True
+R0053,Performance Management,exact,exact,True
+R0053,Employee Relations,exact,exact,True
+R0053,Labor Law,exact,exact,True
+R0053,Onboarding,exact,exact,True
+R0053,Talent Acquisition,exact,exact,True
+R0053,Pandas,exact,exact,True
+R0053,TensorFlow,exact,exact,True
+R0054,React,exact,exact,True
+R0054,Node.js,fuzzy,fuzzy,True
+R0054,CSS,exact,exact,True
+R0054,Next.js,exact,exact,True
+R0054,REST API,fuzzy,fuzzy,True
+R0054,MongoDB,exact,exact,True
+R0054,TypeScript,exact,exact,True
+R0055,Ansible,exact,exact,True
+R0055,Kubernetes,exact,exact,True
+R0055,GCP,exact,exact,True
+R0055,CI/CD,exact,exact,True
+R0055,Terraform,exact,exact,True
+R0055,AWS,contextual,contextual,True
+R0055,Jenkins,exact,exact,True
+R0056,Auditing,exact,exact,True
+R0056,QuickBooks,exact,exact,True
+R0056,Financial Modeling,exact,exact,True
+R0056,SAP,fuzzy,exact,False
+R0056,Budgeting,exact,exact,True
+R0056,Excel,fuzzy,exact,False
+R0056,Accounting,exact,exact,True
+R0056,Risk Management,exact,exact,True
+R0056,Forecasting,exact,exact,True
+R0057,Docker,exact,exact,True
+R0057,Terraform,exact,exact,True
+R0057,Kubernetes,exact,exact,True
+R0057,AWS,fuzzy,fuzzy,True
+R0057,GCP,exact,exact,True
+R0057,Jenkins,exact,exact,True
+R0057,CI/CD,contextual,contextual,True
+R0057,Ansible,exact,exact,True
+R0057,Linux,exact,exact,True
+R0057,Azure,exact,exact,True
+R0058,Talent Acquisition,exact,exact,True
+R0058,Recruitment,exact,exact,True
+R0058,Employee Relations,exact,exact,True
+R0058,Labor Law,exact,exact,True
+R0058,Onboarding,exact,exact,True
+R0058,Performance Management,exact,exact,True
+R0058,Payroll,exact,exact,True
+R0058,HRIS,exact,exact,True
+R0058,Node.js,fuzzy,fuzzy,True
+R0058,React,fuzzy,fuzzy,True
+R0059,Payroll,contextual,contextual,True
+R0059,Labor Law,exact,exact,True
+R0059,HRIS,exact,exact,True
+R0059,Employee Relations,exact,exact,True
+R0059,Performance Management,exact,exact,True
+R0059,Recruitment,exact,exact,True
+R0059,Talent Acquisition,exact,exact,True
+R0059,Onboarding,exact,exact,True
+R0060,Budgeting,exact,exact,True
+R0060,Financial Modeling,contextual,contextual,True
+R0060,Auditing,exact,exact,True
+R0060,Risk Management,exact,exact,True
+R0060,Accounting,exact,exact,True
+R0060,Financial Analysis,exact,exact,True
+R0060,QuickBooks,exact,exact,True
+R0061,Linux,exact,exact,True
+R0061,Docker,contextual,contextual,True
+R0061,GCP,exact,exact,True
+R0061,Jenkins,exact,exact,True
+R0061,AWS,exact,exact,True
+R0061,Kubernetes,exact,exact,True
+R0062,Labor Law,exact,exact,True
+R0062,Payroll,exact,exact,True
+R0062,HRIS,fuzzy,fuzzy,True
+R0062,Recruitment,exact,exact,True
+R0062,Talent Acquisition,exact,exact,True
+R0062,Performance Management,exact,exact,True
+R0062,Onboarding,exact,exact,True
+R0062,Express.js,exact,exact,True
+R0062,Next.js,exact,exact,True
+R0063,REST API,exact,exact,True
+R0063,JavaScript,exact,exact,True
+R0063,TypeScript,fuzzy,fuzzy,True
+R0063,React,contextual,contextual,True
+R0063,CSS,exact,exact,True
+R0063,HTML,exact,exact,True
+R0063,Next.js,exact,exact,True
+R0063,Node.js,fuzzy,fuzzy,True
+R0064,Pandas,exact,exact,True
+R0064,Statistics,exact,exact,True
+R0064,Machine Learning,exact,exact,True
+R0064,Scikit-learn,fuzzy,fuzzy,True
+R0064,Deep Learning,exact,exact,True
+R0064,Python,exact,exact,True
+R0064,PyTorch,fuzzy,fuzzy,True
+R0064,NumPy,exact,exact,True
+R0065,Linux,exact,exact,True
+R0065,Azure,exact,exact,True
+R0065,Ansible,exact,exact,True
+R0065,AWS,exact,exact,True
+R0065,Docker,contextual,contextual,True
+R0065,Kubernetes,fuzzy,fuzzy,True
+R0065,GCP,exact,exact,True
+R0065,Jenkins,exact,exact,True
+R0065,Terraform,exact,exact,True
+R0065,CI/CD,exact,exact,True
+R0065,Performance Management,exact,exact,True
+R0065,Payroll,exact,exact,True
+R0066,Ansible,exact,exact,True
+R0066,Linux,exact,exact,True
+R0066,AWS,exact,exact,True
+R0066,Terraform,exact,exact,True
+R0066,CI/CD,exact,exact,True
+R0066,GCP,exact,exact,True
+R0066,Azure,exact,exact,True
+R0066,Docker,exact,exact,True
+R0067,Data Visualization,contextual,contextual,True
+R0067,Statistics,exact,exact,True
+R0067,PyTorch,exact,exact,True
+R0067,Python,exact,exact,True
+R0067,Deep Learning,contextual,contextual,True
+R0067,SQL,fuzzy,exact,False
+R0067,Machine Learning,exact,exact,True
+R0068,CI/CD,exact,exact,True
+R0068,Kubernetes,contextual,contextual,True
+R0068,Docker,exact,exact,True
+R0068,Terraform,exact,exact,True
+R0068,Azure,exact,exact,True
+R0068,GCP,exact,exact,True
+R0068,Jenkins,exact,exact,True
+R0068,AWS,contextual,contextual,True
+R0068,Labor Law,exact,exact,True
+R0068,Onboarding,exact,exact,True
+R0069,SQL,exact,exact,True
+R0069,NumPy,exact,exact,True
+R0069,Statistics,exact,exact,True
+R0069,Deep Learning,contextual,contextual,True
+R0069,Natural Language Processing,exact,exact,True
+R0069,TensorFlow,exact,exact,True
+R0069,PyTorch,exact,exact,True
+R0069,Data Visualization,exact,exact,True
+R0069,Machine Learning,fuzzy,fuzzy,True
+R0069,Python,exact,exact,True
+R0070,Onboarding,exact,exact,True
+R0070,Labor Law,exact,exact,True
+R0070,Employee Relations,exact,exact,True
+R0070,Recruitment,contextual,contextual,True
+R0070,Payroll,contextual,contextual,True
+R0070,Performance Management,exact,exact,True
+R0070,Talent Acquisition,exact,exact,True
+R0070,HRIS,exact,exact,True
+R0071,Express.js,exact,exact,True
+R0071,CSS,exact,exact,True
+R0071,React,exact,exact,True
+R0071,Node.js,fuzzy,fuzzy,True
+R0071,MongoDB,exact,exact,True
+R0071,Next.js,exact,exact,True
+R0071,REST API,contextual,contextual,True
+R0071,JavaScript,exact,exact,True
+R0072,Python,exact,exact,True
+R0072,Statistics,exact,exact,True
+R0072,Data Visualization,exact,exact,True
+R0072,NumPy,exact,exact,True
+R0072,Pandas,exact,exact,True
+R0072,TensorFlow,exact,exact,True
+R0073,Deep Learning,contextual,contextual,True
+R0073,PyTorch,exact,exact,True
+R0073,TensorFlow,exact,exact,True
+R0073,Statistics,exact,exact,True
+R0073,SQL,exact,exact,True
+R0073,Machine Learning,exact,exact,True
+R0074,React,fuzzy,fuzzy,True
+R0074,CSS,exact,exact,True
+R0074,MongoDB,exact,exact,True
+R0074,Next.js,exact,exact,True
+R0074,REST API,exact,exact,True
+R0074,JavaScript,exact,exact,True
+R0074,Express.js,exact,exact,True
+R0074,TypeScript,exact,exact,True
+R0074,Node.js,exact,exact,True
+R0075,Next.js,exact,exact,True
+R0075,TypeScript,exact,exact,True
+R0075,JavaScript,fuzzy,exact,False
+R0075,MongoDB,exact,exact,True
+R0075,Node.js,exact,exact,True
+R0075,HTML,exact,exact,True
+R0075,CSS,exact,exact,True
+R0075,Machine Learning,exact,exact,True
+R0075,TensorFlow,exact,exact,True
+R0076,Excel,exact,exact,True
+R0076,Accounting,exact,exact,True
+R0076,Financial Analysis,exact,exact,True
+R0076,SAP,exact,exact,True
+R0076,QuickBooks,exact,exact,True
+R0076,Forecasting,exact,exact,True
+R0076,Budgeting,exact,exact,True
+R0076,Financial Modeling,exact,exact,True
+R0076,Risk Management,contextual,contextual,True
+R0076,Auditing,exact,exact,True
+R0077,QuickBooks,exact,exact,True
+R0077,Financial Analysis,exact,exact,True
+R0077,Auditing,exact,exact,True
+R0077,Forecasting,exact,exact,True
+R0077,Budgeting,exact,exact,True
+R0077,Accounting,exact,exact,True
+R0077,SAP,fuzzy,fuzzy,True
+R0077,Financial Modeling,contextual,contextual,True
+R0078,Accounting,exact,exact,True
+R0078,QuickBooks,exact,exact,True
+R0078,Risk Management,exact,exact,True
+R0078,Excel,exact,exact,True
+R0078,Forecasting,exact,exact,True
+R0078,Auditing,exact,exact,True
+R0078,Financial Modeling,exact,exact,True
+R0078,Financial Analysis,exact,exact,True
+R0078,SAP,exact,exact,True
+R0078,Talent Acquisition,exact,exact,True
+R0078,Payroll,exact,exact,True
+R0079,Express.js,exact,exact,True
+R0079,TypeScript,exact,exact,True
+R0079,Next.js,exact,exact,True
+R0079,MongoDB,exact,exact,True
+R0079,REST API,fuzzy,fuzzy,True
+R0079,Node.js,exact,exact,True
+R0079,HTML,exact,exact,True
+R0079,JavaScript,exact,exact,True
+R0079,CSS,exact,exact,True
+R0079,Payroll,exact,exact,True
+R0079,Employee Relations,exact,exact,True
+R0080,JavaScript,exact,exact,True
+R0080,CSS,exact,exact,True
+R0080,React,exact,exact,True
+R0080,Node.js,fuzzy,fuzzy,True
+R0080,HTML,exact,exact,True
+R0080,REST API,exact,exact,True
+R0080,TypeScript,exact,exact,True
+R0080,Next.js,exact,exact,True
+R0080,HRIS,exact,exact,True
+R0080,Onboarding,exact,exact,True
+R0081,MongoDB,fuzzy,fuzzy,True
+R0081,Next.js,exact,exact,True
+R0081,HTML,exact,exact,True
+R0081,REST API,contextual,contextual,True
+R0081,Node.js,exact,exact,True
+R0081,TypeScript,exact,exact,True
+R0081,CSS,exact,exact,True
+R0081,Express.js,exact,exact,True
+R0081,JavaScript,exact,exact,True
+R0082,Docker,exact,exact,True
+R0082,Jenkins,exact,exact,True
+R0082,Kubernetes,exact,exact,True
+R0082,AWS,fuzzy,fuzzy,True
+R0082,Linux,exact,exact,True
+R0082,CI/CD,exact,exact,True
+R0083,GCP,exact,exact,True
+R0083,CI/CD,exact,exact,True
+R0083,AWS,exact,exact,True
+R0083,Jenkins,exact,exact,True
+R0083,Terraform,exact,exact,True
+R0083,Azure,exact,exact,True
+R0083,Linux,exact,exact,True
+R0083,Ansible,exact,exact,True
+R0084,Statistics,exact,exact,True
+R0084,Scikit-learn,exact,exact,True
+R0084,Pandas,exact,exact,True
+R0084,Python,exact,exact,True
+R0084,Machine Learning,exact,exact,True
+R0084,Data Visualization,exact,exact,True
+R0084,Deep Learning,contextual,contextual,True
+R0084,PyTorch,fuzzy,exact,False
+R0085,QuickBooks,exact,exact,True
+R0085,SAP,exact,exact,True
+R0085,Financial Analysis,exact,exact,True
+R0085,Forecasting,exact,exact,True
+R0085,Budgeting,exact,exact,True
+R0085,Financial Modeling,contextual,contextual,True
+R0085,Auditing,exact,exact,True
+R0085,Accounting,exact,exact,True
+R0085,Excel,exact,exact,True
+R0085,Python,exact,exact,True
+R0085,SQL,exact,exact,True
+R0086,Recruitment,contextual,contextual,True
+R0086,HRIS,exact,exact,True
+R0086,Payroll,exact,exact,True
+R0086,Employee Relations,exact,exact,True
+R0086,Labor Law,exact,exact,True
+R0086,Onboarding,exact,exact,True
+R0086,Performance Management,exact,exact,True
+R0086,Talent Acquisition,exact,exact,True
+R0087,TypeScript,exact,exact,True
+R0087,REST API,fuzzy,fuzzy,True
+R0087,MongoDB,exact,exact,True
+R0087,Express.js,exact,exact,True
+R0087,HTML,exact,exact,True
+R0087,Next.js,exact,exact,True
+R0087,JavaScript,fuzzy,fuzzy,True
+R0087,Node.js,exact,exact,True
+R0087,CSS,exact,exact,True
+R0088,TypeScript,exact,exact,True
+R0088,Node.js,exact,exact,True
+R0088,CSS,exact,exact,True
+R0088,React,fuzzy,fuzzy,True
+R0088,Next.js,exact,exact,True
+R0088,JavaScript,exact,exact,True
+R0088,MongoDB,exact,exact,True
+R0088,Express.js,exact,exact,True
+R0088,REST API,fuzzy,fuzzy,True
+R0089,CSS,exact,exact,True
+R0089,HTML,exact,exact,True
+R0089,TypeScript,exact,exact,True
+R0089,Next.js,exact,exact,True
+R0089,REST API,contextual,contextual,True
+R0089,Node.js,contextual,contextual,True
+R0089,React,fuzzy,fuzzy,True
+R0089,Express.js,exact,exact,True
+R0089,JavaScript,exact,exact,True
+R0089,MongoDB,exact,exact,True
+R0090,Labor Law,exact,exact,True
+R0090,Onboarding,exact,exact,True
+R0090,Performance Management,exact,exact,True
+R0090,Employee Relations,exact,exact,True
+R0090,Talent Acquisition,exact,exact,True
+R0090,Payroll,exact,exact,True
+R0090,Recruitment,contextual,contextual,True
+R0091,CSS,exact,exact,True
+R0091,REST API,exact,exact,True
+R0091,JavaScript,exact,exact,True
+R0091,Express.js,exact,exact,True
+R0091,MongoDB,exact,exact,True
+R0091,React,contextual,contextual,True
+R0092,Pandas,exact,exact,True
+R0092,Data Visualization,exact,exact,True
+R0092,Natural Language Processing,exact,exact,True
+R0092,TensorFlow,exact,exact,True
+R0092,Statistics,exact,exact,True
+R0092,NumPy,exact,exact,True
+R0092,Deep Learning,contextual,contextual,True
+R0092,Scikit-learn,exact,exact,True
+R0092,PyTorch,exact,exact,True
+R0093,Accounting,exact,exact,True
+R0093,Financial Modeling,contextual,contextual,True
+R0093,Budgeting,exact,exact,True
+R0093,Auditing,exact,exact,True
+R0093,Risk Management,contextual,contextual,True
+R0093,Forecasting,exact,exact,True
+R0093,SAP,exact,exact,True
+R0093,TypeScript,exact,exact,True
+R0093,HTML,exact,exact,True
+R0094,Express.js,exact,exact,True
+R0094,MongoDB,exact,exact,True
+R0094,Node.js,fuzzy,fuzzy,True
+R0094,CSS,exact,exact,True
+R0094,TypeScript,exact,exact,True
+R0094,JavaScript,exact,exact,True
+R0094,REST API,fuzzy,fuzzy,True
+R0095,Recruitment,exact,exact,True
+R0095,Labor Law,exact,exact,True
+R0095,HRIS,exact,exact,True
+R0095,Talent Acquisition,exact,exact,True
+R0095,Payroll,exact,exact,True
+R0095,Performance Management,exact,exact,True
+R0095,Employee Relations,exact,exact,True
+R0095,Onboarding,exact,exact,True
+R0096,Linux,exact,exact,True
+R0096,Kubernetes,exact,exact,True
+R0096,Terraform,exact,exact,True
+R0096,CI/CD,fuzzy,fuzzy,True
+R0096,GCP,exact,exact,True
+R0096,Jenkins,exact,exact,True
+R0096,Azure,exact,exact,True
+R0096,AWS,fuzzy,fuzzy,True
+R0096,Statistics,exact,exact,True
+R0096,Natural Language Processing,exact,exact,True
+R0097,Next.js,exact,exact,True
+R0097,MongoDB,fuzzy,exact,False
+R0097,CSS,exact,exact,True
+R0097,JavaScript,exact,exact,True
+R0097,REST API,exact,exact,True
+R0097,Node.js,fuzzy,fuzzy,True
+R0097,TypeScript,fuzzy,fuzzy,True
+R0097,Recruitment,exact,exact,True
+R0097,Onboarding,exact,exact,True
+R0098,Data Visualization,contextual,contextual,True
+R0098,Natural Language Processing,exact,exact,True
+R0098,Statistics,exact,exact,True
+R0098,TensorFlow,fuzzy,fuzzy,True
+R0098,Scikit-learn,fuzzy,fuzzy,True
+R0098,Python,fuzzy,exact,False
+R0098,PyTorch,exact,exact,True
+R0098,Deep Learning,exact,exact,True
+R0099,Performance Management,exact,exact,True
+R0099,Employee Relations,exact,exact,True
+R0099,Labor Law,exact,exact,True
+R0099,Recruitment,exact,exact,True
+R0099,HRIS,exact,exact,True
+R0099,Payroll,exact,exact,True
+R0099,Onboarding,exact,exact,True
+R0100,Risk Management,exact,exact,True
+R0100,Financial Modeling,exact,exact,True
+R0100,Budgeting,exact,exact,True
+R0100,SAP,exact,exact,True
+R0100,Financial Analysis,exact,exact,True
+R0100,QuickBooks,exact,exact,True
+R0100,Excel,exact,exact,True
+R0100,Accounting,exact,exact,True
+R0101,Next.js,exact,exact,True
+R0101,HTML,exact,exact,True
+R0101,MongoDB,exact,exact,True
+R0101,JavaScript,exact,exact,True
+R0101,React,exact,exact,True
+R0101,Node.js,contextual,contextual,True
+R0101,REST API,exact,exact,True
+R0101,TypeScript,exact,exact,True
+R0101,CSS,exact,exact,True
+R0102,Ansible,exact,exact,True
+R0102,CI/CD,exact,exact,True
+R0102,Terraform,exact,exact,True
+R0102,Azure,exact,exact,True
+R0102,AWS,exact,exact,True
+R0102,Linux,exact,exact,True
+R0102,GCP,exact,exact,True
+R0102,Docker,fuzzy,exact,False
+R0103,HRIS,exact,exact,True
+R0103,Onboarding,exact,exact,True
+R0103,Employee Relations,exact,exact,True
+R0103,Performance Management,exact,exact,True
+R0103,Payroll,contextual,contextual,True
+R0103,Labor Law,exact,exact,True
+R0103,Recruitment,contextual,contextual,True
+R0104,Excel,exact,exact,True
+R0104,Financial Analysis,exact,exact,True
+R0104,SAP,exact,exact,True
+R0104,Forecasting,exact,exact,True
+R0104,Risk Management,contextual,contextual,True
+R0104,Accounting,exact,exact,True
+R0104,QuickBooks,exact,exact,True
+R0104,Budgeting,exact,exact,True
+R0104,Financial Modeling,contextual,contextual,True
+R0104,Auditing,exact,exact,True
+R0105,Ansible,exact,exact,True
+R0105,Kubernetes,exact,exact,True
+R0105,Jenkins,exact,exact,True
+R0105,CI/CD,exact,exact,True
+R0105,Docker,exact,exact,True
+R0105,Terraform,exact,exact,True
+R0106,Jenkins,exact,exact,True
+R0106,Docker,exact,exact,True
+R0106,Kubernetes,exact,exact,True
+R0106,Azure,exact,exact,True
+R0106,AWS,fuzzy,fuzzy,True
+R0106,Linux,exact,exact,True
+R0107,Recruitment,exact,exact,True
+R0107,Talent Acquisition,exact,exact,True
+R0107,HRIS,exact,exact,True
+R0107,Onboarding,exact,exact,True
+R0107,Payroll,contextual,contextual,True
+R0107,Employee Relations,exact,exact,True
+R0107,Performance Management,exact,exact,True
+R0107,Labor Law,exact,exact,True
+R0107,HTML,exact,exact,True
+R0107,CSS,exact,exact,True
+R0108,Ansible,exact,exact,True
+R0108,AWS,fuzzy,fuzzy,True
+R0108,Jenkins,exact,exact,True
+R0108,GCP,exact,exact,True
+R0108,Linux,exact,exact,True
+R0108,Docker,fuzzy,fuzzy,True
+R0108,Kubernetes,fuzzy,fuzzy,True
+R0108,CI/CD,exact,exact,True
+R0108,Onboarding,exact,exact,True
+R0108,Labor Law,exact,exact,True
+R0109,Forecasting,exact,exact,True
+R0109,Financial Modeling,contextual,contextual,True
+R0109,Auditing,exact,exact,True
+R0109,Excel,exact,exact,True
+R0109,Risk Management,exact,exact,True
+R0109,SAP,fuzzy,exact,False
+R0110,Pandas,exact,exact,True
+R0110,SQL,exact,exact,True
+R0110,NumPy,exact,exact,True
+R0110,Deep Learning,exact,exact,True
+R0110,PyTorch,fuzzy,fuzzy,True
+R0110,Data Visualization,contextual,contextual,True
+R0110,Scikit-learn,exact,exact,True
+R0110,Natural Language Processing,exact,exact,True
+R0111,JavaScript,fuzzy,fuzzy,True
+R0111,MongoDB,exact,exact,True
+R0111,CSS,exact,exact,True
+R0111,Node.js,exact,exact,True
+R0111,Next.js,exact,exact,True
+R0111,HTML,exact,exact,True
+R0111,TypeScript,exact,exact,True
+R0111,Express.js,exact,exact,True
+R0111,Performance Management,exact,exact,True
+R0111,Onboarding,exact,exact,True
+R0112,TensorFlow,exact,exact,True
+R0112,Python,fuzzy,exact,False
+R0112,NumPy,exact,exact,True
+R0112,Deep Learning,exact,exact,True
+R0112,SQL,fuzzy,exact,False
+R0112,Machine Learning,exact,exact,True
+R0112,Natural Language Processing,exact,exact,True
+R0113,Ansible,exact,exact,True
+R0113,Terraform,exact,exact,True
+R0113,Docker,exact,exact,True
+R0113,Linux,exact,exact,True
+R0113,Azure,exact,exact,True
+R0113,GCP,exact,exact,True
+R0113,CI/CD,contextual,contextual,True
+R0113,AWS,fuzzy,fuzzy,True
+R0113,Kubernetes,exact,exact,True
+R0114,Onboarding,exact,exact,True
+R0114,Performance Management,exact,exact,True
+R0114,Labor Law,exact,exact,True
+R0114,Payroll,exact,exact,True
+R0114,HRIS,exact,exact,True
+R0114,Recruitment,exact,exact,True
+R0115,REST API,fuzzy,fuzzy,True
+R0115,CSS,exact,exact,True
+R0115,HTML,exact,exact,True
+R0115,MongoDB,fuzzy,fuzzy,True
+R0115,TypeScript,exact,exact,True
+R0115,JavaScript,exact,exact,True
+R0116,React,exact,exact,True
+R0116,HTML,exact,exact,True
+R0116,REST API,exact,exact,True
+R0116,JavaScript,fuzzy,fuzzy,True
+R0116,TypeScript,exact,exact,True
+R0116,MongoDB,exact,exact,True
+R0116,CSS,exact,exact,True
+R0116,Next.js,exact,exact,True
+R0116,Node.js,fuzzy,fuzzy,True
+R0117,React,fuzzy,fuzzy,True
+R0117,Node.js,fuzzy,fuzzy,True
+R0117,Next.js,exact,exact,True
+R0117,CSS,exact,exact,True
+R0117,TypeScript,exact,exact,True
+R0117,HTML,exact,exact,True
+R0118,Azure,exact,exact,True
+R0118,GCP,exact,exact,True
+R0118,CI/CD,exact,exact,True
+R0118,Terraform,exact,exact,True
+R0118,Ansible,exact,exact,True
+R0118,AWS,exact,exact,True
+R0118,Docker,exact,exact,True
+R0119,Performance Management,exact,exact,True
+R0119,Employee Relations,exact,exact,True
+R0119,HRIS,exact,exact,True
+R0119,Onboarding,exact,exact,True
+R0119,Payroll,contextual,contextual,True
+R0119,Recruitment,exact,exact,True
+R0119,Labor Law,exact,exact,True
+R0119,Talent Acquisition,exact,exact,True
+R0119,JavaScript,exact,exact,True
+R0119,Next.js,exact,exact,True
+R0120,TypeScript,exact,exact,True
+R0120,REST API,fuzzy,fuzzy,True
+R0120,React,exact,exact,True
+R0120,Node.js,exact,exact,True
+R0120,Next.js,exact,exact,True
+R0120,HTML,exact,exact,True
+R0120,MongoDB,exact,exact,True
+R0120,JavaScript,exact,exact,True
+R0120,Express.js,exact,exact,True
+R0120,CSS,exact,exact,True
+R0121,Terraform,exact,exact,True
+R0121,AWS,exact,exact,True
+R0121,Jenkins,exact,exact,True
+R0121,GCP,exact,exact,True
+R0121,Docker,exact,exact,True
+R0121,Linux,exact,exact,True
+R0121,Azure,exact,exact,True
+R0122,SAP,fuzzy,fuzzy,True
+R0122,QuickBooks,exact,exact,True
+R0122,Financial Modeling,exact,exact,True
+R0122,Auditing,exact,exact,True
+R0122,Risk Management,exact,exact,True
+R0122,Excel,exact,exact,True
+R0122,Linux,exact,exact,True
+R0122,AWS,exact,exact,True
+R0123,Pandas,exact,exact,True
+R0123,SQL,exact,exact,True
+R0123,Python,fuzzy,fuzzy,True
+R0123,TensorFlow,fuzzy,fuzzy,True
+R0123,Machine Learning,exact,exact,True
+R0123,Natural Language Processing,exact,exact,True
+R0123,Deep Learning,exact,exact,True
+R0124,HTML,exact,exact,True
+R0124,Node.js,contextual,contextual,True
+R0124,JavaScript,exact,exact,True
+R0124,Next.js,exact,exact,True
+R0124,MongoDB,exact,exact,True
+R0124,React,exact,exact,True
+R0124,Express.js,exact,exact,True
+R0124,REST API,exact,exact,True
+R0124,TypeScript,exact,exact,True
+R0124,CSS,exact,exact,True
+R0124,Budgeting,exact,exact,True
+R0124,Excel,fuzzy,exact,False
+R0125,Recruitment,contextual,contextual,True
+R0125,Payroll,exact,exact,True
+R0125,Talent Acquisition,exact,exact,True
+R0125,Onboarding,exact,exact,True
+R0125,HRIS,exact,exact,True
+R0125,Performance Management,exact,exact,True
+R0125,Linux,exact,exact,True
+R0125,Terraform,exact,exact,True
+R0126,Ansible,exact,exact,True
+R0126,Jenkins,exact,exact,True
+R0126,GCP,exact,exact,True
+R0126,AWS,exact,exact,True
+R0126,Docker,exact,exact,True
+R0126,Terraform,exact,exact,True
+R0126,Kubernetes,contextual,contextual,True
+R0127,REST API,exact,exact,True
+R0127,MongoDB,exact,exact,True
+R0127,HTML,exact,exact,True
+R0127,JavaScript,fuzzy,fuzzy,True
+R0127,Express.js,exact,exact,True
+R0127,Next.js,exact,exact,True
+R0128,Machine Learning,exact,exact,True
+R0128,Pandas,exact,exact,True
+R0128,PyTorch,exact,exact,True
+R0128,Deep Learning,exact,exact,True
+R0128,Natural Language Processing,exact,exact,True
+R0128,TensorFlow,fuzzy,fuzzy,True
+R0129,AWS,exact,exact,True
+R0129,Jenkins,exact,exact,True
+R0129,Azure,exact,exact,True
+R0129,CI/CD,fuzzy,fuzzy,True
+R0129,Kubernetes,fuzzy,exact,False
+R0129,Docker,fuzzy,exact,False
+R0129,Terraform,exact,exact,True
+R0130,Azure,exact,exact,True
+R0130,Ansible,exact,exact,True
+R0130,Terraform,exact,exact,True
+R0130,Jenkins,exact,exact,True
+R0130,Linux,exact,exact,True
+R0130,AWS,contextual,contextual,True
+R0130,CI/CD,exact,exact,True
+R0130,Kubernetes,contextual,contextual,True
+R0130,Docker,exact,exact,True
+R0130,JavaScript,exact,exact,True
+R0130,CSS,exact,exact,True
+R0131,AWS,contextual,contextual,True
+R0131,CI/CD,contextual,contextual,True
+R0131,Terraform,exact,exact,True
+R0131,Linux,exact,exact,True
+R0131,Ansible,exact,exact,True
+R0131,GCP,exact,exact,True
+R0131,Docker,exact,exact,True
+R0132,Financial Modeling,exact,exact,True
+R0132,QuickBooks,exact,exact,True
+R0132,Auditing,exact,exact,True
+R0132,Financial Analysis,exact,exact,True
+R0132,Accounting,exact,exact,True
+R0132,Budgeting,exact,exact,True
+R0132,Excel,exact,exact,True
+R0133,Onboarding,exact,exact,True
+R0133,Employee Relations,exact,exact,True
+R0133,Performance Management,exact,exact,True
+R0133,Talent Acquisition,exact,exact,True
+R0133,Labor Law,exact,exact,True
+R0133,Recruitment,exact,exact,True
+R0133,Payroll,contextual,contextual,True
+R0133,HRIS,exact,exact,True
+R0134,Financial Analysis,exact,exact,True
+R0134,Financial Modeling,exact,exact,True
+R0134,Accounting,exact,exact,True
+R0134,Budgeting,exact,exact,True
+R0134,Auditing,exact,exact,True
+R0134,Risk Management,contextual,contextual,True
+R0134,Excel,fuzzy,exact,False
+R0134,Forecasting,exact,exact,True
+R0134,QuickBooks,exact,exact,True
+R0135,TypeScript,exact,exact,True
+R0135,CSS,exact,exact,True
+R0135,React,exact,exact,True
+R0135,Next.js,exact,exact,True
+R0135,JavaScript,fuzzy,fuzzy,True
+R0135,REST API,fuzzy,fuzzy,True
+R0136,MongoDB,fuzzy,fuzzy,True
+R0136,React,exact,exact,True
+R0136,JavaScript,exact,exact,True
+R0136,Node.js,contextual,contextual,True
+R0136,Next.js,exact,exact,True
+R0136,REST API,exact,exact,True
+R0136,CSS,exact,exact,True
+R0137,Accounting,exact,exact,True
+R0137,Financial Modeling,contextual,contextual,True
+R0137,Excel,exact,exact,True
+R0137,Financial Analysis,exact,exact,True
+R0137,Auditing,exact,exact,True
+R0137,Forecasting,exact,exact,True
+R0137,SAP,fuzzy,exact,False
+R0137,Risk Management,exact,exact,True
+R0137,Budgeting,exact,exact,True
+R0138,React,exact,exact,True
+R0138,MongoDB,exact,exact,True
+R0138,Next.js,exact,exact,True
+R0138,Node.js,contextual,contextual,True
+R0138,HTML,exact,exact,True
+R0138,TypeScript,exact,exact,True
+R0138,CSS,exact,exact,True
+R0138,REST API,exact,exact,True
+R0138,Accounting,exact,exact,True
+R0138,Forecasting,exact,exact,True
+R0139,Payroll,contextual,contextual,True
+R0139,HRIS,exact,exact,True
+R0139,Recruitment,contextual,contextual,True
+R0139,Labor Law,exact,exact,True
+R0139,Performance Management,exact,exact,True
+R0139,Employee Relations,exact,exact,True
+R0139,Onboarding,exact,exact,True
+R0139,Talent Acquisition,exact,exact,True
+R0140,HTML,exact,exact,True
+R0140,Node.js,contextual,contextual,True
+R0140,JavaScript,exact,exact,True
+R0140,Next.js,exact,exact,True
+R0140,MongoDB,exact,exact,True
+R0140,REST API,exact,exact,True
+R0140,React,exact,exact,True
+R0141,Performance Management,exact,exact,True
+R0141,Recruitment,contextual,contextual,True
+R0141,Payroll,contextual,contextual,True
+R0141,Onboarding,exact,exact,True
+R0141,HRIS,exact,exact,True
+R0141,Employee Relations,exact,exact,True
+R0142,Auditing,exact,exact,True
+R0142,Financial Modeling,contextual,contextual,True
+R0142,Accounting,exact,exact,True
+R0142,Financial Analysis,exact,exact,True
+R0142,SAP,exact,exact,True
+R0142,Excel,fuzzy,exact,False
+R0142,Forecasting,exact,exact,True
+R0142,QuickBooks,exact,exact,True
+R0142,Budgeting,exact,exact,True
+R0142,Risk Management,contextual,contextual,True
+R0143,GCP,exact,exact,True
+R0143,Kubernetes,contextual,contextual,True
+R0143,CI/CD,contextual,contextual,True
+R0143,Ansible,exact,exact,True
+R0143,Azure,exact,exact,True
+R0143,Linux,exact,exact,True
+R0143,Jenkins,exact,exact,True
+R0143,AWS,exact,exact,True
+R0143,Terraform,exact,exact,True
+R0144,Jenkins,exact,exact,True
+R0144,Terraform,exact,exact,True
+R0144,Ansible,exact,exact,True
+R0144,GCP,exact,exact,True
+R0144,CI/CD,exact,exact,True
+R0144,Docker,exact,exact,True
+R0144,Linux,exact,exact,True
+R0144,Financial Analysis,exact,exact,True
+R0144,Auditing,exact,exact,True
+R0145,HTML,exact,exact,True
+R0145,Next.js,exact,exact,True
+R0145,CSS,exact,exact,True
+R0145,TypeScript,fuzzy,fuzzy,True
+R0145,Express.js,exact,exact,True
+R0145,MongoDB,fuzzy,exact,False
+R0145,JavaScript,exact,exact,True
+R0146,Labor Law,exact,exact,True
+R0146,Employee Relations,exact,exact,True
+R0146,Onboarding,exact,exact,True
+R0146,Payroll,exact,exact,True
+R0146,Performance Management,exact,exact,True
+R0146,HRIS,exact,exact,True
+R0146,Talent Acquisition,exact,exact,True
+R0146,Recruitment,exact,exact,True
+R0146,Azure,exact,exact,True
+R0146,Jenkins,exact,exact,True
+R0147,Forecasting,exact,exact,True
+R0147,Accounting,exact,exact,True
+R0147,Financial Modeling,contextual,contextual,True
+R0147,Financial Analysis,exact,exact,True
+R0147,SAP,exact,exact,True
+R0147,QuickBooks,exact,exact,True
+R0147,Budgeting,exact,exact,True
+R0147,Excel,exact,exact,True
+R0147,Risk Management,exact,exact,True
+R0148,Budgeting,exact,exact,True
+R0148,Excel,fuzzy,exact,False
+R0148,Auditing,exact,exact,True
+R0148,QuickBooks,exact,exact,True
+R0148,Forecasting,exact,exact,True
+R0148,Accounting,exact,exact,True
+R0148,Risk Management,exact,exact,True
+R0149,Python,exact,exact,True
+R0149,Statistics,exact,exact,True
+R0149,Data Visualization,contextual,contextual,True
+R0149,Machine Learning,contextual,contextual,True
+R0149,PyTorch,exact,exact,True
+R0149,SQL,contextual,contextual,True
+R0149,NumPy,exact,exact,True
+R0149,Natural Language Processing,exact,exact,True
+R0149,Pandas,exact,exact,True
+R0150,JavaScript,fuzzy,fuzzy,True
+R0150,Next.js,exact,exact,True
+R0150,MongoDB,exact,exact,True
+R0150,Node.js,exact,exact,True
+R0150,React,exact,exact,True
+R0150,TypeScript,fuzzy,exact,False
+R0150,CSS,exact,exact,True
+R0150,HTML,exact,exact,True
+R0151,Financial Modeling,contextual,contextual,True
+R0151,Financial Analysis,exact,exact,True
+R0151,SAP,exact,exact,True
+R0151,Excel,exact,exact,True
+R0151,Forecasting,exact,exact,True
+R0151,Accounting,exact,exact,True
+R0151,Budgeting,exact,exact,True
+R0151,HRIS,exact,exact,True
+R0151,Onboarding,exact,exact,True
+R0152,Payroll,contextual,contextual,True
+R0152,Onboarding,exact,exact,True
+R0152,Talent Acquisition,exact,exact,True
+R0152,Performance Management,exact,exact,True
+R0152,HRIS,exact,exact,True
+R0152,Employee Relations,exact,exact,True
+R0152,React,exact,exact,True
+R0152,TypeScript,exact,exact,True
+R0153,Onboarding,exact,exact,True
+R0153,HRIS,exact,exact,True
+R0153,Employee Relations,exact,exact,True
+R0153,Payroll,exact,exact,True
+R0153,Labor Law,exact,exact,True
+R0153,Recruitment,exact,exact,True
+R0153,Talent Acquisition,exact,exact,True
+R0153,Performance Management,exact,exact,True
+R0154,Budgeting,exact,exact,True
+R0154,QuickBooks,exact,exact,True
+R0154,SAP,exact,exact,True
+R0154,Accounting,exact,exact,True
+R0154,Forecasting,exact,exact,True
+R0154,Auditing,exact,exact,True
+R0154,Risk Management,contextual,contextual,True
+R0154,Payroll,exact,exact,True
+R0154,Talent Acquisition,exact,exact,True
+R0155,Ansible,exact,exact,True
+R0155,Jenkins,exact,exact,True
+R0155,Azure,exact,exact,True
+R0155,CI/CD,contextual,contextual,True
+R0155,Docker,exact,exact,True
+R0155,Terraform,exact,exact,True
+R0155,Kubernetes,fuzzy,fuzzy,True
+R0156,GCP,exact,exact,True
+R0156,Jenkins,exact,exact,True
+R0156,Kubernetes,exact,exact,True
+R0156,AWS,fuzzy,fuzzy,True
+R0156,Linux,exact,exact,True
+R0156,Ansible,exact,exact,True
+R0156,Docker,exact,exact,True
+R0156,Azure,exact,exact,True
+R0156,Terraform,exact,exact,True
+R0157,Accounting,exact,exact,True
+R0157,Risk Management,contextual,contextual,True
+R0157,Forecasting,exact,exact,True
+R0157,Budgeting,exact,exact,True
+R0157,Financial Modeling,contextual,contextual,True
+R0157,Excel,fuzzy,exact,False
+R0157,SAP,exact,exact,True
+R0157,QuickBooks,exact,exact,True
+R0157,Auditing,exact,exact,True
+R0158,Labor Law,exact,exact,True
+R0158,Employee Relations,exact,exact,True
+R0158,Talent Acquisition,exact,exact,True
+R0158,Payroll,exact,exact,True
+R0158,Onboarding,exact,exact,True
+R0158,Performance Management,exact,exact,True
+R0158,Recruitment,contextual,contextual,True
+R0158,Express.js,exact,exact,True
+R0158,MongoDB,exact,exact,True
+R0159,Excel,exact,exact,True
+R0159,Auditing,exact,exact,True
+R0159,QuickBooks,exact,exact,True
+R0159,Accounting,exact,exact,True
+R0159,Financial Modeling,contextual,contextual,True
+R0159,SAP,exact,exact,True
+R0159,Forecasting,exact,exact,True
+R0159,Budgeting,exact,exact,True
+R0159,Financial Analysis,exact,exact,True
+R0160,Labor Law,exact,exact,True
+R0160,Talent Acquisition,exact,exact,True
+R0160,Performance Management,exact,exact,True
+R0160,Employee Relations,exact,exact,True
+R0160,Payroll,exact,exact,True
+R0160,Recruitment,exact,exact,True
+R0160,HRIS,exact,exact,True
+R0160,Onboarding,exact,exact,True
+R0160,Jenkins,exact,exact,True
+R0160,Azure,exact,exact,True
+R0161,React,exact,exact,True
+R0161,REST API,exact,exact,True
+R0161,JavaScript,exact,exact,True
+R0161,TypeScript,exact,exact,True
+R0161,Express.js,exact,exact,True
+R0161,CSS,exact,exact,True
+R0161,MongoDB,exact,exact,True
+R0161,Next.js,exact,exact,True
+R0162,Accounting,exact,exact,True
+R0162,Excel,exact,exact,True
+R0162,Risk Management,contextual,contextual,True
+R0162,Forecasting,exact,exact,True
+R0162,Budgeting,exact,exact,True
+R0162,Auditing,exact,exact,True
+R0162,Financial Analysis,exact,exact,True
+R0163,QuickBooks,exact,exact,True
+R0163,Forecasting,exact,exact,True
+R0163,SAP,exact,exact,True
+R0163,Excel,exact,exact,True
+R0163,Risk Management,exact,exact,True
+R0163,Budgeting,exact,exact,True
+R0163,Accounting,exact,exact,True
+R0163,Auditing,exact,exact,True
+R0164,HRIS,exact,exact,True
+R0164,Performance Management,exact,exact,True
+R0164,Payroll,contextual,contextual,True
+R0164,Recruitment,exact,exact,True
+R0164,Labor Law,exact,exact,True
+R0164,Talent Acquisition,exact,exact,True
+R0164,Onboarding,exact,exact,True
+R0164,Employee Relations,exact,exact,True
+R0164,Pandas,exact,exact,True
+R0164,NumPy,exact,exact,True
+R0165,REST API,fuzzy,fuzzy,True
+R0165,HTML,exact,exact,True
+R0165,CSS,exact,exact,True
+R0165,TypeScript,fuzzy,fuzzy,True
+R0165,Next.js,exact,exact,True
+R0165,JavaScript,exact,exact,True
+R0165,Express.js,exact,exact,True
+R0165,React,fuzzy,fuzzy,True
+R0165,Node.js,exact,exact,True
+R0165,MongoDB,exact,exact,True
+R0166,Deep Learning,exact,exact,True
+R0166,SQL,fuzzy,exact,False
+R0166,Machine Learning,exact,exact,True
+R0166,TensorFlow,exact,exact,True
+R0166,Python,fuzzy,exact,False
+R0166,Pandas,exact,exact,True
+R0166,Natural Language Processing,exact,exact,True
+R0167,Talent Acquisition,exact,exact,True
+R0167,Recruitment,contextual,contextual,True
+R0167,Labor Law,exact,exact,True
+R0167,Employee Relations,exact,exact,True
+R0167,Onboarding,exact,exact,True
+R0167,Performance Management,exact,exact,True
+R0167,HRIS,exact,exact,True
+R0167,Payroll,contextual,contextual,True
+R0168,Statistics,exact,exact,True
+R0168,Scikit-learn,exact,exact,True
+R0168,PyTorch,exact,exact,True
+R0168,Pandas,exact,exact,True
+R0168,SQL,exact,exact,True
+R0168,Python,contextual,contextual,True
+R0169,Recruitment,exact,exact,True
+R0169,Employee Relations,exact,exact,True
+R0169,Talent Acquisition,exact,exact,True
+R0169,Onboarding,exact,exact,True
+R0169,Performance Management,exact,exact,True
+R0169,Payroll,contextual,contextual,True
+R0169,Labor Law,exact,exact,True
+R0169,HRIS,fuzzy,fuzzy,True
+R0169,Statistics,exact,exact,True
+R0169,Machine Learning,exact,exact,True
+R0170,Python,fuzzy,fuzzy,True
+R0170,Deep Learning,exact,exact,True
+R0170,NumPy,exact,exact,True
+R0170,SQL,exact,exact,True
+R0170,Machine Learning,exact,exact,True
+R0170,Data Visualization,contextual,contextual,True
+R0171,Python,exact,exact,True
+R0171,Machine Learning,exact,exact,True
+R0171,Scikit-learn,exact,exact,True
+R0171,SQL,exact,exact,True
+R0171,Statistics,exact,exact,True
+R0171,Deep Learning,exact,exact,True
+R0171,Data Visualization,contextual,contextual,True
+R0171,TensorFlow,exact,exact,True
+R0171,Natural Language Processing,exact,exact,True
+R0171,PyTorch,exact,exact,True
+R0172,Azure,exact,exact,True
+R0172,GCP,exact,exact,True
+R0172,AWS,fuzzy,fuzzy,True
+R0172,Docker,exact,exact,True
+R0172,Linux,exact,exact,True
+R0172,Terraform,exact,exact,True
+R0173,HTML,exact,exact,True
+R0173,CSS,exact,exact,True
+R0173,Next.js,exact,exact,True
+R0173,JavaScript,exact,exact,True
+R0173,React,fuzzy,exact,False
+R0173,Express.js,exact,exact,True
+R0173,REST API,fuzzy,fuzzy,True
+R0174,Data Visualization,exact,exact,True
+R0174,Machine Learning,exact,exact,True
+R0174,Pandas,exact,exact,True
+R0174,Scikit-learn,exact,exact,True
+R0174,PyTorch,exact,exact,True
+R0174,Natural Language Processing,exact,exact,True
+R0174,Deep Learning,contextual,contextual,True
+R0174,NumPy,exact,exact,True
+R0175,Terraform,exact,exact,True
+R0175,Ansible,exact,exact,True
+R0175,Azure,exact,exact,True
+R0175,CI/CD,fuzzy,fuzzy,True
+R0175,AWS,contextual,contextual,True
+R0175,GCP,exact,exact,True
+R0175,Linux,exact,exact,True
+R0176,Risk Management,exact,exact,True
+R0176,SAP,exact,exact,True
+R0176,Financial Modeling,exact,exact,True
+R0176,Budgeting,exact,exact,True
+R0176,Accounting,exact,exact,True
+R0176,Financial Analysis,exact,exact,True
+R0176,QuickBooks,exact,exact,True
+R0176,Forecasting,exact,exact,True
+R0176,Auditing,exact,exact,True
+R0176,Excel,exact,exact,True
+R0177,Employee Relations,exact,exact,True
+R0177,HRIS,exact,exact,True
+R0177,Performance Management,exact,exact,True
+R0177,Onboarding,exact,exact,True
+R0177,Payroll,exact,exact,True
+R0177,Talent Acquisition,exact,exact,True
+R0177,Recruitment,contextual,contextual,True
+R0177,SAP,exact,exact,True
+R0177,Excel,fuzzy,exact,False
+R0178,Azure,exact,exact,True
+R0178,AWS,exact,exact,True
+R0178,Linux,exact,exact,True
+R0178,Terraform,exact,exact,True
+R0178,CI/CD,exact,exact,True
+R0178,GCP,exact,exact,True
+R0178,Docker,exact,exact,True
+R0178,Jenkins,exact,exact,True
+R0178,Kubernetes,exact,exact,True
+R0178,Ansible,exact,exact,True
+R0179,Kubernetes,exact,exact,True
+R0179,CI/CD,exact,exact,True
+R0179,Linux,exact,exact,True
+R0179,Ansible,exact,exact,True
+R0179,AWS,exact,exact,True
+R0179,Docker,contextual,contextual,True
+R0179,Azure,exact,exact,True
+R0179,Terraform,exact,exact,True
+R0179,GCP,exact,exact,True
+R0179,Jenkins,exact,exact,True
+R0179,REST API,contextual,contextual,True
+R0179,JavaScript,fuzzy,fuzzy,True
+R0180,PyTorch,exact,exact,True
+R0180,Data Visualization,exact,exact,True
+R0180,Natural Language Processing,exact,exact,True
+R0180,Statistics,exact,exact,True
+R0180,Deep Learning,contextual,contextual,True
+R0180,Machine Learning,exact,exact,True
+R0180,Pandas,exact,exact,True
+R0181,JavaScript,exact,exact,True
+R0181,HTML,exact,exact,True
+R0181,REST API,fuzzy,fuzzy,True
+R0181,MongoDB,exact,exact,True
+R0181,React,fuzzy,fuzzy,True
+R0181,CSS,exact,exact,True
+R0181,Financial Analysis,exact,exact,True
+R0181,Financial Modeling,contextual,contextual,True
+R0182,SAP,exact,exact,True
+R0182,Auditing,exact,exact,True
+R0182,Risk Management,exact,exact,True
+R0182,Accounting,exact,exact,True
+R0182,Budgeting,exact,exact,True
+R0182,Forecasting,exact,exact,True
+R0182,Financial Modeling,exact,exact,True
+R0182,Excel,exact,exact,True
+R0182,Financial Analysis,exact,exact,True
+R0182,React,exact,exact,True
+R0182,CSS,exact,exact,True
+R0183,Budgeting,exact,exact,True
+R0183,QuickBooks,exact,exact,True
+R0183,Risk Management,exact,exact,True
+R0183,Financial Analysis,exact,exact,True
+R0183,Accounting,exact,exact,True
+R0183,Auditing,exact,exact,True
+R0183,Forecasting,exact,exact,True
+R0183,SAP,exact,exact,True
+R0184,PyTorch,exact,exact,True
+R0184,Deep Learning,exact,exact,True
+R0184,Machine Learning,exact,exact,True
+R0184,Pandas,exact,exact,True
+R0184,TensorFlow,exact,exact,True
+R0184,Natural Language Processing,exact,exact,True
+R0184,Statistics,exact,exact,True
+R0185,Python,exact,exact,True
+R0185,TensorFlow,fuzzy,exact,False
+R0185,Statistics,exact,exact,True
+R0185,SQL,exact,exact,True
+R0185,NumPy,exact,exact,True
+R0185,Scikit-learn,exact,exact,True
+R0185,PyTorch,exact,exact,True
+R0185,Natural Language Processing,exact,exact,True
+R0185,Machine Learning,exact,exact,True
+R0185,Deep Learning,contextual,contextual,True
+R0186,Performance Management,exact,exact,True
+R0186,Payroll,exact,exact,True
+R0186,HRIS,fuzzy,fuzzy,True
+R0186,Onboarding,exact,exact,True
+R0186,Recruitment,exact,exact,True
+R0186,Employee Relations,exact,exact,True
+R0186,Labor Law,exact,exact,True
+R0186,Talent Acquisition,exact,exact,True
+R0187,QuickBooks,exact,exact,True
+R0187,Budgeting,exact,exact,True
+R0187,Forecasting,exact,exact,True
+R0187,Financial Modeling,contextual,contextual,True
+R0187,Financial Analysis,exact,exact,True
+R0187,Accounting,exact,exact,True
+R0188,Recruitment,contextual,contextual,True
+R0188,Payroll,exact,exact,True
+R0188,Labor Law,exact,exact,True
+R0188,Employee Relations,exact,exact,True
+R0188,Talent Acquisition,exact,exact,True
+R0188,Onboarding,exact,exact,True
+R0188,Performance Management,exact,exact,True
+R0188,HRIS,exact,exact,True
+R0189,CI/CD,exact,exact,True
+R0189,Jenkins,exact,exact,True
+R0189,AWS,contextual,contextual,True
+R0189,Terraform,exact,exact,True
+R0189,Linux,exact,exact,True
+R0189,Kubernetes,fuzzy,exact,False
+R0189,GCP,exact,exact,True
+R0189,Ansible,exact,exact,True
+R0189,CSS,exact,exact,True
+R0189,HTML,exact,exact,True
+R0190,Auditing,exact,exact,True
+R0190,Accounting,exact,exact,True
+R0190,Budgeting,exact,exact,True
+R0190,SAP,exact,exact,True
+R0190,Excel,exact,exact,True
+R0190,Financial Analysis,exact,exact,True
+R0190,Forecasting,exact,exact,True
+R0190,Financial Modeling,exact,exact,True
+R0191,Next.js,exact,exact,True
+R0191,React,fuzzy,exact,False
+R0191,TypeScript,exact,exact,True
+R0191,Node.js,exact,exact,True
+R0191,CSS,exact,exact,True
+R0191,REST API,exact,exact,True
+R0191,Express.js,exact,exact,True
+R0191,MongoDB,exact,exact,True
+R0191,HTML,exact,exact,True
+R0191,Financial Analysis,exact,exact,True
+R0191,Forecasting,exact,exact,True
+R0192,Payroll,contextual,contextual,True
+R0192,Onboarding,exact,exact,True
+R0192,Talent Acquisition,exact,exact,True
+R0192,Performance Management,exact,exact,True
+R0192,Labor Law,exact,exact,True
+R0192,Recruitment,contextual,contextual,True
+R0192,Employee Relations,exact,exact,True
+R0192,HRIS,exact,exact,True
+R0193,Labor Law,exact,exact,True
+R0193,Talent Acquisition,exact,exact,True
+R0193,Employee Relations,exact,exact,True
+R0193,Performance Management,exact,exact,True
+R0193,HRIS,fuzzy,fuzzy,True
+R0193,Onboarding,exact,exact,True
+R0194,Terraform,exact,exact,True
+R0194,Azure,exact,exact,True
+R0194,Ansible,exact,exact,True
+R0194,Linux,exact,exact,True
+R0194,GCP,exact,exact,True
+R0194,CI/CD,exact,exact,True
+R0194,Docker,exact,exact,True
+R0194,Kubernetes,fuzzy,exact,False
+R0195,Linux,exact,exact,True
+R0195,Jenkins,exact,exact,True
+R0195,Ansible,exact,exact,True
+R0195,GCP,exact,exact,True
+R0195,AWS,exact,exact,True
+R0195,Azure,exact,exact,True
+R0195,CI/CD,fuzzy,fuzzy,True
+R0195,Kubernetes,exact,exact,True
+R0195,Docker,fuzzy,fuzzy,True
+R0195,Terraform,exact,exact,True
+R0196,Payroll,contextual,contextual,True
+R0196,Onboarding,exact,exact,True
+R0196,Talent Acquisition,exact,exact,True
+R0196,Employee Relations,exact,exact,True
+R0196,Labor Law,exact,exact,True
+R0196,HRIS,exact,exact,True
+R0196,Recruitment,exact,exact,True
+R0196,Performance Management,exact,exact,True
+R0197,Financial Analysis,exact,exact,True
+R0197,Auditing,exact,exact,True
+R0197,Risk Management,exact,exact,True
+R0197,Budgeting,exact,exact,True
+R0197,Forecasting,exact,exact,True
+R0197,QuickBooks,exact,exact,True
+R0197,Accounting,exact,exact,True
+R0198,Azure,exact,exact,True
+R0198,Docker,fuzzy,exact,False
+R0198,Ansible,exact,exact,True
+R0198,Linux,exact,exact,True
+R0198,CI/CD,fuzzy,fuzzy,True
+R0198,AWS,exact,exact,True
+R0198,GCP,exact,exact,True
+R0198,Kubernetes,fuzzy,exact,False
+R0198,Jenkins,exact,exact,True
+R0199,Budgeting,exact,exact,True
+R0199,QuickBooks,exact,exact,True
+R0199,Financial Analysis,exact,exact,True
+R0199,SAP,exact,exact,True
+R0199,Excel,exact,exact,True
+R0199,Financial Modeling,exact,exact,True
+R0199,Forecasting,exact,exact,True
+R0199,Auditing,exact,exact,True
+R0199,Labor Law,exact,exact,True
+R0199,Employee Relations,exact,exact,True
+R0200,Talent Acquisition,exact,exact,True
+R0200,Payroll,exact,exact,True
+R0200,Employee Relations,exact,exact,True
+R0200,Performance Management,exact,exact,True
+R0200,Labor Law,exact,exact,True
+R0200,Onboarding,exact,exact,True
+R0200,Recruitment,exact,exact,True
+R0201,MongoDB,exact,exact,True
+R0201,HTML,exact,exact,True
+R0201,JavaScript,exact,exact,True
+R0201,React,exact,exact,True
+R0201,Express.js,exact,exact,True
+R0201,Next.js,exact,exact,True
+R0201,REST API,contextual,contextual,True
+R0201,TypeScript,exact,exact,True
+R0201,Node.js,exact,exact,True
+R0202,Statistics,exact,exact,True
+R0202,TensorFlow,exact,exact,True
+R0202,Scikit-learn,fuzzy,fuzzy,True
+R0202,Python,fuzzy,fuzzy,True
+R0202,Deep Learning,exact,exact,True
+R0202,Natural Language Processing,exact,exact,True
+R0202,PyTorch,fuzzy,fuzzy,True
+R0203,Statistics,exact,exact,True
+R0203,Deep Learning,exact,exact,True
+R0203,SQL,fuzzy,exact,False
+R0203,Machine Learning,contextual,contextual,True
+R0203,Natural Language Processing,exact,exact,True
+R0203,Pandas,exact,exact,True
+R0203,Data Visualization,exact,exact,True
+R0203,PyTorch,fuzzy,fuzzy,True
+R0204,QuickBooks,exact,exact,True
+R0204,Forecasting,exact,exact,True
+R0204,Financial Analysis,exact,exact,True
+R0204,Auditing,exact,exact,True
+R0204,SAP,exact,exact,True
+R0204,Accounting,exact,exact,True
+R0204,Excel,fuzzy,exact,False
+R0204,MongoDB,exact,exact,True
+R0204,CSS,exact,exact,True
+R0205,SAP,exact,exact,True
+R0205,QuickBooks,exact,exact,True
+R0205,Auditing,exact,exact,True
+R0205,Risk Management,exact,exact,True
+R0205,Budgeting,exact,exact,True
+R0205,Excel,exact,exact,True
+R0205,Accounting,exact,exact,True
+R0205,Forecasting,exact,exact,True
+R0205,Financial Analysis,exact,exact,True
+R0206,HRIS,exact,exact,True
+R0206,Recruitment,contextual,contextual,True
+R0206,Employee Relations,exact,exact,True
+R0206,Onboarding,exact,exact,True
+R0206,Performance Management,exact,exact,True
+R0206,Payroll,exact,exact,True
+R0206,Talent Acquisition,exact,exact,True
+R0206,Labor Law,exact,exact,True
+R0207,Machine Learning,fuzzy,fuzzy,True
+R0207,Pandas,exact,exact,True
+R0207,SQL,fuzzy,exact,False
+R0207,Natural Language Processing,exact,exact,True
+R0207,Data Visualization,contextual,contextual,True
+R0207,Scikit-learn,exact,exact,True
+R0207,PyTorch,exact,exact,True
+R0207,NumPy,exact,exact,True
+R0208,Deep Learning,contextual,contextual,True
+R0208,SQL,exact,exact,True
+R0208,TensorFlow,exact,exact,True
+R0208,Statistics,exact,exact,True
+R0208,Scikit-learn,exact,exact,True
+R0208,PyTorch,fuzzy,fuzzy,True
+R0208,Machine Learning,fuzzy,fuzzy,True
+R0209,HRIS,exact,exact,True
+R0209,Employee Relations,exact,exact,True
+R0209,Payroll,exact,exact,True
+R0209,Talent Acquisition,exact,exact,True
+R0209,Labor Law,exact,exact,True
+R0209,Recruitment,contextual,contextual,True
+R0209,Performance Management,exact,exact,True
+R0209,Onboarding,exact,exact,True
+R0210,Accounting,exact,exact,True
+R0210,Excel,exact,exact,True
+R0210,Financial Modeling,exact,exact,True
+R0210,SAP,exact,exact,True
+R0210,Financial Analysis,exact,exact,True
+R0210,QuickBooks,exact,exact,True
+R0210,Budgeting,exact,exact,True
+R0210,Risk Management,contextual,contextual,True
+R0210,Forecasting,exact,exact,True
+R0210,Auditing,exact,exact,True
+R0210,Kubernetes,exact,exact,True
+R0210,Linux,exact,exact,True
+R0211,Linux,exact,exact,True
+R0211,GCP,exact,exact,True
+R0211,Kubernetes,exact,exact,True
+R0211,Azure,exact,exact,True
+R0211,Ansible,exact,exact,True
+R0211,Jenkins,exact,exact,True
+R0211,Docker,contextual,contextual,True
+R0211,AWS,contextual,contextual,True
+R0212,QuickBooks,exact,exact,True
+R0212,Excel,exact,exact,True
+R0212,SAP,fuzzy,fuzzy,True
+R0212,Auditing,exact,exact,True
+R0212,Accounting,exact,exact,True
+R0212,Risk Management,exact,exact,True
+R0212,Financial Analysis,exact,exact,True
+R0212,Financial Modeling,contextual,contextual,True
+R0212,Budgeting,exact,exact,True
+R0212,Forecasting,exact,exact,True
+R0213,SAP,fuzzy,exact,False
+R0213,Excel,exact,exact,True
+R0213,Budgeting,exact,exact,True
+R0213,Risk Management,contextual,fuzzy,False
+R0213,Financial Analysis,exact,exact,True
+R0213,Accounting,exact,exact,True
+R0213,Financial Modeling,exact,exact,True
+R0213,Performance Management,exact,exact,True
+R0213,Employee Relations,exact,exact,True
+R0214,Kubernetes,exact,exact,True
+R0214,GCP,exact,exact,True
+R0214,Docker,exact,exact,True
+R0214,Azure,exact,exact,True
+R0214,Jenkins,exact,exact,True
+R0214,Linux,exact,exact,True
+R0214,AWS,fuzzy,fuzzy,True
+R0214,NumPy,exact,exact,True
+R0214,PyTorch,exact,exact,True
+R0215,Budgeting,exact,exact,True
+R0215,Accounting,exact,exact,True
+R0215,Financial Modeling,contextual,contextual,True
+R0215,QuickBooks,exact,exact,True
+R0215,Excel,exact,exact,True
+R0215,Financial Analysis,exact,exact,True
+R0215,Recruitment,contextual,contextual,True
+R0215,Labor Law,exact,exact,True
+R0216,GCP,exact,exact,True
+R0216,Azure,exact,exact,True
+R0216,Kubernetes,contextual,contextual,True
+R0216,Ansible,exact,exact,True
+R0216,Linux,exact,exact,True
+R0216,Jenkins,exact,exact,True
+R0216,CI/CD,exact,exact,True
+R0216,AWS,exact,exact,True
+R0216,Docker,contextual,contextual,True
+R0216,Talent Acquisition,exact,exact,True
+R0216,Payroll,contextual,contextual,True
+R0217,AWS,exact,exact,True
+R0217,Terraform,exact,exact,True
+R0217,Linux,exact,exact,True
+R0217,Azure,exact,exact,True
+R0217,Kubernetes,fuzzy,fuzzy,True
+R0217,Docker,exact,exact,True
+R0217,CI/CD,exact,exact,True
+R0218,Express.js,exact,exact,True
+R0218,HTML,exact,exact,True
+R0218,Node.js,fuzzy,fuzzy,True
+R0218,MongoDB,exact,exact,True
+R0218,TypeScript,exact,exact,True
+R0218,CSS,exact,exact,True
+R0218,React,exact,exact,True
+R0218,Next.js,exact,exact,True
+R0218,JavaScript,exact,exact,True
+R0218,REST API,contextual,contextual,True
+R0219,CI/CD,fuzzy,fuzzy,True
+R0219,Kubernetes,exact,exact,True
+R0219,AWS,fuzzy,fuzzy,True
+R0219,Azure,exact,exact,True
+R0219,Docker,fuzzy,exact,False
+R0219,Jenkins,exact,exact,True
+R0219,Ansible,exact,exact,True
+R0220,Employee Relations,exact,exact,True
+R0220,Onboarding,exact,exact,True
+R0220,Performance Management,exact,exact,True
+R0220,Recruitment,exact,exact,True
+R0220,Payroll,exact,exact,True
+R0220,HRIS,exact,exact,True
+R0220,Talent Acquisition,exact,exact,True
+R0221,Performance Management,exact,exact,True
+R0221,Talent Acquisition,exact,exact,True
+R0221,Employee Relations,exact,exact,True
+R0221,Payroll,exact,exact,True
+R0221,Recruitment,exact,exact,True
+R0221,Labor Law,exact,exact,True
+R0221,Financial Modeling,exact,exact,True
+R0221,SAP,exact,exact,True
+R0222,Performance Management,exact,exact,True
+R0222,Employee Relations,exact,exact,True
+R0222,HRIS,exact,exact,True
+R0222,Recruitment,contextual,contextual,True
+R0222,Onboarding,exact,exact,True
+R0222,Payroll,contextual,contextual,True
+R0222,Labor Law,exact,exact,True
+R0222,Deep Learning,exact,exact,True
+R0222,Data Visualization,contextual,contextual,True
+R0223,React,fuzzy,fuzzy,True
+R0223,Next.js,exact,exact,True
+R0223,MongoDB,exact,exact,True
+R0223,TypeScript,fuzzy,exact,False
+R0223,Node.js,exact,exact,True
+R0223,JavaScript,exact,exact,True
+R0224,NumPy,exact,exact,True
+R0224,Natural Language Processing,exact,exact,True
+R0224,PyTorch,exact,exact,True
+R0224,Statistics,exact,exact,True
+R0224,Deep Learning,contextual,contextual,True
+R0224,Python,exact,exact,True
+R0224,Machine Learning,exact,exact,True
+R0224,Scikit-learn,exact,exact,True
+R0224,TensorFlow,fuzzy,fuzzy,True
+R0225,Financial Analysis,exact,exact,True
+R0225,QuickBooks,exact,exact,True
+R0225,SAP,exact,exact,True
+R0225,Financial Modeling,exact,exact,True
+R0225,Excel,exact,exact,True
+R0225,Forecasting,exact,exact,True
+R0225,Risk Management,contextual,contextual,True
+R0225,Accounting,exact,exact,True
+R0226,QuickBooks,exact,exact,True
+R0226,Accounting,exact,exact,True
+R0226,Auditing,exact,exact,True
+R0226,Forecasting,exact,exact,True
+R0226,Budgeting,exact,exact,True
+R0226,Financial Analysis,exact,exact,True
+R0226,Financial Modeling,contextual,contextual,True
+R0226,SAP,fuzzy,fuzzy,True
+R0226,Excel,fuzzy,exact,False
+R0226,Risk Management,exact,exact,True
+R0227,Risk Management,exact,exact,True
+R0227,Forecasting,exact,exact,True
+R0227,Budgeting,exact,exact,True
+R0227,Auditing,exact,exact,True
+R0227,Financial Analysis,exact,exact,True
+R0227,QuickBooks,exact,exact,True
+R0227,Accounting,exact,exact,True
+R0227,Financial Modeling,contextual,contextual,True
+R0228,Data Visualization,exact,exact,True
+R0228,TensorFlow,fuzzy,fuzzy,True
+R0228,Statistics,exact,exact,True
+R0228,Python,exact,exact,True
+R0228,Scikit-learn,fuzzy,fuzzy,True
+R0228,Deep Learning,contextual,contextual,True
+R0228,NumPy,exact,exact,True
+R0229,Financial Modeling,exact,exact,True
+R0229,Accounting,exact,exact,True
+R0229,SAP,exact,exact,True
+R0229,QuickBooks,exact,exact,True
+R0229,Risk Management,exact,exact,True
+R0229,Auditing,exact,exact,True
+R0229,Budgeting,exact,exact,True
+R0229,Financial Analysis,exact,exact,True
+R0229,Forecasting,exact,exact,True
+R0229,Excel,exact,exact,True
+R0229,Talent Acquisition,exact,exact,True
+R0229,Payroll,exact,exact,True
+R0230,Employee Relations,exact,exact,True
+R0230,HRIS,exact,exact,True
+R0230,Performance Management,exact,exact,True
+R0230,Payroll,contextual,contextual,True
+R0230,Onboarding,exact,exact,True
+R0230,Labor Law,exact,exact,True
+R0230,Recruitment,exact,exact,True
+R0230,Talent Acquisition,exact,exact,True
+R0231,MongoDB,fuzzy,fuzzy,True
+R0231,Express.js,exact,exact,True
+R0231,JavaScript,exact,exact,True
+R0231,REST API,fuzzy,fuzzy,True
+R0231,HTML,exact,exact,True
+R0231,CSS,exact,exact,True
+R0231,Labor Law,exact,exact,True
+R0231,Talent Acquisition,exact,exact,True
+R0232,NumPy,exact,exact,True
+R0232,Python,fuzzy,exact,False
+R0232,Data Visualization,contextual,contextual,True
+R0232,Machine Learning,exact,exact,True
+R0232,Scikit-learn,exact,exact,True
+R0232,Pandas,exact,exact,True
+R0233,Kubernetes,exact,exact,True
+R0233,Jenkins,exact,exact,True
+R0233,AWS,exact,exact,True
+R0233,GCP,exact,exact,True
+R0233,Ansible,exact,exact,True
+R0233,Docker,exact,exact,True
+R0233,Azure,exact,exact,True
+R0233,Terraform,exact,exact,True
+R0233,CI/CD,exact,exact,True
+R0233,Talent Acquisition,exact,exact,True
+R0233,Employee Relations,exact,exact,True
+R0234,Auditing,exact,exact,True
+R0234,Forecasting,exact,exact,True
+R0234,Budgeting,exact,exact,True
+R0234,Accounting,exact,exact,True
+R0234,Excel,exact,exact,True
+R0234,Financial Analysis,exact,exact,True
+R0234,Financial Modeling,contextual,contextual,True
+R0234,QuickBooks,exact,exact,True
+R0234,SAP,exact,exact,True
+R0234,Risk Management,contextual,contextual,True
+R0235,Ansible,exact,exact,True
+R0235,GCP,exact,exact,True
+R0235,Docker,fuzzy,fuzzy,True
+R0235,Azure,exact,exact,True
+R0235,CI/CD,fuzzy,fuzzy,True
+R0235,Linux,exact,exact,True
+R0235,AWS,exact,exact,True
+R0235,Kubernetes,exact,exact,True
+R0236,QuickBooks,exact,exact,True
+R0236,Accounting,exact,exact,True
+R0236,Auditing,exact,exact,True
+R0236,SAP,exact,exact,True
+R0236,Financial Modeling,contextual,contextual,True
+R0236,Financial Analysis,exact,exact,True
+R0236,Excel,exact,exact,True
+R0237,Auditing,exact,exact,True
+R0237,Forecasting,exact,exact,True
+R0237,Excel,exact,exact,True
+R0237,Risk Management,contextual,contextual,True
+R0237,SAP,exact,exact,True
+R0237,Financial Analysis,exact,exact,True
+R0237,Accounting,exact,exact,True
+R0237,Budgeting,exact,exact,True
+R0237,Financial Modeling,exact,exact,True
+R0237,QuickBooks,exact,exact,True
+R0238,Labor Law,exact,exact,True
+R0238,Onboarding,exact,exact,True
+R0238,Performance Management,exact,exact,True
+R0238,Employee Relations,exact,exact,True
+R0238,HRIS,exact,exact,True
+R0238,Payroll,contextual,contextual,True
+R0238,Talent Acquisition,exact,exact,True
+R0238,Recruitment,exact,exact,True
+R0239,Excel,exact,exact,True
+R0239,Budgeting,exact,exact,True
+R0239,Financial Modeling,exact,exact,True
+R0239,Financial Analysis,exact,exact,True
+R0239,SAP,exact,exact,True
+R0239,QuickBooks,exact,exact,True
+R0239,Forecasting,exact,exact,True
+R0239,Accounting,exact,exact,True
+R0240,JavaScript,exact,exact,True
+R0240,React,contextual,contextual,True
+R0240,Next.js,exact,exact,True
+R0240,Express.js,exact,exact,True
+R0240,TypeScript,fuzzy,fuzzy,True
+R0240,HTML,exact,exact,True
+R0240,CSS,exact,exact,True
+R0241,Talent Acquisition,exact,exact,True
+R0241,Onboarding,exact,exact,True
+R0241,Performance Management,exact,exact,True
+R0241,Payroll,exact,exact,True
+R0241,Recruitment,contextual,contextual,True
+R0241,Employee Relations,exact,exact,True
+R0241,Labor Law,exact,exact,True
+R0241,HRIS,fuzzy,fuzzy,True
+R0242,Onboarding,exact,exact,True
+R0242,HRIS,exact,exact,True
+R0242,Performance Management,exact,exact,True
+R0242,Recruitment,exact,exact,True
+R0242,Labor Law,exact,exact,True
+R0242,Payroll,contextual,contextual,True
+R0242,Talent Acquisition,exact,exact,True
+R0242,Employee Relations,exact,exact,True
+R0243,Financial Analysis,exact,exact,True
+R0243,Budgeting,exact,exact,True
+R0243,Financial Modeling,exact,exact,True
+R0243,Forecasting,exact,exact,True
+R0243,SAP,exact,exact,True
+R0243,QuickBooks,exact,exact,True
+R0243,Excel,fuzzy,exact,False
+R0243,Accounting,exact,exact,True
+R0243,GCP,exact,exact,True
+R0243,Docker,fuzzy,exact,False
+R0244,HTML,exact,exact,True
+R0244,MongoDB,exact,exact,True
+R0244,Node.js,fuzzy,fuzzy,True
+R0244,REST API,fuzzy,fuzzy,True
+R0244,CSS,exact,exact,True
+R0244,JavaScript,exact,exact,True
+R0244,Express.js,exact,exact,True
+R0244,TypeScript,exact,exact,True
+R0245,Labor Law,exact,exact,True
+R0245,Employee Relations,exact,exact,True
+R0245,Payroll,exact,exact,True
+R0245,HRIS,exact,exact,True
+R0245,Onboarding,exact,exact,True
+R0245,Talent Acquisition,exact,exact,True
+R0245,Performance Management,exact,exact,True
+R0245,Recruitment,contextual,contextual,True
+R0245,Financial Modeling,contextual,contextual,True
+R0245,Budgeting,exact,exact,True
+R0246,Jenkins,exact,exact,True
+R0246,Linux,exact,exact,True
+R0246,Ansible,exact,exact,True
+R0246,Azure,exact,exact,True
+R0246,Terraform,exact,exact,True
+R0246,Kubernetes,exact,exact,True
+R0247,Payroll,exact,exact,True
+R0247,Talent Acquisition,exact,exact,True
+R0247,Employee Relations,exact,exact,True
+R0247,Performance Management,exact,exact,True
+R0247,Onboarding,exact,exact,True
+R0247,Recruitment,exact,exact,True
+R0247,HRIS,exact,exact,True
+R0247,Labor Law,exact,exact,True
+R0247,Next.js,exact,exact,True
+R0247,React,exact,exact,True
+R0248,Performance Management,exact,exact,True
+R0248,Talent Acquisition,exact,exact,True
+R0248,Labor Law,exact,exact,True
+R0248,Employee Relations,exact,exact,True
+R0248,HRIS,exact,exact,True
+R0248,Recruitment,contextual,contextual,True
+R0248,Payroll,exact,exact,True
+R0248,Onboarding,exact,exact,True
+R0249,REST API,fuzzy,fuzzy,True
+R0249,HTML,exact,exact,True
+R0249,React,fuzzy,exact,False
+R0249,Express.js,exact,exact,True
+R0249,TypeScript,exact,exact,True
+R0249,Node.js,exact,exact,True
+R0249,JavaScript,exact,exact,True
+R0249,Next.js,exact,exact,True
+R0249,CSS,exact,exact,True
+R0249,MongoDB,exact,exact,True
+R0250,Payroll,exact,exact,True
+R0250,Recruitment,contextual,contextual,True
+R0250,Labor Law,exact,exact,True
+R0250,Talent Acquisition,exact,exact,True
+R0250,Performance Management,exact,exact,True
+R0250,Employee Relations,exact,exact,True
+R0251,Payroll,exact,exact,True
+R0251,Onboarding,exact,exact,True
+R0251,HRIS,exact,exact,True
+R0251,Recruitment,exact,exact,True
+R0251,Labor Law,exact,exact,True
+R0251,Employee Relations,exact,exact,True
+R0251,Talent Acquisition,exact,exact,True
+R0251,Performance Management,exact,exact,True
+R0252,HRIS,exact,exact,True
+R0252,Payroll,contextual,contextual,True
+R0252,Labor Law,exact,exact,True
+R0252,Performance Management,exact,exact,True
+R0252,Recruitment,contextual,contextual,True
+R0252,Talent Acquisition,exact,exact,True
+R0253,Excel,exact,exact,True
+R0253,Financial Modeling,exact,exact,True
+R0253,Accounting,exact,exact,True
+R0253,SAP,exact,exact,True
+R0253,Forecasting,exact,exact,True
+R0253,QuickBooks,exact,exact,True
+R0253,Risk Management,exact,exact,True
+R0254,Excel,fuzzy,exact,False
+R0254,Financial Analysis,exact,exact,True
+R0254,Auditing,exact,exact,True
+R0254,Budgeting,exact,exact,True
+R0254,Risk Management,exact,exact,True
+R0254,QuickBooks,exact,exact,True
+R0254,REST API,exact,exact,True
+R0254,TypeScript,exact,exact,True
+R0255,Talent Acquisition,exact,exact,True
+R0255,HRIS,exact,exact,True
+R0255,Onboarding,exact,exact,True
+R0255,Payroll,contextual,contextual,True
+R0255,Labor Law,exact,exact,True
+R0255,Employee Relations,exact,exact,True
+R0255,Recruitment,contextual,contextual,True
+R0255,Accounting,exact,exact,True
+R0255,Financial Modeling,exact,exact,True
+R0256,Ansible,exact,exact,True
+R0256,Linux,exact,exact,True
+R0256,CI/CD,contextual,contextual,True
+R0256,Kubernetes,contextual,contextual,True
+R0256,Jenkins,exact,exact,True
+R0256,Docker,contextual,contextual,True
+R0256,Azure,exact,exact,True
+R0256,AWS,exact,exact,True
+R0256,GCP,exact,exact,True
+R0256,Terraform,exact,exact,True
+R0257,JavaScript,exact,exact,True
+R0257,HTML,exact,exact,True
+R0257,React,fuzzy,fuzzy,True
+R0257,REST API,exact,exact,True
+R0257,MongoDB,exact,exact,True
+R0257,Express.js,exact,exact,True
+R0257,CSS,exact,exact,True
+R0257,Next.js,exact,exact,True
+R0257,Python,exact,exact,True
+R0257,Statistics,exact,exact,True
+R0258,Next.js,exact,exact,True
+R0258,TypeScript,exact,exact,True
+R0258,REST API,exact,exact,True
+R0258,React,contextual,contextual,True
+R0258,Express.js,exact,exact,True
+R0258,Node.js,exact,exact,True
+R0258,MongoDB,exact,exact,True
+R0258,JavaScript,fuzzy,fuzzy,True
+R0258,HTML,exact,exact,True
+R0258,Linux,exact,exact,True
+R0258,CI/CD,exact,exact,True
+R0259,Python,fuzzy,exact,False
+R0259,NumPy,exact,exact,True
+R0259,Deep Learning,exact,exact,True
+R0259,Machine Learning,contextual,contextual,True
+R0259,PyTorch,exact,exact,True
+R0259,Pandas,exact,exact,True
+R0259,TensorFlow,fuzzy,fuzzy,True
+R0259,SQL,exact,exact,True
+R0259,Data Visualization,contextual,contextual,True
+R0259,Natural Language Processing,exact,exact,True
+R0260,TypeScript,exact,exact,True
+R0260,REST API,exact,exact,True
+R0260,HTML,exact,exact,True
+R0260,CSS,exact,exact,True
+R0260,React,contextual,contextual,True
+R0260,Express.js,exact,exact,True
+R0260,JavaScript,exact,exact,True
+R0261,Risk Management,exact,exact,True
+R0261,SAP,exact,exact,True
+R0261,Accounting,exact,exact,True
+R0261,Auditing,exact,exact,True
+R0261,Financial Analysis,exact,exact,True
+R0261,Excel,exact,exact,True
+R0262,Node.js,exact,exact,True
+R0262,TypeScript,fuzzy,exact,False
+R0262,MongoDB,fuzzy,exact,False
+R0262,Express.js,exact,exact,True
+R0262,REST API,exact,exact,True
+R0262,JavaScript,exact,exact,True
+R0262,CSS,exact,exact,True
+R0262,React,contextual,contextual,True
+R0262,Next.js,exact,exact,True
+R0263,GCP,exact,exact,True
+R0263,Docker,fuzzy,exact,False
+R0263,Terraform,exact,exact,True
+R0263,AWS,exact,exact,True
+R0263,Kubernetes,fuzzy,fuzzy,True
+R0263,Jenkins,exact,exact,True
+R0263,Azure,exact,exact,True
+R0263,Linux,exact,exact,True
+R0263,CI/CD,exact,exact,True
+R0263,Payroll,contextual,contextual,True
+R0263,HRIS,exact,exact,True
+R0264,Budgeting,exact,exact,True
+R0264,Auditing,exact,exact,True
+R0264,Forecasting,exact,exact,True
+R0264,Risk Management,contextual,contextual,True
+R0264,QuickBooks,exact,exact,True
+R0264,Financial Modeling,contextual,contextual,True
+R0264,Excel,exact,exact,True
+R0264,SAP,exact,exact,True
+R0264,Financial Analysis,exact,exact,True
+R0264,Accounting,exact,exact,True
+R0265,Ansible,exact,exact,True
+R0265,Docker,fuzzy,exact,False
+R0265,Jenkins,exact,exact,True
+R0265,Kubernetes,exact,exact,True
+R0265,Azure,exact,exact,True
+R0265,Terraform,exact,exact,True
+R0265,Linux,exact,exact,True
+R0265,AWS,exact,exact,True
+R0265,CI/CD,exact,exact,True
+R0266,Employee Relations,exact,exact,True
+R0266,Talent Acquisition,exact,exact,True
+R0266,HRIS,exact,exact,True
+R0266,Labor Law,exact,exact,True
+R0266,Onboarding,exact,exact,True
+R0266,Recruitment,exact,exact,True
+R0266,Performance Management,exact,exact,True
+R0266,Python,exact,exact,True
+R0266,Scikit-learn,exact,exact,True
+R0267,PyTorch,exact,exact,True
+R0267,Deep Learning,contextual,contextual,True
+R0267,Natural Language Processing,exact,exact,True
+R0267,Scikit-learn,exact,exact,True
+R0267,Statistics,exact,exact,True
+R0267,Python,fuzzy,fuzzy,True
+R0267,SQL,exact,exact,True
+R0267,NumPy,exact,exact,True
+R0267,Data Visualization,exact,exact,True
+R0268,Payroll,exact,exact,True
+R0268,Labor Law,exact,exact,True
+R0268,Employee Relations,exact,exact,True
+R0268,Recruitment,exact,exact,True
+R0268,Talent Acquisition,exact,exact,True
+R0268,HRIS,exact,exact,True
+R0268,Performance Management,exact,exact,True
+R0268,Onboarding,exact,exact,True
+R0269,TensorFlow,fuzzy,fuzzy,True
+R0269,Deep Learning,contextual,contextual,True
+R0269,Natural Language Processing,exact,exact,True
+R0269,Scikit-learn,exact,exact,True
+R0269,Data Visualization,exact,exact,True
+R0269,Statistics,exact,exact,True
+R0269,Python,contextual,contextual,True
+R0269,PyTorch,fuzzy,exact,False
+R0270,Next.js,exact,exact,True
+R0270,React,contextual,contextual,True
+R0270,Node.js,exact,exact,True
+R0270,Express.js,exact,exact,True
+R0270,MongoDB,exact,exact,True
+R0270,HTML,exact,exact,True
+R0270,TypeScript,fuzzy,fuzzy,True
+R0270,JavaScript,fuzzy,fuzzy,True
+R0270,REST API,exact,exact,True
+R0270,CSS,exact,exact,True
+R0270,Performance Management,exact,exact,True
+R0270,Onboarding,exact,exact,True
+R0271,HRIS,exact,exact,True
+R0271,Payroll,exact,exact,True
+R0271,Onboarding,exact,exact,True
+R0271,Performance Management,exact,exact,True
+R0271,Talent Acquisition,exact,exact,True
+R0271,Recruitment,exact,exact,True
+R0271,Ansible,exact,exact,True
+R0271,Kubernetes,exact,exact,True
+R0272,GCP,exact,exact,True
+R0272,Docker,contextual,contextual,True
+R0272,AWS,exact,exact,True
+R0272,Ansible,exact,exact,True
+R0272,CI/CD,exact,exact,True
+R0272,Kubernetes,exact,exact,True
+R0272,Linux,exact,exact,True
+R0272,Talent Acquisition,exact,exact,True
+R0272,Payroll,contextual,contextual,True
+R0273,Terraform,exact,exact,True
+R0273,Kubernetes,contextual,contextual,True
+R0273,GCP,exact,exact,True
+R0273,Linux,exact,exact,True
+R0273,Azure,exact,exact,True
+R0273,Docker,contextual,contextual,True
+R0273,Ansible,exact,exact,True
+R0273,AWS,fuzzy,fuzzy,True
+R0273,Risk Management,exact,exact,True
+R0273,Forecasting,exact,exact,True
+R0274,Python,exact,exact,True
+R0274,PyTorch,fuzzy,fuzzy,True
+R0274,Scikit-learn,exact,exact,True
+R0274,NumPy,exact,exact,True
+R0274,Data Visualization,exact,exact,True
+R0274,Machine Learning,exact,exact,True
+R0274,Pandas,exact,exact,True
+R0275,REST API,contextual,contextual,True
+R0275,React,exact,exact,True
+R0275,Express.js,exact,exact,True
+R0275,JavaScript,exact,exact,True
+R0275,HTML,exact,exact,True
+R0275,TypeScript,exact,exact,True
+R0275,Python,fuzzy,exact,False
+R0275,Statistics,exact,exact,True
+R0276,JavaScript,fuzzy,fuzzy,True
+R0276,React,exact,exact,True
+R0276,Node.js,fuzzy,fuzzy,True
+R0276,REST API,contextual,contextual,True
+R0276,TypeScript,exact,exact,True
+R0276,MongoDB,exact,exact,True
+R0276,CSS,exact,exact,True
+R0276,Express.js,exact,exact,True
+R0276,Azure,exact,exact,True
+R0276,Kubernetes,fuzzy,fuzzy,True
+R0277,Scikit-learn,exact,exact,True
+R0277,TensorFlow,fuzzy,exact,False
+R0277,Statistics,exact,exact,True
+R0277,Pandas,exact,exact,True
+R0277,SQL,exact,exact,True
+R0277,PyTorch,exact,exact,True
+R0277,Python,exact,exact,True
+R0278,HRIS,exact,exact,True
+R0278,Talent Acquisition,exact,exact,True
+R0278,Payroll,contextual,contextual,True
+R0278,Onboarding,exact,exact,True
+R0278,Performance Management,exact,exact,True
+R0278,Labor Law,exact,exact,True
+R0278,Employee Relations,exact,exact,True
+R0278,Recruitment,exact,exact,True
+R0279,Accounting,exact,exact,True
+R0279,Excel,fuzzy,exact,False
+R0279,Forecasting,exact,exact,True
+R0279,QuickBooks,exact,exact,True
+R0279,Financial Analysis,exact,exact,True
+R0279,Risk Management,exact,exact,True
+R0280,Auditing,exact,exact,True
+R0280,QuickBooks,exact,exact,True
+R0280,Budgeting,exact,exact,True
+R0280,Excel,exact,exact,True
+R0280,SAP,exact,exact,True
+R0280,Financial Modeling,contextual,contextual,True
+R0280,Financial Analysis,exact,exact,True
+R0280,Risk Management,contextual,contextual,True
+R0280,Accounting,exact,exact,True
+R0281,PyTorch,exact,exact,True
+R0281,Natural Language Processing,exact,exact,True
+R0281,Pandas,exact,exact,True
+R0281,NumPy,exact,exact,True
+R0281,Statistics,exact,exact,True
+R0281,Data Visualization,contextual,contextual,True
+R0281,SQL,fuzzy,exact,False
+R0281,Deep Learning,exact,exact,True
+R0281,Scikit-learn,exact,exact,True
+R0281,TensorFlow,exact,exact,True
+R0282,Onboarding,exact,exact,True
+R0282,HRIS,exact,exact,True
+R0282,Talent Acquisition,exact,exact,True
+R0282,Payroll,exact,exact,True
+R0282,Performance Management,exact,exact,True
+R0282,Labor Law,exact,exact,True
+R0282,Recruitment,exact,exact,True
+R0282,Employee Relations,exact,exact,True
+R0283,TensorFlow,exact,exact,True
+R0283,Machine Learning,fuzzy,fuzzy,True
+R0283,Natural Language Processing,exact,exact,True
+R0283,Scikit-learn,exact,exact,True
+R0283,SQL,exact,exact,True
+R0283,Pandas,exact,exact,True
+R0283,Deep Learning,contextual,contextual,True
+R0283,Python,exact,exact,True
+R0284,Budgeting,exact,exact,True
+R0284,Financial Modeling,exact,exact,True
+R0284,Auditing,exact,exact,True
+R0284,Financial Analysis,exact,exact,True
+R0284,QuickBooks,exact,exact,True
+R0284,Accounting,exact,exact,True
+R0284,SAP,exact,exact,True
+R0284,Risk Management,exact,exact,True
+R0284,Excel,fuzzy,exact,False
+R0285,Budgeting,exact,exact,True
+R0285,Financial Analysis,exact,exact,True
+R0285,Financial Modeling,exact,exact,True
+R0285,Accounting,exact,exact,True
+R0285,QuickBooks,exact,exact,True
+R0285,SAP,exact,exact,True
+R0285,Excel,exact,exact,True
+R0286,Risk Management,contextual,contextual,True
+R0286,QuickBooks,exact,exact,True
+R0286,Forecasting,exact,exact,True
+R0286,Excel,exact,exact,True
+R0286,SAP,exact,exact,True
+R0286,Auditing,exact,exact,True
+R0286,Accounting,exact,exact,True
+R0286,Budgeting,exact,exact,True
+R0287,Risk Management,exact,exact,True
+R0287,Financial Modeling,exact,exact,True
+R0287,SAP,exact,exact,True
+R0287,Accounting,exact,exact,True
+R0287,Auditing,exact,exact,True
+R0287,Excel,exact,exact,True
+R0287,Budgeting,exact,exact,True
+R0287,QuickBooks,exact,exact,True
+R0287,Forecasting,exact,exact,True
+R0287,Financial Analysis,exact,exact,True
+R0288,Performance Management,exact,exact,True
+R0288,Payroll,contextual,contextual,True
+R0288,Talent Acquisition,exact,exact,True
+R0288,Recruitment,exact,exact,True
+R0288,Onboarding,exact,exact,True
+R0288,HRIS,exact,exact,True
+R0288,Labor Law,exact,exact,True
+R0288,Employee Relations,exact,exact,True
+R0288,Azure,exact,exact,True
+R0288,AWS,exact,exact,True
+R0289,React,exact,exact,True
+R0289,Express.js,exact,exact,True
+R0289,Next.js,exact,exact,True
+R0289,CSS,exact,exact,True
+R0289,TypeScript,exact,exact,True
+R0289,REST API,exact,exact,True
+R0289,Node.js,exact,exact,True
+R0290,CSS,exact,exact,True
+R0290,MongoDB,exact,exact,True
+R0290,REST API,exact,exact,True
+R0290,Node.js,fuzzy,fuzzy,True
+R0290,Next.js,exact,exact,True
+R0290,JavaScript,fuzzy,fuzzy,True
+R0290,HTML,exact,exact,True
+R0291,Financial Modeling,contextual,contextual,True
+R0291,SAP,exact,exact,True
+R0291,Budgeting,exact,exact,True
+R0291,Auditing,exact,exact,True
+R0291,QuickBooks,exact,exact,True
+R0291,Accounting,exact,exact,True
+R0292,Kubernetes,fuzzy,fuzzy,True
+R0292,CI/CD,fuzzy,fuzzy,True
+R0292,Jenkins,exact,exact,True
+R0292,GCP,exact,exact,True
+R0292,Linux,exact,exact,True
+R0292,Azure,exact,exact,True
+R0292,AWS,fuzzy,fuzzy,True
+R0292,Ansible,exact,exact,True
+R0293,Statistics,exact,exact,True
+R0293,Natural Language Processing,exact,exact,True
+R0293,Deep Learning,contextual,contextual,True
+R0293,PyTorch,fuzzy,fuzzy,True
+R0293,Data Visualization,contextual,contextual,True
+R0293,Python,fuzzy,fuzzy,True
+R0294,Employee Relations,exact,exact,True
+R0294,Labor Law,exact,exact,True
+R0294,Onboarding,exact,exact,True
+R0294,HRIS,fuzzy,fuzzy,True
+R0294,Performance Management,exact,exact,True
+R0294,Talent Acquisition,exact,exact,True
+R0294,Recruitment,exact,exact,True
+R0294,Payroll,contextual,contextual,True
+R0295,REST API,exact,exact,True
+R0295,Next.js,exact,exact,True
+R0295,CSS,exact,exact,True
+R0295,React,contextual,contextual,True
+R0295,JavaScript,exact,exact,True
+R0295,Node.js,fuzzy,fuzzy,True
+R0295,Python,exact,exact,True
+R0295,SQL,contextual,contextual,True
+R0296,Budgeting,exact,exact,True
+R0296,SAP,exact,exact,True
+R0296,Risk Management,exact,exact,True
+R0296,Excel,exact,exact,True
+R0296,QuickBooks,exact,exact,True
+R0296,Auditing,exact,exact,True
+R0296,Financial Modeling,exact,exact,True
+R0296,CI/CD,exact,exact,True
+R0296,Ansible,exact,exact,True
+R0297,Excel,exact,exact,True
+R0297,Financial Analysis,exact,exact,True
+R0297,Financial Modeling,exact,exact,True
+R0297,Auditing,exact,exact,True
+R0297,Accounting,exact,exact,True
+R0297,QuickBooks,exact,exact,True
+R0297,SAP,exact,exact,True
+R0297,Budgeting,exact,exact,True
+R0298,Node.js,exact,exact,True
+R0298,Express.js,exact,exact,True
+R0298,MongoDB,exact,exact,True
+R0298,Next.js,exact,exact,True
+R0298,HTML,exact,exact,True
+R0298,React,contextual,contextual,True
+R0298,JavaScript,exact,exact,True
+R0298,CSS,exact,exact,True
+R0299,QuickBooks,exact,exact,True
+R0299,Forecasting,exact,exact,True
+R0299,Risk Management,exact,exact,True
+R0299,Excel,exact,exact,True
+R0299,Accounting,exact,exact,True
+R0299,SAP,exact,exact,True
+R0299,Auditing,exact,exact,True
+R0299,Financial Analysis,exact,exact,True
+R0300,Labor Law,exact,exact,True
+R0300,Payroll,contextual,contextual,True
+R0300,Performance Management,exact,exact,True
+R0300,Recruitment,exact,exact,True
+R0300,Onboarding,exact,exact,True
+R0300,HRIS,exact,exact,True
+R0300,Talent Acquisition,exact,exact,True
+R0300,Employee Relations,exact,exact,True
+R0300,AWS,fuzzy,fuzzy,True
+R0300,GCP,exact,exact,True
+R0301,Scikit-learn,exact,exact,True
+R0301,Data Visualization,contextual,contextual,True
+R0301,Machine Learning,contextual,contextual,True
+R0301,Natural Language Processing,exact,exact,True
+R0301,Deep Learning,contextual,contextual,True
+R0301,Python,fuzzy,exact,False
+R0301,TensorFlow,exact,exact,True
+R0301,Pandas,exact,exact,True
+R0301,NumPy,exact,exact,True
+R0302,Docker,exact,exact,True
+R0302,Kubernetes,fuzzy,fuzzy,True
+R0302,Linux,exact,exact,True
+R0302,GCP,exact,exact,True
+R0302,CI/CD,exact,exact,True
+R0302,AWS,exact,exact,True
+R0302,Azure,exact,exact,True
+R0302,Ansible,exact,exact,True
+R0303,AWS,contextual,contextual,True
+R0303,Terraform,exact,exact,True
+R0303,Kubernetes,exact,exact,True
+R0303,Linux,exact,exact,True
+R0303,GCP,exact,exact,True
+R0303,Jenkins,exact,exact,True
+R0303,Ansible,exact,exact,True
+R0303,CI/CD,exact,exact,True
+R0303,Azure,exact,exact,True
+R0303,Docker,exact,exact,True
+R0304,Onboarding,exact,exact,True
+R0304,Employee Relations,exact,exact,True
+R0304,Payroll,exact,exact,True
+R0304,Talent Acquisition,exact,exact,True
+R0304,Recruitment,exact,exact,True
+R0304,Labor Law,exact,exact,True
+R0304,Performance Management,exact,exact,True
+R0304,HRIS,fuzzy,fuzzy,True
+R0305,GCP,exact,exact,True
+R0305,Kubernetes,fuzzy,exact,False
+R0305,Docker,exact,exact,True
+R0305,Ansible,exact,exact,True
+R0305,Terraform,exact,exact,True
+R0305,CI/CD,contextual,contextual,True
+R0305,Azure,exact,exact,True
+R0305,Linux,exact,exact,True
+R0306,NumPy,exact,exact,True
+R0306,Statistics,exact,exact,True
+R0306,Machine Learning,contextual,contextual,True
+R0306,TensorFlow,fuzzy,exact,False
+R0306,Python,fuzzy,exact,False
+R0306,PyTorch,fuzzy,exact,False
+R0306,Pandas,exact,exact,True
+R0306,SQL,exact,exact,True
+R0306,Natural Language Processing,exact,exact,True
+R0306,Scikit-learn,exact,exact,True
+R0307,HTML,exact,exact,True
+R0307,MongoDB,exact,exact,True
+R0307,Node.js,exact,exact,True
+R0307,TypeScript,exact,exact,True
+R0307,React,contextual,contextual,True
+R0307,Next.js,exact,exact,True
+R0308,Labor Law,exact,exact,True
+R0308,Recruitment,contextual,contextual,True
+R0308,Payroll,contextual,contextual,True
+R0308,HRIS,exact,exact,True
+R0308,Onboarding,exact,exact,True
+R0308,Performance Management,exact,exact,True
+R0308,Talent Acquisition,exact,exact,True
+R0308,Employee Relations,exact,exact,True
+R0308,Machine Learning,contextual,contextual,True
+R0308,Statistics,exact,exact,True
+R0309,Express.js,exact,exact,True
+R0309,JavaScript,exact,exact,True
+R0309,REST API,exact,exact,True
+R0309,CSS,exact,exact,True
+R0309,Node.js,exact,exact,True
+R0309,MongoDB,exact,exact,True
+R0309,Auditing,exact,exact,True
+R0309,Excel,exact,exact,True
+R0310,Ansible,exact,exact,True
+R0310,AWS,exact,exact,True
+R0310,Jenkins,exact,exact,True
+R0310,Terraform,exact,exact,True
+R0310,Linux,exact,exact,True
+R0310,CI/CD,exact,exact,True
+R0310,GCP,exact,exact,True
+R0310,Azure,exact,exact,True
+R0310,Kubernetes,exact,exact,True
+R0310,Docker,exact,exact,True
+R0311,Financial Modeling,contextual,contextual,True
+R0311,Forecasting,exact,exact,True
+R0311,Budgeting,exact,exact,True
+R0311,Accounting,exact,exact,True
+R0311,QuickBooks,exact,exact,True
+R0311,Excel,fuzzy,exact,False
+R0311,Machine Learning,contextual,contextual,True
+R0311,Scikit-learn,exact,exact,True
+R0312,Excel,fuzzy,exact,False
+R0312,Financial Modeling,contextual,contextual,True
+R0312,Auditing,exact,exact,True
+R0312,Risk Management,contextual,contextual,True
+R0312,SAP,exact,exact,True
+R0312,QuickBooks,exact,exact,True
+R0312,Budgeting,exact,exact,True
+R0312,Accounting,exact,exact,True
+R0312,Forecasting,exact,exact,True
+R0312,Financial Analysis,exact,exact,True
+R0313,PyTorch,exact,exact,True
+R0313,Scikit-learn,fuzzy,fuzzy,True
+R0313,NumPy,exact,exact,True
+R0313,SQL,exact,exact,True
+R0313,Deep Learning,contextual,contextual,True
+R0313,Python,exact,exact,True
+R0313,Natural Language Processing,exact,exact,True
+R0314,Talent Acquisition,exact,exact,True
+R0314,Recruitment,contextual,contextual,True
+R0314,Payroll,contextual,contextual,True
+R0314,Onboarding,exact,exact,True
+R0314,Performance Management,exact,exact,True
+R0314,Employee Relations,exact,exact,True
+R0314,Labor Law,exact,exact,True
+R0314,HRIS,fuzzy,fuzzy,True
+R0315,HRIS,fuzzy,fuzzy,True
+R0315,Talent Acquisition,exact,exact,True
+R0315,Performance Management,exact,exact,True
+R0315,Employee Relations,exact,exact,True
+R0315,Labor Law,exact,exact,True
+R0315,Recruitment,exact,exact,True
+R0315,Onboarding,exact,exact,True
+R0315,Payroll,exact,exact,True
+R0316,Express.js,exact,exact,True
+R0316,CSS,exact,exact,True
+R0316,HTML,exact,exact,True
+R0316,JavaScript,fuzzy,fuzzy,True
+R0316,Next.js,exact,exact,True
+R0316,TypeScript,fuzzy,exact,False
+R0316,Node.js,exact,exact,True
+R0316,MongoDB,fuzzy,fuzzy,True
+R0316,React,exact,exact,True
+R0316,REST API,contextual,contextual,True
+R0316,Payroll,contextual,contextual,True
+R0316,Performance Management,exact,exact,True
+R0317,Financial Analysis,exact,exact,True
+R0317,SAP,exact,exact,True
+R0317,Forecasting,exact,exact,True
+R0317,Accounting,exact,exact,True
+R0317,Risk Management,exact,exact,True
+R0317,Budgeting,exact,exact,True
+R0317,Excel,exact,exact,True
+R0317,Auditing,exact,exact,True
+R0317,QuickBooks,exact,exact,True
+R0317,Financial Modeling,exact,exact,True
+R0317,TypeScript,exact,exact,True
+R0317,MongoDB,exact,exact,True
+R0318,Labor Law,exact,exact,True
+R0318,Talent Acquisition,exact,exact,True
+R0318,Payroll,contextual,contextual,True
+R0318,Onboarding,exact,exact,True
+R0318,HRIS,exact,exact,True
+R0318,Employee Relations,exact,exact,True
+R0318,Recruitment,contextual,contextual,True
+R0318,Performance Management,exact,exact,True
+R0319,Data Visualization,exact,exact,True
+R0319,NumPy,exact,exact,True
+R0319,Python,exact,exact,True
+R0319,SQL,contextual,contextual,True
+R0319,Deep Learning,contextual,contextual,True
+R0319,Natural Language Processing,exact,exact,True
+R0319,PyTorch,exact,exact,True
+R0319,Scikit-learn,exact,exact,True
+R0320,Scikit-learn,fuzzy,fuzzy,True
+R0320,Machine Learning,fuzzy,fuzzy,True
+R0320,Python,contextual,contextual,True
+R0320,TensorFlow,exact,exact,True
+R0320,PyTorch,fuzzy,exact,False
+R0320,NumPy,exact,exact,True
+R0320,Deep Learning,contextual,contextual,True
+R0320,SQL,exact,exact,True
+R0320,Pandas,exact,exact,True
+R0320,Statistics,exact,exact,True
+R0321,Onboarding,exact,exact,True
+R0321,Performance Management,exact,exact,True
+R0321,Labor Law,exact,exact,True
+R0321,Recruitment,exact,exact,True
+R0321,Employee Relations,exact,exact,True
+R0321,Payroll,contextual,contextual,True
+R0321,HRIS,exact,exact,True
+R0321,Talent Acquisition,exact,exact,True
+R0321,Data Visualization,exact,exact,True
+R0321,SQL,exact,exact,True
+R0322,GCP,exact,exact,True
+R0322,Docker,exact,exact,True
+R0322,Ansible,exact,exact,True
+R0322,Linux,exact,exact,True
+R0322,Azure,exact,exact,True
+R0322,AWS,fuzzy,fuzzy,True
+R0322,CI/CD,fuzzy,fuzzy,True
+R0322,Terraform,exact,exact,True
+R0322,Kubernetes,fuzzy,fuzzy,True
+R0322,Performance Management,exact,exact,True
+R0322,Employee Relations,exact,exact,True
+R0323,HRIS,exact,exact,True
+R0323,Payroll,contextual,contextual,True
+R0323,Recruitment,exact,exact,True
+R0323,Talent Acquisition,exact,exact,True
+R0323,Onboarding,exact,exact,True
+R0323,Labor Law,exact,exact,True
+R0323,Employee Relations,exact,exact,True
+R0323,Performance Management,exact,exact,True
+R0324,SAP,exact,exact,True
+R0324,QuickBooks,exact,exact,True
+R0324,Accounting,exact,exact,True
+R0324,Auditing,exact,exact,True
+R0324,Budgeting,exact,exact,True
+R0324,Financial Analysis,exact,exact,True
+R0325,PyTorch,exact,exact,True
+R0325,Data Visualization,exact,exact,True
+R0325,NumPy,exact,exact,True
+R0325,Deep Learning,contextual,contextual,True
+R0325,Python,exact,exact,True
+R0325,Natural Language Processing,exact,exact,True
+R0326,Excel,exact,exact,True
+R0326,Budgeting,exact,exact,True
+R0326,Financial Analysis,exact,exact,True
+R0326,SAP,fuzzy,fuzzy,True
+R0326,Forecasting,exact,exact,True
+R0326,Financial Modeling,exact,exact,True
+R0326,Auditing,exact,exact,True
+R0326,Accounting,exact,exact,True
+R0326,Risk Management,exact,exact,True
+R0326,QuickBooks,exact,exact,True
+R0326,Terraform,exact,exact,True
+R0326,Jenkins,exact,exact,True
+R0327,Onboarding,exact,exact,True
+R0327,Performance Management,exact,exact,True
+R0327,Talent Acquisition,exact,exact,True
+R0327,Recruitment,exact,exact,True
+R0327,HRIS,exact,exact,True
+R0327,Employee Relations,exact,exact,True
+R0327,Labor Law,exact,exact,True
+R0327,Payroll,exact,exact,True
+R0328,Statistics,exact,exact,True
+R0328,Scikit-learn,exact,exact,True
+R0328,Pandas,exact,exact,True
+R0328,Machine Learning,exact,exact,True
+R0328,NumPy,exact,exact,True
+R0328,TensorFlow,fuzzy,fuzzy,True
+R0328,Natural Language Processing,exact,exact,True
+R0328,SQL,exact,exact,True
+R0328,Forecasting,exact,exact,True
+R0328,Financial Modeling,contextual,contextual,True
+R0329,Accounting,exact,exact,True
+R0329,Excel,exact,exact,True
+R0329,Financial Analysis,exact,exact,True
+R0329,Forecasting,exact,exact,True
+R0329,Financial Modeling,contextual,contextual,True
+R0329,QuickBooks,exact,exact,True
+R0329,Auditing,exact,exact,True
+R0329,SAP,exact,exact,True
+R0329,Risk Management,exact,exact,True
+R0329,Budgeting,exact,exact,True
+R0329,Natural Language Processing,exact,exact,True
+R0329,Statistics,exact,exact,True
+R0330,SAP,exact,exact,True
+R0330,Financial Modeling,contextual,contextual,True
+R0330,Budgeting,exact,exact,True
+R0330,Financial Analysis,exact,exact,True
+R0330,Auditing,exact,exact,True
+R0330,Risk Management,contextual,contextual,True
+R0331,TypeScript,exact,exact,True
+R0331,CSS,exact,exact,True
+R0331,React,exact,exact,True
+R0331,Next.js,exact,exact,True
+R0331,REST API,contextual,contextual,True
+R0331,JavaScript,exact,exact,True
+R0331,Express.js,exact,exact,True
+R0332,Next.js,exact,exact,True
+R0332,MongoDB,fuzzy,exact,False
+R0332,React,exact,exact,True
+R0332,TypeScript,fuzzy,exact,False
+R0332,HTML,exact,exact,True
+R0332,CSS,exact,exact,True
+R0332,Python,exact,exact,True
+R0332,TensorFlow,fuzzy,fuzzy,True
+R0333,Financial Modeling,contextual,contextual,True
+R0333,Auditing,exact,exact,True
+R0333,Risk Management,contextual,contextual,True
+R0333,SAP,exact,exact,True
+R0333,QuickBooks,exact,exact,True
+R0333,Budgeting,exact,exact,True
+R0333,Financial Analysis,exact,exact,True
+R0333,Excel,exact,exact,True
+R0333,Forecasting,exact,exact,True
+R0333,Accounting,exact,exact,True
+R0334,JavaScript,exact,exact,True
+R0334,Next.js,exact,exact,True
+R0334,Node.js,exact,exact,True
+R0334,MongoDB,exact,exact,True
+R0334,CSS,exact,exact,True
+R0334,HTML,exact,exact,True
+R0334,REST API,exact,exact,True
+R0335,Financial Modeling,contextual,contextual,True
+R0335,Risk Management,exact,exact,True
+R0335,Forecasting,exact,exact,True
+R0335,Excel,exact,exact,True
+R0335,QuickBooks,exact,exact,True
+R0335,Auditing,exact,exact,True
+R0335,Financial Analysis,exact,exact,True
+R0335,Budgeting,exact,exact,True
+R0335,SAP,exact,exact,True
+R0335,Accounting,exact,exact,True
+R0336,Next.js,exact,exact,True
+R0336,HTML,exact,exact,True
+R0336,Express.js,exact,exact,True
+R0336,MongoDB,exact,exact,True
+R0336,TypeScript,exact,exact,True
+R0336,Node.js,contextual,contextual,True
+R0336,REST API,exact,exact,True
+R0336,JavaScript,exact,exact,True
+R0336,React,exact,exact,True
+R0336,Scikit-learn,exact,exact,True
+R0336,Python,exact,exact,True
+R0337,Accounting,exact,exact,True
+R0337,SAP,exact,exact,True
+R0337,Financial Modeling,exact,exact,True
+R0337,Excel,exact,exact,True
+R0337,Financial Analysis,exact,exact,True
+R0337,Auditing,exact,exact,True
+R0337,Budgeting,exact,exact,True
+R0338,Excel,exact,exact,True
+R0338,Financial Analysis,exact,exact,True
+R0338,Accounting,exact,exact,True
+R0338,QuickBooks,exact,exact,True
+R0338,Risk Management,exact,exact,True
+R0338,Forecasting,exact,exact,True
+R0338,SAP,exact,exact,True
+R0338,Auditing,exact,exact,True
+R0338,Budgeting,exact,exact,True
+R0339,Onboarding,exact,exact,True
+R0339,Performance Management,exact,exact,True
+R0339,Payroll,exact,exact,True
+R0339,HRIS,fuzzy,fuzzy,True
+R0339,Recruitment,exact,exact,True
+R0339,Talent Acquisition,exact,exact,True
+R0339,Labor Law,exact,exact,True
+R0340,SAP,exact,exact,True
+R0340,Financial Analysis,exact,exact,True
+R0340,QuickBooks,exact,exact,True
+R0340,Auditing,exact,exact,True
+R0340,Excel,fuzzy,exact,False
+R0340,Risk Management,exact,exact,True
+R0340,Performance Management,exact,exact,True
+R0340,HRIS,exact,exact,True
+R0341,Talent Acquisition,exact,exact,True
+R0341,Performance Management,exact,exact,True
+R0341,Payroll,contextual,contextual,True
+R0341,Employee Relations,exact,exact,True
+R0341,HRIS,exact,exact,True
+R0341,Onboarding,exact,exact,True
+R0341,Recruitment,exact,exact,True
+R0341,Labor Law,exact,exact,True
+R0342,HTML,exact,exact,True
+R0342,TypeScript,exact,exact,True
+R0342,CSS,exact,exact,True
+R0342,Node.js,contextual,contextual,True
+R0342,Express.js,exact,exact,True
+R0342,REST API,fuzzy,fuzzy,True
+R0342,React,exact,exact,True
+R0342,MongoDB,exact,exact,True
+R0343,HTML,exact,exact,True
+R0343,Next.js,exact,exact,True
+R0343,Express.js,exact,exact,True
+R0343,MongoDB,exact,exact,True
+R0343,React,exact,exact,True
+R0343,CSS,exact,exact,True
+R0343,REST API,exact,exact,True
+R0343,Node.js,fuzzy,fuzzy,True
+R0343,TypeScript,exact,exact,True
+R0344,CI/CD,fuzzy,fuzzy,True
+R0344,Linux,exact,exact,True
+R0344,Azure,exact,exact,True
+R0344,Terraform,exact,exact,True
+R0344,GCP,exact,exact,True
+R0344,Jenkins,exact,exact,True
+R0344,AWS,exact,exact,True
+R0344,Kubernetes,fuzzy,fuzzy,True
+R0345,AWS,exact,exact,True
+R0345,Kubernetes,exact,exact,True
+R0345,GCP,exact,exact,True
+R0345,Docker,exact,exact,True
+R0345,Terraform,exact,exact,True
+R0345,Jenkins,exact,exact,True
+R0346,Linux,exact,exact,True
+R0346,AWS,fuzzy,fuzzy,True
+R0346,Kubernetes,exact,exact,True
+R0346,Ansible,exact,exact,True
+R0346,Jenkins,exact,exact,True
+R0346,CI/CD,exact,exact,True
+R0346,Terraform,exact,exact,True
+R0346,Azure,exact,exact,True
+R0346,Docker,exact,exact,True
+R0347,React,exact,exact,True
+R0347,REST API,contextual,contextual,True
+R0347,HTML,exact,exact,True
+R0347,CSS,exact,exact,True
+R0347,Node.js,contextual,contextual,True
+R0347,Express.js,exact,exact,True
+R0347,MongoDB,exact,exact,True
+R0347,Next.js,exact,exact,True
+R0347,TypeScript,fuzzy,fuzzy,True
+R0348,Employee Relations,exact,exact,True
+R0348,Talent Acquisition,exact,exact,True
+R0348,HRIS,fuzzy,fuzzy,True
+R0348,Recruitment,contextual,contextual,True
+R0348,Payroll,exact,exact,True
+R0348,Labor Law,exact,exact,True
+R0348,Performance Management,exact,exact,True
+R0348,Onboarding,exact,exact,True
+R0349,Scikit-learn,exact,exact,True
+R0349,TensorFlow,exact,exact,True
+R0349,PyTorch,exact,exact,True
+R0349,Deep Learning,exact,exact,True
+R0349,NumPy,exact,exact,True
+R0349,Machine Learning,exact,exact,True
+R0349,Data Visualization,exact,exact,True
+R0349,Python,exact,exact,True
+R0349,Pandas,exact,exact,True
+R0349,Natural Language Processing,exact,exact,True
+R0349,Risk Management,exact,exact,True
+R0349,Forecasting,exact,exact,True
+R0350,JavaScript,fuzzy,fuzzy,True
+R0350,React,exact,exact,True
+R0350,Node.js,exact,exact,True
+R0350,MongoDB,exact,exact,True
+R0350,Next.js,exact,exact,True
+R0350,CSS,exact,exact,True
+R0350,HTML,exact,exact,True
+R0350,Statistics,exact,exact,True
+R0350,NumPy,exact,exact,True
+R0351,Docker,exact,exact,True
+R0351,GCP,exact,exact,True
+R0351,Azure,exact,exact,True
+R0351,Linux,exact,exact,True
+R0351,CI/CD,exact,exact,True
+R0351,Kubernetes,exact,exact,True
+R0351,Jenkins,exact,exact,True
+R0351,Terraform,exact,exact,True
+R0351,Ansible,exact,exact,True
+R0351,TensorFlow,fuzzy,fuzzy,True
+R0351,Python,fuzzy,exact,False
+R0352,Onboarding,exact,exact,True
+R0352,Labor Law,exact,exact,True
+R0352,Performance Management,exact,exact,True
+R0352,Recruitment,contextual,contextual,True
+R0352,Employee Relations,exact,exact,True
+R0352,Talent Acquisition,exact,exact,True
+R0352,HRIS,exact,exact,True
+R0352,Payroll,contextual,contextual,True
+R0353,Employee Relations,exact,exact,True
+R0353,Labor Law,exact,exact,True
+R0353,Recruitment,contextual,contextual,True
+R0353,HRIS,fuzzy,fuzzy,True
+R0353,Performance Management,exact,exact,True
+R0353,Payroll,contextual,contextual,True
+R0354,Risk Management,exact,exact,True
+R0354,QuickBooks,exact,exact,True
+R0354,SAP,exact,exact,True
+R0354,Budgeting,exact,exact,True
+R0354,Financial Analysis,exact,exact,True
+R0354,Financial Modeling,exact,exact,True
+R0354,Excel,exact,exact,True
+R0354,Forecasting,exact,exact,True
+R0354,Accounting,exact,exact,True
+R0355,Jenkins,exact,exact,True
+R0355,Terraform,exact,exact,True
+R0355,Docker,exact,exact,True
+R0355,GCP,exact,exact,True
+R0355,CI/CD,exact,exact,True
+R0355,AWS,exact,exact,True
+R0355,Ansible,exact,exact,True
+R0355,Talent Acquisition,exact,exact,True
+R0355,Onboarding,exact,exact,True
+R0356,Node.js,exact,exact,True
+R0356,HTML,exact,exact,True
+R0356,Next.js,exact,exact,True
+R0356,JavaScript,exact,exact,True
+R0356,React,exact,exact,True
+R0356,CSS,exact,exact,True
+R0357,GCP,exact,exact,True
+R0357,Ansible,exact,exact,True
+R0357,CI/CD,fuzzy,fuzzy,True
+R0357,AWS,fuzzy,fuzzy,True
+R0357,Azure,exact,exact,True
+R0357,Docker,fuzzy,exact,False
+R0357,Linux,exact,exact,True
+R0357,Kubernetes,exact,exact,True
+R0358,REST API,exact,exact,True
+R0358,MongoDB,exact,exact,True
+R0358,CSS,exact,exact,True
+R0358,HTML,exact,exact,True
+R0358,Node.js,exact,exact,True
+R0358,Next.js,exact,exact,True
+R0358,Express.js,exact,exact,True
+R0358,JavaScript,fuzzy,fuzzy,True
+R0359,Onboarding,exact,exact,True
+R0359,Payroll,exact,exact,True
+R0359,Recruitment,exact,exact,True
+R0359,Talent Acquisition,exact,exact,True
+R0359,Performance Management,exact,exact,True
+R0359,Employee Relations,exact,exact,True
+R0359,HRIS,exact,exact,True
+R0359,Labor Law,exact,exact,True
+R0360,AWS,exact,exact,True
+R0360,Jenkins,exact,exact,True
+R0360,Ansible,exact,exact,True
+R0360,Terraform,exact,exact,True
+R0360,Kubernetes,exact,exact,True
+R0360,GCP,exact,exact,True
+R0360,JavaScript,exact,exact,True
+R0360,React,exact,exact,True
+R0361,Azure,exact,exact,True
+R0361,Linux,exact,exact,True
+R0361,Jenkins,exact,exact,True
+R0361,Terraform,exact,exact,True
+R0361,CI/CD,fuzzy,fuzzy,True
+R0361,Docker,exact,exact,True
+R0361,Ansible,exact,exact,True
+R0361,AWS,exact,exact,True
+R0361,Kubernetes,exact,exact,True
+R0361,GCP,exact,exact,True
+R0361,REST API,exact,exact,True
+R0361,CSS,exact,exact,True
+R0362,HTML,exact,exact,True
+R0362,JavaScript,exact,exact,True
+R0362,Node.js,exact,exact,True
+R0362,REST API,exact,exact,True
+R0362,React,exact,exact,True
+R0362,MongoDB,exact,exact,True
+R0362,Next.js,exact,exact,True
+R0363,Python,contextual,contextual,True
+R0363,NumPy,exact,exact,True
+R0363,Natural Language Processing,exact,exact,True
+R0363,Data Visualization,exact,exact,True
+R0363,Machine Learning,exact,exact,True
+R0363,PyTorch,exact,exact,True
+R0364,Terraform,exact,exact,True
+R0364,Linux,exact,exact,True
+R0364,Azure,exact,exact,True
+R0364,Jenkins,exact,exact,True
+R0364,Docker,fuzzy,fuzzy,True
+R0364,AWS,exact,exact,True
+R0364,Ansible,exact,exact,True
+R0365,Performance Management,exact,exact,True
+R0365,Talent Acquisition,exact,exact,True
+R0365,Onboarding,exact,exact,True
+R0365,Recruitment,exact,exact,True
+R0365,Employee Relations,exact,exact,True
+R0365,HRIS,exact,exact,True
+R0365,Labor Law,exact,exact,True
+R0365,Payroll,contextual,contextual,True
+R0366,NumPy,exact,exact,True
+R0366,Data Visualization,exact,exact,True
+R0366,Pandas,exact,exact,True
+R0366,Deep Learning,exact,exact,True
+R0366,Python,contextual,contextual,True
+R0366,Machine Learning,fuzzy,fuzzy,True
+R0366,Statistics,exact,exact,True
+R0366,PyTorch,fuzzy,fuzzy,True
+R0366,SQL,contextual,contextual,True
+R0367,Jenkins,exact,exact,True
+R0367,CI/CD,fuzzy,fuzzy,True
+R0367,GCP,exact,exact,True
+R0367,Terraform,exact,exact,True
+R0367,Azure,exact,exact,True
+R0367,Docker,exact,exact,True
+R0367,Kubernetes,exact,exact,True
+R0367,AWS,exact,exact,True
+R0367,Linux,exact,exact,True
+R0367,Payroll,exact,exact,True
+R0367,HRIS,exact,exact,True
+R0368,Excel,exact,exact,True
+R0368,Forecasting,exact,exact,True
+R0368,Accounting,exact,exact,True
+R0368,Risk Management,contextual,contextual,True
+R0368,Auditing,exact,exact,True
+R0368,SAP,fuzzy,fuzzy,True
+R0368,Financial Modeling,exact,exact,True
+R0369,PyTorch,exact,exact,True
+R0369,Scikit-learn,fuzzy,fuzzy,True
+R0369,Deep Learning,contextual,contextual,True
+R0369,NumPy,exact,exact,True
+R0369,Pandas,exact,exact,True
+R0369,Natural Language Processing,exact,exact,True
+R0369,Statistics,exact,exact,True
+R0369,TensorFlow,exact,exact,True
+R0369,Machine Learning,exact,exact,True
+R0369,Data Visualization,contextual,contextual,True
+R0369,Next.js,exact,exact,True
+R0369,TypeScript,exact,exact,True
+R0370,Node.js,exact,exact,True
+R0370,MongoDB,exact,exact,True
+R0370,REST API,exact,exact,True
+R0370,Next.js,exact,exact,True
+R0370,TypeScript,fuzzy,fuzzy,True
+R0370,React,fuzzy,fuzzy,True
+R0371,Excel,exact,exact,True
+R0371,Accounting,exact,exact,True
+R0371,Forecasting,exact,exact,True
+R0371,Risk Management,exact,exact,True
+R0371,Budgeting,exact,exact,True
+R0371,Financial Modeling,contextual,contextual,True
+R0371,QuickBooks,exact,exact,True
+R0371,Financial Analysis,exact,exact,True
+R0371,Auditing,exact,exact,True
+R0372,Recruitment,contextual,contextual,True
+R0372,Labor Law,exact,exact,True
+R0372,Employee Relations,exact,exact,True
+R0372,Payroll,exact,exact,True
+R0372,Onboarding,exact,exact,True
+R0372,Performance Management,exact,exact,True
+R0372,Talent Acquisition,exact,exact,True
+R0373,Labor Law,exact,exact,True
+R0373,Performance Management,exact,exact,True
+R0373,Talent Acquisition,exact,exact,True
+R0373,Payroll,exact,exact,True
+R0373,Employee Relations,exact,exact,True
+R0373,HRIS,exact,exact,True
+R0374,Onboarding,exact,exact,True
+R0374,Performance Management,exact,exact,True
+R0374,HRIS,exact,exact,True
+R0374,Labor Law,exact,exact,True
+R0374,Payroll,exact,exact,True
+R0374,Talent Acquisition,exact,exact,True
+R0374,Employee Relations,exact,exact,True
+R0374,Recruitment,exact,exact,True
+R0375,Excel,exact,exact,True
+R0375,SAP,exact,exact,True
+R0375,Financial Analysis,exact,exact,True
+R0375,Auditing,exact,exact,True
+R0375,Budgeting,exact,exact,True
+R0375,Risk Management,exact,exact,True
+R0375,Financial Modeling,exact,exact,True
+R0375,Accounting,exact,exact,True
+R0375,Forecasting,exact,exact,True
+R0375,QuickBooks,exact,exact,True
+R0375,Next.js,exact,exact,True
+R0375,HTML,exact,exact,True
+R0376,Ansible,exact,exact,True
+R0376,AWS,contextual,contextual,True
+R0376,GCP,exact,exact,True
+R0376,Terraform,exact,exact,True
+R0376,Azure,exact,exact,True
+R0376,Jenkins,exact,exact,True
+R0376,Linux,exact,exact,True
+R0376,CI/CD,fuzzy,fuzzy,True
+R0376,Docker,exact,exact,True
+R0376,Kubernetes,exact,exact,True
+R0377,MongoDB,fuzzy,fuzzy,True
+R0377,React,exact,exact,True
+R0377,CSS,exact,exact,True
+R0377,TypeScript,exact,exact,True
+R0377,HTML,exact,exact,True
+R0377,Express.js,exact,exact,True
+R0377,Next.js,exact,exact,True
+R0377,JavaScript,exact,exact,True
+R0377,REST API,exact,exact,True
+R0378,TensorFlow,exact,exact,True
+R0378,Machine Learning,fuzzy,fuzzy,True
+R0378,Scikit-learn,exact,exact,True
+R0378,Statistics,exact,exact,True
+R0378,Data Visualization,contextual,contextual,True
+R0378,Deep Learning,exact,exact,True
+R0378,Natural Language Processing,exact,exact,True
+R0378,SQL,exact,exact,True
+R0378,NumPy,exact,exact,True
+R0378,Pandas,exact,exact,True
+R0378,SAP,fuzzy,fuzzy,True
+R0378,Risk Management,exact,exact,True
+R0379,Financial Analysis,exact,exact,True
+R0379,Risk Management,exact,exact,True
+R0379,Auditing,exact,exact,True
+R0379,Budgeting,exact,exact,True
+R0379,Excel,exact,exact,True
+R0379,Accounting,exact,exact,True
+R0379,Financial Modeling,exact,exact,True
+R0379,QuickBooks,exact,exact,True
+R0379,SAP,exact,exact,True
+R0379,Forecasting,exact,exact,True
+R0379,Docker,exact,exact,True
+R0379,Terraform,exact,exact,True
+R0380,Terraform,exact,exact,True
+R0380,Kubernetes,exact,exact,True
+R0380,Azure,exact,exact,True
+R0380,Docker,contextual,contextual,True
+R0380,GCP,exact,exact,True
+R0380,Ansible,exact,exact,True
+R0380,Linux,exact,exact,True
+R0380,CI/CD,contextual,contextual,True
+R0380,AWS,fuzzy,fuzzy,True
+R0380,Labor Law,exact,exact,True
+R0380,Performance Management,exact,exact,True
+R0381,Next.js,exact,exact,True
+R0381,JavaScript,exact,exact,True
+R0381,MongoDB,exact,exact,True
+R0381,React,contextual,contextual,True
+R0381,TypeScript,exact,exact,True
+R0381,CSS,exact,exact,True
+R0381,REST API,fuzzy,fuzzy,True
+R0381,Express.js,exact,exact,True
+R0381,Node.js,exact,exact,True
+R0381,HTML,exact,exact,True
+R0382,TensorFlow,exact,exact,True
+R0382,Pandas,exact,exact,True
+R0382,NumPy,exact,exact,True
+R0382,SQL,exact,exact,True
+R0382,Python,exact,exact,True
+R0382,Statistics,exact,exact,True
+R0382,Data Visualization,exact,exact,True
+R0382,Natural Language Processing,exact,exact,True
+R0382,PyTorch,exact,exact,True
+R0382,Machine Learning,exact,exact,True
+R0382,Forecasting,exact,exact,True
+R0382,Budgeting,exact,exact,True
+R0383,HRIS,exact,exact,True
+R0383,Employee Relations,exact,exact,True
+R0383,Payroll,contextual,contextual,True
+R0383,Onboarding,exact,exact,True
+R0383,Performance Management,exact,exact,True
+R0383,Recruitment,exact,exact,True
+R0383,Labor Law,exact,exact,True
+R0383,Talent Acquisition,exact,exact,True
+R0383,Linux,exact,exact,True
+R0383,Docker,exact,exact,True
+R0384,Accounting,exact,exact,True
+R0384,Forecasting,exact,exact,True
+R0384,Risk Management,contextual,contextual,True
+R0384,Budgeting,exact,exact,True
+R0384,QuickBooks,exact,exact,True
+R0384,SAP,fuzzy,exact,False
+R0384,Excel,exact,exact,True
+R0384,Financial Modeling,exact,exact,True
+R0384,Financial Analysis,exact,exact,True
+R0385,Employee Relations,exact,exact,True
+R0385,Talent Acquisition,exact,exact,True
+R0385,HRIS,exact,exact,True
+R0385,Onboarding,exact,exact,True
+R0385,Performance Management,exact,exact,True
+R0385,Payroll,exact,exact,True
+R0385,Recruitment,contextual,contextual,True
+R0386,React,exact,exact,True
+R0386,Node.js,exact,exact,True
+R0386,REST API,fuzzy,fuzzy,True
+R0386,JavaScript,exact,exact,True
+R0386,Express.js,exact,exact,True
+R0386,Next.js,exact,exact,True
+R0386,CSS,exact,exact,True
+R0387,Machine Learning,fuzzy,fuzzy,True
+R0387,NumPy,exact,exact,True
+R0387,Scikit-learn,exact,exact,True
+R0387,Statistics,exact,exact,True
+R0387,Data Visualization,exact,exact,True
+R0387,PyTorch,exact,exact,True
+R0387,Pandas,exact,exact,True
+R0387,Natural Language Processing,exact,exact,True
+R0388,Kubernetes,fuzzy,fuzzy,True
+R0388,Docker,fuzzy,fuzzy,True
+R0388,AWS,contextual,contextual,True
+R0388,Ansible,exact,exact,True
+R0388,Linux,exact,exact,True
+R0388,Terraform,exact,exact,True
+R0389,SAP,exact,exact,True
+R0389,Auditing,exact,exact,True
+R0389,Excel,fuzzy,exact,False
+R0389,Financial Modeling,contextual,contextual,True
+R0389,Budgeting,exact,exact,True
+R0389,Forecasting,exact,exact,True
+R0389,Accounting,exact,exact,True
+R0390,Ansible,exact,exact,True
+R0390,Kubernetes,fuzzy,exact,False
+R0390,Linux,exact,exact,True
+R0390,Docker,exact,exact,True
+R0390,CI/CD,exact,exact,True
+R0390,Terraform,exact,exact,True
+R0390,GCP,exact,exact,True
+R0390,Jenkins,exact,exact,True
+R0391,QuickBooks,exact,exact,True
+R0391,Risk Management,exact,exact,True
+R0391,Financial Analysis,exact,exact,True
+R0391,Budgeting,exact,exact,True
+R0391,Accounting,exact,exact,True
+R0391,Excel,fuzzy,exact,False
+R0391,Auditing,exact,exact,True
+R0391,Financial Modeling,exact,exact,True
+R0391,Forecasting,exact,exact,True
+R0392,Node.js,contextual,contextual,True
+R0392,CSS,exact,exact,True
+R0392,JavaScript,exact,exact,True
+R0392,TypeScript,exact,exact,True
+R0392,React,contextual,contextual,True
+R0392,REST API,exact,exact,True
+R0392,MongoDB,exact,exact,True
+R0392,HTML,exact,exact,True
+R0393,Pandas,exact,exact,True
+R0393,NumPy,exact,exact,True
+R0393,Deep Learning,contextual,contextual,True
+R0393,Statistics,exact,exact,True
+R0393,Python,exact,exact,True
+R0393,SQL,fuzzy,exact,False
+R0393,Scikit-learn,exact,exact,True
+R0393,TensorFlow,exact,exact,True
+R0393,Budgeting,exact,exact,True
+R0393,QuickBooks,exact,exact,True
+R0394,HTML,exact,exact,True
+R0394,MongoDB,fuzzy,exact,False
+R0394,Node.js,exact,exact,True
+R0394,TypeScript,exact,exact,True
+R0394,Express.js,exact,exact,True
+R0394,JavaScript,exact,exact,True
+R0394,REST API,fuzzy,fuzzy,True
+R0394,Linux,exact,exact,True
+R0394,CI/CD,exact,exact,True
+R0395,Deep Learning,contextual,contextual,True
+R0395,Pandas,exact,exact,True
+R0395,Machine Learning,exact,exact,True
+R0395,NumPy,exact,exact,True
+R0395,Natural Language Processing,exact,exact,True
+R0395,Scikit-learn,exact,exact,True
+R0396,TypeScript,exact,exact,True
+R0396,MongoDB,exact,exact,True
+R0396,Node.js,exact,exact,True
+R0396,React,exact,exact,True
+R0396,JavaScript,exact,exact,True
+R0396,CSS,exact,exact,True
+R0396,Express.js,exact,exact,True
+R0396,HTML,exact,exact,True
+R0397,Linux,exact,exact,True
+R0397,Kubernetes,contextual,contextual,True
+R0397,Ansible,exact,exact,True
+R0397,Azure,exact,exact,True
+R0397,Docker,fuzzy,fuzzy,True
+R0397,GCP,exact,exact,True
+R0397,Terraform,exact,exact,True
+R0398,Node.js,exact,exact,True
+R0398,CSS,exact,exact,True
+R0398,Express.js,exact,exact,True
+R0398,Next.js,exact,exact,True
+R0398,JavaScript,exact,exact,True
+R0398,REST API,contextual,contextual,True
+R0398,HTML,exact,exact,True
+R0398,MongoDB,exact,exact,True
+R0398,React,fuzzy,fuzzy,True
+R0399,Deep Learning,contextual,contextual,True
+R0399,Natural Language Processing,exact,exact,True
+R0399,TensorFlow,exact,exact,True
+R0399,Scikit-learn,exact,exact,True
+R0399,SQL,exact,exact,True
+R0399,Pandas,exact,exact,True
+R0399,Data Visualization,exact,exact,True
+R0399,PyTorch,exact,exact,True
+R0400,Performance Management,exact,exact,True
+R0400,HRIS,exact,exact,True
+R0400,Labor Law,exact,exact,True
+R0400,Onboarding,exact,exact,True
+R0400,Recruitment,contextual,contextual,True
+R0400,Payroll,contextual,contextual,True
+R0401,MongoDB,exact,exact,True
+R0401,Node.js,fuzzy,fuzzy,True
+R0401,REST API,contextual,contextual,True
+R0401,React,contextual,contextual,True
+R0401,Next.js,exact,exact,True
+R0401,TypeScript,exact,exact,True
+R0401,JavaScript,exact,exact,True
+R0401,Express.js,exact,exact,True
+R0401,Linux,exact,exact,True
+R0401,Docker,contextual,contextual,True
+R0402,MongoDB,exact,exact,True
+R0402,Node.js,fuzzy,fuzzy,True
+R0402,CSS,exact,exact,True
+R0402,HTML,exact,exact,True
+R0402,REST API,exact,exact,True
+R0402,Express.js,exact,exact,True
+R0402,TypeScript,fuzzy,fuzzy,True
+R0403,Financial Analysis,exact,exact,True
+R0403,QuickBooks,exact,exact,True
+R0403,Budgeting,exact,exact,True
+R0403,Forecasting,exact,exact,True
+R0403,Excel,exact,exact,True
+R0403,SAP,fuzzy,fuzzy,True
+R0403,Risk Management,contextual,contextual,True
+R0403,Auditing,exact,exact,True
+R0404,Linux,exact,exact,True
+R0404,AWS,fuzzy,fuzzy,True
+R0404,Docker,exact,exact,True
+R0404,GCP,exact,exact,True
+R0404,Azure,exact,exact,True
+R0404,CI/CD,exact,exact,True
+R0404,Kubernetes,exact,exact,True
+R0404,Jenkins,exact,exact,True
+R0404,Ansible,exact,exact,True
+R0404,Talent Acquisition,exact,exact,True
+R0404,Recruitment,exact,exact,True
+R0405,Machine Learning,exact,exact,True
+R0405,NumPy,exact,exact,True
+R0405,Python,fuzzy,fuzzy,True
+R0405,Scikit-learn,exact,exact,True
+R0405,Statistics,exact,exact,True
+R0405,Pandas,exact,exact,True
+R0405,PyTorch,fuzzy,exact,False
+R0405,Natural Language Processing,exact,exact,True
+R0406,Deep Learning,exact,exact,True
+R0406,Natural Language Processing,exact,exact,True
+R0406,PyTorch,fuzzy,exact,False
+R0406,Machine Learning,exact,exact,True
+R0406,SQL,exact,exact,True
+R0406,Scikit-learn,exact,exact,True
+R0406,Data Visualization,contextual,contextual,True
+R0406,TensorFlow,exact,exact,True
+R0407,Pandas,exact,exact,True
+R0407,Natural Language Processing,exact,exact,True
+R0407,Data Visualization,contextual,contextual,True
+R0407,Machine Learning,exact,exact,True
+R0407,Deep Learning,exact,exact,True
+R0407,NumPy,exact,exact,True
+R0407,Scikit-learn,exact,exact,True
+R0407,Statistics,exact,exact,True
+R0407,Python,fuzzy,fuzzy,True
+R0408,Labor Law,exact,exact,True
+R0408,Talent Acquisition,exact,exact,True
+R0408,Onboarding,exact,exact,True
+R0408,Recruitment,exact,exact,True
+R0408,Payroll,contextual,contextual,True
+R0408,HRIS,exact,exact,True
+R0408,Performance Management,exact,exact,True
+R0408,Employee Relations,exact,exact,True
+R0409,Statistics,exact,exact,True
+R0409,Python,exact,exact,True
+R0409,Pandas,exact,exact,True
+R0409,SQL,exact,exact,True
+R0409,Natural Language Processing,exact,exact,True
+R0409,Machine Learning,exact,exact,True
+R0409,PyTorch,exact,exact,True
+R0409,Deep Learning,exact,exact,True
+R0409,Data Visualization,contextual,contextual,True
+R0409,Scikit-learn,exact,exact,True
+R0410,Performance Management,exact,exact,True
+R0410,Employee Relations,exact,exact,True
+R0410,Recruitment,contextual,contextual,True
+R0410,Labor Law,exact,exact,True
+R0410,HRIS,fuzzy,fuzzy,True
+R0410,Payroll,contextual,contextual,True
+R0410,Onboarding,exact,exact,True
+R0410,Excel,exact,exact,True
+R0410,Budgeting,exact,exact,True
+R0411,Python,exact,exact,True
+R0411,Statistics,exact,exact,True
+R0411,TensorFlow,exact,exact,True
+R0411,NumPy,exact,exact,True
+R0411,SQL,exact,exact,True
+R0411,Scikit-learn,exact,exact,True
+R0411,Machine Learning,exact,exact,True
+R0411,CSS,exact,exact,True
+R0411,REST API,exact,exact,True
+R0412,Ansible,exact,exact,True
+R0412,GCP,exact,exact,True
+R0412,AWS,contextual,contextual,True
+R0412,Terraform,exact,exact,True
+R0412,CI/CD,exact,exact,True
+R0412,Azure,exact,exact,True
+R0412,Linux,exact,exact,True
+R0412,Docker,contextual,contextual,True
+R0412,Jenkins,exact,exact,True
+R0412,TypeScript,exact,exact,True
+R0412,Next.js,exact,exact,True
+R0413,Pandas,exact,exact,True
+R0413,Natural Language Processing,exact,exact,True
+R0413,TensorFlow,exact,exact,True
+R0413,SQL,exact,exact,True
+R0413,Deep Learning,exact,exact,True
+R0413,NumPy,exact,exact,True
+R0414,Statistics,exact,exact,True
+R0414,PyTorch,exact,exact,True
+R0414,TensorFlow,exact,exact,True
+R0414,Data Visualization,contextual,contextual,True
+R0414,Scikit-learn,exact,exact,True
+R0414,Deep Learning,exact,exact,True
+R0414,NumPy,exact,exact,True
+R0414,Pandas,exact,exact,True
+R0414,SQL,contextual,contextual,True
+R0414,Ansible,exact,exact,True
+R0414,Linux,exact,exact,True
+R0415,Statistics,exact,exact,True
+R0415,Python,contextual,contextual,True
+R0415,Data Visualization,contextual,contextual,True
+R0415,TensorFlow,exact,exact,True
+R0415,Machine Learning,exact,exact,True
+R0415,Pandas,exact,exact,True
+R0416,Excel,exact,exact,True
+R0416,SAP,fuzzy,exact,False
+R0416,Auditing,exact,exact,True
+R0416,Financial Modeling,exact,exact,True
+R0416,Accounting,exact,exact,True
+R0416,QuickBooks,exact,exact,True
+R0416,Budgeting,exact,exact,True
+R0416,Forecasting,exact,exact,True
+R0416,Financial Analysis,exact,exact,True
+R0416,CI/CD,exact,exact,True
+R0416,Azure,exact,exact,True
+R0417,AWS,contextual,contextual,True
+R0417,Linux,exact,exact,True
+R0417,CI/CD,contextual,contextual,True
+R0417,Jenkins,exact,exact,True
+R0417,Ansible,exact,exact,True
+R0417,Kubernetes,exact,exact,True
+R0417,Terraform,exact,exact,True
+R0417,Docker,exact,exact,True
+R0418,Budgeting,exact,exact,True
+R0418,QuickBooks,exact,exact,True
+R0418,Accounting,exact,exact,True
+R0418,Auditing,exact,exact,True
+R0418,Excel,exact,exact,True
+R0418,Financial Modeling,exact,exact,True
+R0418,Financial Analysis,exact,exact,True
+R0418,SAP,exact,exact,True
+R0418,Forecasting,exact,exact,True
+R0418,JavaScript,exact,exact,True
+R0418,Express.js,exact,exact,True
+R0419,Recruitment,exact,exact,True
+R0419,Employee Relations,exact,exact,True
+R0419,Labor Law,exact,exact,True
+R0419,Onboarding,exact,exact,True
+R0419,Talent Acquisition,exact,exact,True
+R0419,Performance Management,exact,exact,True
+R0419,Payroll,exact,exact,True
+R0419,HRIS,fuzzy,fuzzy,True
+R0420,Statistics,exact,exact,True
+R0420,Machine Learning,exact,exact,True
+R0420,Pandas,exact,exact,True
+R0420,TensorFlow,exact,exact,True
+R0420,SQL,exact,exact,True
+R0420,Deep Learning,contextual,contextual,True
+R0420,Scikit-learn,exact,exact,True
+R0420,Data Visualization,exact,exact,True
+R0420,Natural Language Processing,exact,exact,True
+R0420,Node.js,exact,exact,True
+R0420,JavaScript,exact,exact,True
+R0421,TypeScript,fuzzy,fuzzy,True
+R0421,Node.js,exact,exact,True
+R0421,HTML,exact,exact,True
+R0421,JavaScript,exact,exact,True
+R0421,Next.js,exact,exact,True
+R0421,React,exact,exact,True
+R0421,SAP,exact,exact,True
+R0421,Excel,fuzzy,exact,False
+R0422,Data Visualization,exact,exact,True
+R0422,NumPy,exact,exact,True
+R0422,Deep Learning,contextual,contextual,True
+R0422,Pandas,exact,exact,True
+R0422,PyTorch,exact,exact,True
+R0422,SQL,contextual,contextual,True
+R0422,TensorFlow,exact,exact,True
+R0422,Scikit-learn,exact,exact,True
+R0422,Natural Language Processing,exact,exact,True
+R0422,Machine Learning,contextual,contextual,True
+R0423,Risk Management,contextual,contextual,True
+R0423,Financial Modeling,contextual,contextual,True
+R0423,Excel,exact,exact,True
+R0423,Auditing,exact,exact,True
+R0423,Accounting,exact,exact,True
+R0423,SAP,exact,exact,True
+R0423,Financial Analysis,exact,exact,True
+R0423,Budgeting,exact,exact,True
+R0423,TypeScript,exact,exact,True
+R0423,Next.js,exact,exact,True
+R0424,Financial Analysis,exact,exact,True
+R0424,Excel,exact,exact,True
+R0424,Risk Management,exact,exact,True
+R0424,Forecasting,exact,exact,True
+R0424,SAP,exact,exact,True
+R0424,Accounting,exact,exact,True
+R0424,Budgeting,exact,exact,True
+R0424,Financial Modeling,contextual,contextual,True
+R0424,Labor Law,exact,exact,True
+R0424,Recruitment,exact,exact,True
+R0425,Recruitment,contextual,contextual,True
+R0425,Employee Relations,exact,exact,True
+R0425,Talent Acquisition,exact,exact,True
+R0425,Labor Law,exact,exact,True
+R0425,HRIS,exact,exact,True
+R0425,Onboarding,exact,exact,True
+R0425,Budgeting,exact,exact,True
+R0425,Financial Analysis,exact,exact,True
+R0426,Kubernetes,exact,exact,True
+R0426,Docker,exact,exact,True
+R0426,CI/CD,exact,exact,True
+R0426,Azure,exact,exact,True
+R0426,Linux,exact,exact,True
+R0426,GCP,exact,exact,True
+R0426,Terraform,exact,exact,True
+R0426,Jenkins,exact,exact,True
+R0426,AWS,fuzzy,fuzzy,True
+R0426,Ansible,exact,exact,True
+R0426,TypeScript,exact,exact,True
+R0426,Express.js,exact,exact,True
+R0427,Onboarding,exact,exact,True
+R0427,HRIS,fuzzy,fuzzy,True
+R0427,Performance Management,exact,exact,True
+R0427,Labor Law,exact,exact,True
+R0427,Payroll,contextual,contextual,True
+R0427,Employee Relations,exact,exact,True
+R0427,Talent Acquisition,exact,exact,True
+R0427,Recruitment,exact,exact,True
+R0428,Payroll,contextual,contextual,True
+R0428,Recruitment,exact,exact,True
+R0428,Talent Acquisition,exact,exact,True
+R0428,Onboarding,exact,exact,True
+R0428,Labor Law,exact,exact,True
+R0428,HRIS,exact,exact,True
+R0428,Scikit-learn,exact,exact,True
+R0428,Pandas,exact,exact,True
+R0429,Payroll,exact,exact,True
+R0429,Performance Management,exact,exact,True
+R0429,Labor Law,exact,exact,True
+R0429,Onboarding,exact,exact,True
+R0429,Recruitment,exact,exact,True
+R0429,HRIS,exact,exact,True
+R0429,Employee Relations,exact,exact,True
+R0429,Talent Acquisition,exact,exact,True
+R0430,Kubernetes,exact,exact,True
+R0430,Azure,exact,exact,True
+R0430,GCP,exact,exact,True
+R0430,AWS,contextual,contextual,True
+R0430,CI/CD,exact,exact,True
+R0430,Ansible,exact,exact,True
+R0430,Jenkins,exact,exact,True
+R0430,Terraform,exact,exact,True
+R0431,QuickBooks,exact,exact,True
+R0431,Risk Management,contextual,contextual,True
+R0431,Excel,fuzzy,exact,False
+R0431,Forecasting,exact,exact,True
+R0431,Financial Modeling,exact,exact,True
+R0431,Auditing,exact,exact,True
+R0431,Financial Analysis,exact,exact,True
+R0431,SAP,exact,exact,True
+R0431,Accounting,exact,exact,True
+R0431,Data Visualization,exact,exact,True
+R0431,NumPy,exact,exact,True
+R0432,Financial Modeling,exact,exact,True
+R0432,Excel,exact,exact,True
+R0432,Accounting,exact,exact,True
+R0432,Budgeting,exact,exact,True
+R0432,Forecasting,exact,exact,True
+R0432,Risk Management,exact,exact,True
+R0432,SAP,exact,exact,True
+R0432,Auditing,exact,exact,True
+R0433,AWS,fuzzy,fuzzy,True
+R0433,Docker,contextual,contextual,True
+R0433,Terraform,exact,exact,True
+R0433,CI/CD,exact,exact,True
+R0433,Jenkins,exact,exact,True
+R0433,Azure,exact,exact,True
+R0434,Ansible,exact,exact,True
+R0434,GCP,exact,exact,True
+R0434,Terraform,exact,exact,True
+R0434,Jenkins,exact,exact,True
+R0434,AWS,fuzzy,fuzzy,True
+R0434,CI/CD,exact,exact,True
+R0434,Azure,exact,exact,True
+R0434,Kubernetes,fuzzy,fuzzy,True
+R0435,Employee Relations,exact,exact,True
+R0435,Labor Law,exact,exact,True
+R0435,Payroll,contextual,contextual,True
+R0435,Recruitment,exact,exact,True
+R0435,Onboarding,exact,exact,True
+R0435,Performance Management,exact,exact,True
+R0435,Talent Acquisition,exact,exact,True
+R0436,TypeScript,exact,exact,True
+R0436,Next.js,exact,exact,True
+R0436,REST API,contextual,contextual,True
+R0436,CSS,exact,exact,True
+R0436,HTML,exact,exact,True
+R0436,Node.js,exact,exact,True
+R0436,MongoDB,exact,exact,True
+R0436,JavaScript,fuzzy,exact,False
+R0436,Onboarding,exact,exact,True
+R0436,Payroll,exact,exact,True
+R0437,Ansible,exact,exact,True
+R0437,Docker,exact,exact,True
+R0437,CI/CD,contextual,contextual,True
+R0437,AWS,fuzzy,fuzzy,True
+R0437,Jenkins,exact,exact,True
+R0437,Azure,exact,exact,True
+R0437,Recruitment,exact,exact,True
+R0437,Payroll,contextual,contextual,True
+R0438,Onboarding,exact,exact,True
+R0438,Employee Relations,exact,exact,True
+R0438,Labor Law,exact,exact,True
+R0438,Recruitment,exact,exact,True
+R0438,Payroll,contextual,contextual,True
+R0438,Talent Acquisition,exact,exact,True
+R0438,HRIS,exact,exact,True
+R0438,Performance Management,exact,exact,True
+R0439,Budgeting,exact,exact,True
+R0439,Financial Analysis,exact,exact,True
+R0439,Excel,exact,exact,True
+R0439,Accounting,exact,exact,True
+R0439,QuickBooks,exact,exact,True
+R0439,SAP,exact,exact,True
+R0439,Auditing,exact,exact,True
+R0440,Recruitment,contextual,contextual,True
+R0440,HRIS,exact,exact,True
+R0440,Labor Law,exact,exact,True
+R0440,Payroll,exact,exact,True
+R0440,Talent Acquisition,exact,exact,True
+R0440,Performance Management,exact,exact,True
+R0440,Onboarding,exact,exact,True
+R0440,Employee Relations,exact,exact,True
+R0441,Python,fuzzy,exact,False
+R0441,NumPy,exact,exact,True
+R0441,Machine Learning,exact,exact,True
+R0441,Scikit-learn,fuzzy,fuzzy,True
+R0441,Data Visualization,exact,exact,True
+R0441,TensorFlow,exact,exact,True
+R0441,Forecasting,exact,exact,True
+R0441,Financial Modeling,exact,exact,True
+R0442,Ansible,exact,exact,True
+R0442,CI/CD,exact,exact,True
+R0442,Kubernetes,exact,exact,True
+R0442,Docker,exact,exact,True
+R0442,Linux,exact,exact,True
+R0442,GCP,exact,exact,True
+R0443,Payroll,contextual,contextual,True
+R0443,Performance Management,exact,exact,True
+R0443,HRIS,fuzzy,fuzzy,True
+R0443,Employee Relations,exact,exact,True
+R0443,Labor Law,exact,exact,True
+R0443,Talent Acquisition,exact,exact,True
+R0443,Recruitment,contextual,contextual,True
+R0444,HRIS,fuzzy,fuzzy,True
+R0444,Payroll,exact,exact,True
+R0444,Performance Management,exact,exact,True
+R0444,Recruitment,contextual,contextual,True
+R0444,Talent Acquisition,exact,exact,True
+R0444,Onboarding,exact,exact,True
+R0444,Employee Relations,exact,exact,True
+R0444,Labor Law,exact,exact,True
+R0444,Excel,exact,exact,True
+R0444,Risk Management,contextual,fuzzy,False
+R0445,Forecasting,exact,exact,True
+R0445,QuickBooks,exact,exact,True
+R0445,Risk Management,contextual,contextual,True
+R0445,Budgeting,exact,exact,True
+R0445,Financial Modeling,contextual,contextual,True
+R0445,Excel,exact,exact,True
+R0445,Auditing,exact,exact,True
+R0446,Labor Law,exact,exact,True
+R0446,HRIS,exact,exact,True
+R0446,Talent Acquisition,exact,exact,True
+R0446,Onboarding,exact,exact,True
+R0446,Employee Relations,exact,exact,True
+R0446,Recruitment,exact,exact,True
+R0446,Performance Management,exact,exact,True
+R0446,Payroll,contextual,contextual,True
+R0447,Node.js,contextual,contextual,True
+R0447,REST API,exact,exact,True
+R0447,Express.js,exact,exact,True
+R0447,JavaScript,exact,exact,True
+R0447,MongoDB,exact,exact,True
+R0447,CSS,exact,exact,True
+R0447,Natural Language Processing,exact,exact,True
+R0447,Machine Learning,exact,exact,True
+R0448,Payroll,contextual,contextual,True
+R0448,Onboarding,exact,exact,True
+R0448,Talent Acquisition,exact,exact,True
+R0448,Performance Management,exact,exact,True
+R0448,Labor Law,exact,exact,True
+R0448,Employee Relations,exact,exact,True
+R0448,Recruitment,contextual,contextual,True
+R0448,HRIS,exact,exact,True
+R0449,SAP,fuzzy,exact,False
+R0449,Financial Analysis,exact,exact,True
+R0449,Auditing,exact,exact,True
+R0449,Budgeting,exact,exact,True
+R0449,Accounting,exact,exact,True
+R0449,Forecasting,exact,exact,True
+R0449,Excel,exact,exact,True
+R0449,Financial Modeling,exact,exact,True
+R0449,QuickBooks,exact,exact,True
+R0450,Onboarding,exact,exact,True
+R0450,Performance Management,exact,exact,True
+R0450,Labor Law,exact,exact,True
+R0450,Employee Relations,exact,exact,True
+R0450,Recruitment,exact,exact,True
+R0450,HRIS,exact,exact,True
+R0450,Payroll,exact,exact,True
+R0450,Talent Acquisition,exact,exact,True
+R0451,Express.js,exact,exact,True
+R0451,TypeScript,exact,exact,True
+R0451,JavaScript,exact,exact,True
+R0451,React,exact,exact,True
+R0451,HTML,exact,exact,True
+R0451,MongoDB,exact,exact,True
+R0451,CSS,exact,exact,True
+R0452,REST API,fuzzy,fuzzy,True
+R0452,MongoDB,exact,exact,True
+R0452,CSS,exact,exact,True
+R0452,Next.js,exact,exact,True
+R0452,React,exact,exact,True
+R0452,JavaScript,exact,exact,True
+R0452,Express.js,exact,exact,True
+R0452,HTML,exact,exact,True
+R0453,Machine Learning,contextual,contextual,True
+R0453,Data Visualization,exact,exact,True
+R0453,Scikit-learn,exact,exact,True
+R0453,Statistics,exact,exact,True
+R0453,Pandas,exact,exact,True
+R0453,Deep Learning,exact,exact,True
+R0453,PyTorch,exact,exact,True
+R0453,Python,fuzzy,fuzzy,True
+R0453,Natural Language Processing,exact,exact,True
+R0453,HTML,exact,exact,True
+R0453,REST API,exact,exact,True
+R0454,Machine Learning,contextual,contextual,True
+R0454,NumPy,exact,exact,True
+R0454,SQL,exact,exact,True
+R0454,Pandas,exact,exact,True
+R0454,PyTorch,exact,exact,True
+R0454,Scikit-learn,exact,exact,True
+R0455,Excel,fuzzy,exact,False
+R0455,Financial Modeling,exact,exact,True
+R0455,Forecasting,exact,exact,True
+R0455,SAP,exact,exact,True
+R0455,Auditing,exact,exact,True
+R0455,Budgeting,exact,exact,True
+R0455,Risk Management,contextual,contextual,True
+R0455,Financial Analysis,exact,exact,True
+R0455,QuickBooks,exact,exact,True
+R0455,Accounting,exact,exact,True
+R0456,NumPy,exact,exact,True
+R0456,Data Visualization,exact,exact,True
+R0456,TensorFlow,fuzzy,exact,False
+R0456,Natural Language Processing,exact,exact,True
+R0456,Machine Learning,exact,exact,True
+R0456,Python,exact,exact,True
+R0456,Deep Learning,exact,exact,True
+R0456,SQL,exact,exact,True
+R0457,Budgeting,exact,exact,True
+R0457,SAP,exact,exact,True
+R0457,Financial Modeling,exact,exact,True
+R0457,Accounting,exact,exact,True
+R0457,Forecasting,exact,exact,True
+R0457,Financial Analysis,exact,exact,True
+R0457,QuickBooks,exact,exact,True
+R0457,Excel,fuzzy,exact,False
+R0458,MongoDB,exact,exact,True
+R0458,HTML,exact,exact,True
+R0458,Node.js,fuzzy,fuzzy,True
+R0458,JavaScript,exact,exact,True
+R0458,Next.js,exact,exact,True
+R0458,TypeScript,fuzzy,fuzzy,True
+R0458,REST API,contextual,contextual,True
+R0458,Express.js,exact,exact,True
+R0458,React,exact,exact,True
+R0459,Python,exact,exact,True
+R0459,Scikit-learn,fuzzy,fuzzy,True
+R0459,PyTorch,exact,exact,True
+R0459,SQL,fuzzy,exact,False
+R0459,Pandas,exact,exact,True
+R0459,Data Visualization,exact,exact,True
+R0459,Natural Language Processing,exact,exact,True
+R0459,NumPy,exact,exact,True
+R0459,Statistics,exact,exact,True
+R0459,Onboarding,exact,exact,True
+R0459,Payroll,contextual,contextual,True
+R0460,NumPy,exact,exact,True
+R0460,Python,contextual,contextual,True
+R0460,Scikit-learn,exact,exact,True
+R0460,SQL,fuzzy,exact,False
+R0460,Statistics,exact,exact,True
+R0460,Natural Language Processing,exact,exact,True
+R0460,Machine Learning,fuzzy,fuzzy,True
+R0460,Deep Learning,contextual,contextual,True
+R0460,Excel,exact,exact,True
+R0460,QuickBooks,exact,exact,True
+R0461,Docker,contextual,contextual,True
+R0461,AWS,exact,exact,True
+R0461,Terraform,exact,exact,True
+R0461,GCP,exact,exact,True
+R0461,Azure,exact,exact,True
+R0461,Kubernetes,fuzzy,exact,False
+R0461,Linux,exact,exact,True
+R0461,CI/CD,exact,exact,True
+R0461,Ansible,exact,exact,True
+R0461,Jenkins,exact,exact,True
+R0462,QuickBooks,exact,exact,True
+R0462,Risk Management,exact,exact,True
+R0462,Excel,exact,exact,True
+R0462,Financial Analysis,exact,exact,True
+R0462,Budgeting,exact,exact,True
+R0462,Financial Modeling,exact,exact,True
+R0462,SAP,exact,exact,True
+R0462,Accounting,exact,exact,True
+R0462,Auditing,exact,exact,True
+R0462,Forecasting,exact,exact,True
+R0462,CI/CD,fuzzy,fuzzy,True
+R0462,Terraform,exact,exact,True
+R0463,Node.js,contextual,contextual,True
+R0463,Express.js,exact,exact,True
+R0463,HTML,exact,exact,True
+R0463,REST API,fuzzy,fuzzy,True
+R0463,MongoDB,exact,exact,True
+R0463,CSS,exact,exact,True
+R0463,React,exact,exact,True
+R0463,Next.js,exact,exact,True
+R0463,TypeScript,fuzzy,fuzzy,True
+R0463,JavaScript,fuzzy,exact,False
+R0464,Python,fuzzy,exact,False
+R0464,Deep Learning,exact,exact,True
+R0464,Machine Learning,fuzzy,fuzzy,True
+R0464,Statistics,exact,exact,True
+R0464,TensorFlow,exact,exact,True
+R0464,Pandas,exact,exact,True
+R0464,SQL,exact,exact,True
+R0464,Data Visualization,exact,exact,True
+R0464,PyTorch,exact,exact,True
+R0465,AWS,contextual,contextual,True
+R0465,GCP,exact,exact,True
+R0465,Kubernetes,exact,exact,True
+R0465,Ansible,exact,exact,True
+R0465,Docker,fuzzy,exact,False
+R0465,Jenkins,exact,exact,True
+R0465,Azure,exact,exact,True
+R0465,CI/CD,fuzzy,fuzzy,True
+R0465,Linux,exact,exact,True
+R0466,Express.js,exact,exact,True
+R0466,CSS,exact,exact,True
+R0466,TypeScript,exact,exact,True
+R0466,JavaScript,exact,exact,True
+R0466,Node.js,fuzzy,fuzzy,True
+R0466,MongoDB,fuzzy,fuzzy,True
+R0466,React,contextual,contextual,True
+R0466,REST API,exact,exact,True
+R0466,HTML,exact,exact,True
+R0466,SAP,exact,exact,True
+R0466,Accounting,exact,exact,True
+R0467,Pandas,exact,exact,True
+R0467,NumPy,exact,exact,True
+R0467,Data Visualization,contextual,contextual,True
+R0467,TensorFlow,exact,exact,True
+R0467,PyTorch,exact,exact,True
+R0467,Statistics,exact,exact,True
+R0467,Machine Learning,fuzzy,fuzzy,True
+R0467,Natural Language Processing,exact,exact,True
+R0467,React,exact,exact,True
+R0467,MongoDB,exact,exact,True
+R0468,Onboarding,exact,exact,True
+R0468,Talent Acquisition,exact,exact,True
+R0468,Performance Management,exact,exact,True
+R0468,Employee Relations,exact,exact,True
+R0468,Recruitment,exact,exact,True
+R0468,Labor Law,exact,exact,True
+R0468,Payroll,exact,exact,True
+R0468,HRIS,exact,exact,True
+R0468,Statistics,exact,exact,True
+R0468,Natural Language Processing,exact,exact,True
+R0469,Financial Modeling,exact,exact,True
+R0469,Risk Management,contextual,contextual,True
+R0469,Excel,fuzzy,exact,False
+R0469,SAP,exact,exact,True
+R0469,Budgeting,exact,exact,True
+R0469,Forecasting,exact,exact,True
+R0469,Auditing,exact,exact,True
+R0470,Ansible,exact,exact,True
+R0470,Linux,exact,exact,True
+R0470,Terraform,exact,exact,True
+R0470,Jenkins,exact,exact,True
+R0470,CI/CD,fuzzy,fuzzy,True
+R0470,AWS,fuzzy,fuzzy,True
+R0470,Docker,fuzzy,exact,False
+R0470,GCP,exact,exact,True
+R0470,Azure,exact,exact,True
+R0471,SAP,exact,exact,True
+R0471,Financial Modeling,exact,exact,True
+R0471,Budgeting,exact,exact,True
+R0471,Accounting,exact,exact,True
+R0471,Auditing,exact,exact,True
+R0471,Excel,exact,exact,True
+R0471,Financial Analysis,exact,exact,True
+R0471,QuickBooks,exact,exact,True
+R0471,Forecasting,exact,exact,True
+R0471,Linux,exact,exact,True
+R0471,GCP,exact,exact,True
+R0472,Forecasting,exact,exact,True
+R0472,Accounting,exact,exact,True
+R0472,Financial Modeling,contextual,contextual,True
+R0472,Financial Analysis,exact,exact,True
+R0472,Auditing,exact,exact,True
+R0472,SAP,fuzzy,exact,False
+R0472,Risk Management,contextual,contextual,True
+R0472,QuickBooks,exact,exact,True
+R0472,Excel,exact,exact,True
+R0472,Budgeting,exact,exact,True
+R0473,JavaScript,exact,exact,True
+R0473,Next.js,exact,exact,True
+R0473,React,fuzzy,fuzzy,True
+R0473,CSS,exact,exact,True
+R0473,HTML,exact,exact,True
+R0473,TypeScript,exact,exact,True
+R0473,HRIS,exact,exact,True
+R0473,Recruitment,exact,exact,True
+R0474,Recruitment,contextual,contextual,True
+R0474,Talent Acquisition,exact,exact,True
+R0474,HRIS,fuzzy,fuzzy,True
+R0474,Performance Management,exact,exact,True
+R0474,Onboarding,exact,exact,True
+R0474,Labor Law,exact,exact,True
+R0475,Risk Management,contextual,contextual,True
+R0475,Budgeting,exact,exact,True
+R0475,Financial Analysis,exact,exact,True
+R0475,Financial Modeling,contextual,contextual,True
+R0475,Excel,fuzzy,exact,False
+R0475,SAP,exact,exact,True
+R0475,Accounting,exact,exact,True
+R0475,Forecasting,exact,exact,True
+R0475,QuickBooks,exact,exact,True
+R0476,GCP,exact,exact,True
+R0476,Kubernetes,contextual,contextual,True
+R0476,Jenkins,exact,exact,True
+R0476,AWS,exact,exact,True
+R0476,Azure,exact,exact,True
+R0476,Docker,exact,exact,True
+R0476,Ansible,exact,exact,True
+R0476,Linux,exact,exact,True
+R0476,CI/CD,exact,exact,True
+R0476,Financial Analysis,exact,exact,True
+R0476,SAP,fuzzy,fuzzy,True
+R0477,Azure,exact,exact,True
+R0477,Ansible,exact,exact,True
+R0477,GCP,exact,exact,True
+R0477,AWS,exact,exact,True
+R0477,Terraform,exact,exact,True
+R0477,Kubernetes,exact,exact,True
+R0477,Linux,exact,exact,True
+R0478,React,contextual,contextual,True
+R0478,JavaScript,fuzzy,fuzzy,True
+R0478,REST API,exact,exact,True
+R0478,HTML,exact,exact,True
+R0478,Next.js,exact,exact,True
+R0478,CSS,exact,exact,True
+R0478,MongoDB,exact,exact,True
+R0478,Express.js,exact,exact,True
+R0478,TypeScript,exact,exact,True
+R0479,GCP,exact,exact,True
+R0479,Jenkins,exact,exact,True
+R0479,Ansible,exact,exact,True
+R0479,CI/CD,exact,exact,True
+R0479,Kubernetes,exact,exact,True
+R0479,AWS,exact,exact,True
+R0479,Terraform,exact,exact,True
+R0479,Docker,exact,exact,True
+R0479,Linux,exact,exact,True
+R0479,Azure,exact,exact,True
+R0480,JavaScript,fuzzy,exact,False
+R0480,HTML,exact,exact,True
+R0480,CSS,exact,exact,True
+R0480,Node.js,exact,exact,True
+R0480,Express.js,exact,exact,True
+R0480,MongoDB,fuzzy,fuzzy,True
+R0480,REST API,fuzzy,fuzzy,True
+R0480,React,fuzzy,exact,False
+R0481,GCP,exact,exact,True
+R0481,Jenkins,exact,exact,True
+R0481,Ansible,exact,exact,True
+R0481,Kubernetes,fuzzy,fuzzy,True
+R0481,Linux,exact,exact,True
+R0481,Docker,exact,exact,True
+R0481,Terraform,exact,exact,True
+R0481,Azure,exact,exact,True
+R0481,AWS,exact,exact,True
+R0481,CI/CD,exact,exact,True
+R0481,Financial Modeling,exact,exact,True
+R0481,Forecasting,exact,exact,True
+R0482,CSS,exact,exact,True
+R0482,Node.js,exact,exact,True
+R0482,REST API,exact,exact,True
+R0482,Next.js,exact,exact,True
+R0482,HTML,exact,exact,True
+R0482,TypeScript,exact,exact,True
+R0482,Express.js,exact,exact,True
+R0483,TypeScript,fuzzy,exact,False
+R0483,Node.js,fuzzy,fuzzy,True
+R0483,JavaScript,exact,exact,True
+R0483,React,exact,exact,True
+R0483,HTML,exact,exact,True
+R0483,Express.js,exact,exact,True
+R0483,REST API,fuzzy,fuzzy,True
+R0483,MongoDB,exact,exact,True
+R0483,Next.js,exact,exact,True
+R0484,Labor Law,exact,exact,True
+R0484,Payroll,exact,exact,True
+R0484,Onboarding,exact,exact,True
+R0484,Performance Management,exact,exact,True
+R0484,Recruitment,exact,exact,True
+R0484,HRIS,fuzzy,fuzzy,True
+R0484,Talent Acquisition,exact,exact,True
+R0484,Employee Relations,exact,exact,True
+R0485,GCP,exact,exact,True
+R0485,Docker,fuzzy,fuzzy,True
+R0485,Terraform,exact,exact,True
+R0485,Linux,exact,exact,True
+R0485,Ansible,exact,exact,True
+R0485,AWS,fuzzy,fuzzy,True
+R0485,Kubernetes,exact,exact,True
+R0486,Data Visualization,contextual,contextual,True
+R0486,Pandas,exact,exact,True
+R0486,SQL,fuzzy,exact,False
+R0486,TensorFlow,exact,exact,True
+R0486,Deep Learning,contextual,contextual,True
+R0486,Scikit-learn,exact,exact,True
+R0486,Natural Language Processing,exact,exact,True
+R0486,Python,exact,exact,True
+R0487,Python,exact,exact,True
+R0487,Pandas,exact,exact,True
+R0487,Scikit-learn,exact,exact,True
+R0487,PyTorch,exact,exact,True
+R0487,Machine Learning,fuzzy,fuzzy,True
+R0487,Data Visualization,exact,exact,True
+R0487,SQL,exact,exact,True
+R0488,CSS,exact,exact,True
+R0488,Next.js,exact,exact,True
+R0488,MongoDB,exact,exact,True
+R0488,Node.js,exact,exact,True
+R0488,JavaScript,exact,exact,True
+R0488,HTML,exact,exact,True
+R0488,REST API,fuzzy,fuzzy,True
+R0489,Terraform,exact,exact,True
+R0489,Azure,exact,exact,True
+R0489,Jenkins,exact,exact,True
+R0489,Docker,fuzzy,fuzzy,True
+R0489,Ansible,exact,exact,True
+R0489,Kubernetes,exact,exact,True
+R0489,AWS,exact,exact,True
+R0489,Recruitment,contextual,contextual,True
+R0489,Labor Law,exact,exact,True
+R0490,Talent Acquisition,exact,exact,True
+R0490,Labor Law,exact,exact,True
+R0490,Recruitment,contextual,contextual,True
+R0490,Onboarding,exact,exact,True
+R0490,Employee Relations,exact,exact,True
+R0490,HRIS,fuzzy,fuzzy,True
+R0490,Performance Management,exact,exact,True
+R0490,Payroll,exact,exact,True
+R0491,SQL,contextual,contextual,True
+R0491,Machine Learning,contextual,contextual,True
+R0491,TensorFlow,exact,exact,True
+R0491,Data Visualization,contextual,contextual,True
+R0491,NumPy,exact,exact,True
+R0491,PyTorch,exact,exact,True
+R0491,Pandas,exact,exact,True
+R0492,NumPy,exact,exact,True
+R0492,Deep Learning,exact,exact,True
+R0492,Scikit-learn,exact,exact,True
+R0492,PyTorch,exact,exact,True
+R0492,TensorFlow,fuzzy,fuzzy,True
+R0492,Machine Learning,fuzzy,fuzzy,True
+R0493,Deep Learning,exact,exact,True
+R0493,Scikit-learn,exact,exact,True
+R0493,Machine Learning,exact,exact,True
+R0493,PyTorch,exact,exact,True
+R0493,TensorFlow,exact,exact,True
+R0493,Statistics,exact,exact,True
+R0493,Data Visualization,contextual,contextual,True
+R0493,Pandas,exact,exact,True
+R0493,NumPy,exact,exact,True
+R0494,GCP,exact,exact,True
+R0494,Docker,exact,exact,True
+R0494,CI/CD,exact,exact,True
+R0494,Jenkins,exact,exact,True
+R0494,Kubernetes,exact,exact,True
+R0494,Terraform,exact,exact,True
+R0494,AWS,fuzzy,fuzzy,True
+R0494,Linux,exact,exact,True
+R0494,Ansible,exact,exact,True
+R0495,HRIS,fuzzy,fuzzy,True
+R0495,Payroll,contextual,contextual,True
+R0495,Onboarding,exact,exact,True
+R0495,Talent Acquisition,exact,exact,True
+R0495,Performance Management,exact,exact,True
+R0495,Employee Relations,exact,exact,True
+R0496,Labor Law,exact,exact,True
+R0496,Talent Acquisition,exact,exact,True
+R0496,Performance Management,exact,exact,True
+R0496,Payroll,exact,exact,True
+R0496,HRIS,exact,exact,True
+R0496,Recruitment,contextual,contextual,True
+R0497,Performance Management,exact,exact,True
+R0497,Labor Law,exact,exact,True
+R0497,Talent Acquisition,exact,exact,True
+R0497,Recruitment,exact,exact,True
+R0497,Onboarding,exact,exact,True
+R0497,HRIS,fuzzy,fuzzy,True
+R0497,Payroll,exact,exact,True
+R0497,Employee Relations,exact,exact,True
+R0497,Risk Management,exact,exact,True
+R0497,Financial Modeling,exact,exact,True
+R0498,Docker,contextual,contextual,True
+R0498,Kubernetes,fuzzy,fuzzy,True
+R0498,Terraform,exact,exact,True
+R0498,Ansible,exact,exact,True
+R0498,GCP,exact,exact,True
+R0498,Jenkins,exact,exact,True
+R0498,CI/CD,fuzzy,fuzzy,True
+R0498,Linux,exact,exact,True
+R0498,Deep Learning,exact,exact,True
+R0498,Natural Language Processing,exact,exact,True
+R0499,SQL,fuzzy,exact,False
+R0499,Machine Learning,fuzzy,fuzzy,True
+R0499,Scikit-learn,exact,exact,True
+R0499,NumPy,exact,exact,True
+R0499,TensorFlow,fuzzy,fuzzy,True
+R0499,Pandas,exact,exact,True
+R0499,Python,exact,exact,True
+R0499,Statistics,exact,exact,True
+R0499,Deep Learning,exact,exact,True

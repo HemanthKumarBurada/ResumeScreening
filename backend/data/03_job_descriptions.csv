@@ -1,0 +1,1401 @@
+jd_id,title,category,min_experience,required_skills,jd_text
+J0000,Full Stack Developer,Web Development,1,"[""Express.js"", ""JavaScript"", ""REST API"", ""React"", ""TypeScript"", ""Node.js"", ""CSS""]","Full Stack Developer at Meridian Softworks
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Express.js, JavaScript, REST API, React, TypeScript, Node.js, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0001,Data Scientist,Data Science,1,"[""Statistics"", ""Deep Learning"", ""NumPy"", ""Data Visualization"", ""PyTorch"", ""SQL"", ""Scikit-learn"", ""Natural Language Processing""]","Data Scientist at BluePeak Solutions
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Statistics, Deep Learning, NumPy, Data Visualization, PyTorch, SQL, Scikit-learn, Natural Language Processing
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0002,Data Analyst,Data Science,2,"[""Pandas"", ""Machine Learning"", ""Data Visualization"", ""NumPy"", ""PyTorch"", ""SQL"", ""Natural Language Processing""]","Data Analyst at Harborline Financial
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Pandas, Machine Learning, Data Visualization, NumPy, PyTorch, SQL, Natural Language Processing
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0003,Financial Analyst,Finance,3,"[""Auditing"", ""QuickBooks"", ""Financial Modeling"", ""Accounting"", ""Risk Management"", ""Forecasting"", ""Budgeting"", ""Excel""]","Financial Analyst at Falconbyte
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Auditing, QuickBooks, Financial Modeling, Accounting, Risk Management, Forecasting, Budgeting, Excel
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0004,Full Stack Developer,Web Development,3,"[""REST API"", ""CSS"", ""Next.js"", ""JavaScript"", ""TypeScript"", ""Express.js""]","Full Stack Developer at Trailhead Digital
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: REST API, CSS, Next.js, JavaScript, TypeScript, Express.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0005,Accounts Executive,Finance,0,"[""Excel"", ""SAP"", ""Forecasting"", ""Accounting"", ""Risk Management"", ""Auditing"", ""QuickBooks""]","Accounts Executive at Falconbyte
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Excel, SAP, Forecasting, Accounting, Risk Management, Auditing, QuickBooks
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0006,Backend Developer,Web Development,3,"[""Next.js"", ""TypeScript"", ""REST API"", ""HTML"", ""JavaScript"", ""Node.js""]","Backend Developer at Sundial HR Group
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Next.js, TypeScript, REST API, HTML, JavaScript, Node.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0007,Full Stack Developer,Web Development,5,"[""Express.js"", ""Node.js"", ""REST API"", ""CSS"", ""JavaScript"", ""TypeScript"", ""HTML"", ""MongoDB""]","Full Stack Developer at Verdant Analytics
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Express.js, Node.js, REST API, CSS, JavaScript, TypeScript, HTML, MongoDB
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0008,Cloud Infrastructure Engineer,DevOps,2,"[""AWS"", ""Linux"", ""Azure"", ""GCP"", ""Kubernetes"", ""CI/CD""]","Cloud Infrastructure Engineer at Corestack Labs
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: AWS, Linux, Azure, GCP, Kubernetes, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0009,Site Reliability Engineer,DevOps,2,"[""Terraform"", ""Azure"", ""Linux"", ""Kubernetes"", ""CI/CD""]","Site Reliability Engineer at Falconbyte
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Terraform, Azure, Linux, Kubernetes, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0010,HR Business Partner,Human Resources,0,"[""Employee Relations"", ""Payroll"", ""Labor Law"", ""Recruitment"", ""Talent Acquisition"", ""Onboarding""]","HR Business Partner at Orbitline Technologies
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Employee Relations, Payroll, Labor Law, Recruitment, Talent Acquisition, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0011,HR Executive,Human Resources,5,"[""Performance Management"", ""Payroll"", ""Onboarding"", ""Recruitment"", ""Talent Acquisition"", ""HRIS"", ""Employee Relations"", ""Labor Law""]","HR Executive at Quantwave Inc
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Performance Management, Payroll, Onboarding, Recruitment, Talent Acquisition, HRIS, Employee Relations, Labor Law
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0012,Backend Developer,Web Development,5,"[""Next.js"", ""MongoDB"", ""React"", ""Node.js"", ""JavaScript"", ""CSS""]","Backend Developer at Meridian Softworks
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Next.js, MongoDB, React, Node.js, JavaScript, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0013,Finance Manager,Finance,1,"[""Accounting"", ""Auditing"", ""Forecasting"", ""QuickBooks"", ""Excel"", ""Risk Management""]","Finance Manager at Sundial HR Group
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Accounting, Auditing, Forecasting, QuickBooks, Excel, Risk Management
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0014,Site Reliability Engineer,DevOps,5,"[""Jenkins"", ""Kubernetes"", ""Docker"", ""Azure"", ""GCP"", ""CI/CD""]","Site Reliability Engineer at BluePeak Solutions
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Jenkins, Kubernetes, Docker, Azure, GCP, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0015,HR Executive,Human Resources,0,"[""Employee Relations"", ""Payroll"", ""HRIS"", ""Recruitment"", ""Labor Law"", ""Talent Acquisition""]","HR Executive at Falconbyte
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Employee Relations, Payroll, HRIS, Recruitment, Labor Law, Talent Acquisition
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0016,Machine Learning Engineer,Data Science,3,"[""Statistics"", ""Natural Language Processing"", ""TensorFlow"", ""SQL"", ""PyTorch""]","Machine Learning Engineer at Verdant Analytics
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Statistics, Natural Language Processing, TensorFlow, SQL, PyTorch
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0017,Cloud Infrastructure Engineer,DevOps,2,"[""GCP"", ""Azure"", ""Docker"", ""CI/CD"", ""Linux""]","Cloud Infrastructure Engineer at Nimbus Systems
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: GCP, Azure, Docker, CI/CD, Linux
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0018,Talent Acquisition Specialist,Human Resources,0,"[""Talent Acquisition"", ""Payroll"", ""Labor Law"", ""HRIS"", ""Performance Management""]","Talent Acquisition Specialist at Verdant Analytics
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Talent Acquisition, Payroll, Labor Law, HRIS, Performance Management
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0019,Full Stack Developer,Web Development,1,"[""Next.js"", ""React"", ""Node.js"", ""MongoDB"", ""HTML"", ""REST API"", ""Express.js""]","Full Stack Developer at Falconbyte
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Next.js, React, Node.js, MongoDB, HTML, REST API, Express.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0020,DevOps Engineer,DevOps,2,"[""Terraform"", ""Kubernetes"", ""Ansible"", ""GCP"", ""CI/CD""]","DevOps Engineer at Corestack Labs
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Terraform, Kubernetes, Ansible, GCP, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0021,DevOps Engineer,DevOps,2,"[""Terraform"", ""Ansible"", ""Jenkins"", ""Azure"", ""AWS"", ""Linux"", ""Docker"", ""CI/CD""]","DevOps Engineer at Novatrail Consulting
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Terraform, Ansible, Jenkins, Azure, AWS, Linux, Docker, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0022,Data Scientist,Data Science,2,"[""Scikit-learn"", ""Data Visualization"", ""Natural Language Processing"", ""NumPy"", ""SQL"", ""Statistics""]","Data Scientist at Harborline Financial
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Scikit-learn, Data Visualization, Natural Language Processing, NumPy, SQL, Statistics
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0023,Talent Acquisition Specialist,Human Resources,1,"[""HRIS"", ""Onboarding"", ""Talent Acquisition"", ""Performance Management"", ""Labor Law"", ""Employee Relations"", ""Payroll"", ""Recruitment""]","Talent Acquisition Specialist at Trailhead Digital
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: HRIS, Onboarding, Talent Acquisition, Performance Management, Labor Law, Employee Relations, Payroll, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0024,Data Analyst,Data Science,5,"[""Data Visualization"", ""NumPy"", ""Deep Learning"", ""Python"", ""Statistics"", ""Natural Language Processing""]","Data Analyst at Novatrail Consulting
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Data Visualization, NumPy, Deep Learning, Python, Statistics, Natural Language Processing
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0025,Talent Acquisition Specialist,Human Resources,1,"[""Employee Relations"", ""Labor Law"", ""Talent Acquisition"", ""Onboarding"", ""Performance Management"", ""Payroll"", ""HRIS"", ""Recruitment""]","Talent Acquisition Specialist at Trailhead Digital
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Employee Relations, Labor Law, Talent Acquisition, Onboarding, Performance Management, Payroll, HRIS, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0026,Finance Manager,Finance,1,"[""Accounting"", ""Auditing"", ""Risk Management"", ""Financial Modeling"", ""Forecasting"", ""QuickBooks"", ""Financial Analysis"", ""Budgeting""]","Finance Manager at BluePeak Solutions
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Accounting, Auditing, Risk Management, Financial Modeling, Forecasting, QuickBooks, Financial Analysis, Budgeting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0027,Backend Developer,Web Development,1,"[""Next.js"", ""React"", ""HTML"", ""Node.js"", ""MongoDB"", ""TypeScript"", ""JavaScript""]","Backend Developer at Novatrail Consulting
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Next.js, React, HTML, Node.js, MongoDB, TypeScript, JavaScript
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0028,Backend Developer,Web Development,5,"[""JavaScript"", ""REST API"", ""React"", ""Node.js"", ""CSS"", ""Next.js"", ""Express.js""]","Backend Developer at Novatrail Consulting
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: JavaScript, REST API, React, Node.js, CSS, Next.js, Express.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0029,Machine Learning Engineer,Data Science,1,"[""PyTorch"", ""Data Visualization"", ""SQL"", ""Pandas"", ""Statistics""]","Machine Learning Engineer at Sundial HR Group
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: PyTorch, Data Visualization, SQL, Pandas, Statistics
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0030,Frontend Engineer,Web Development,1,"[""MongoDB"", ""Node.js"", ""JavaScript"", ""CSS"", ""Express.js"", ""REST API""]","Frontend Engineer at Verdant Analytics
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: MongoDB, Node.js, JavaScript, CSS, Express.js, REST API
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0031,Data Analyst,Data Science,3,"[""SQL"", ""NumPy"", ""Python"", ""Pandas"", ""Natural Language Processing"", ""Machine Learning""]","Data Analyst at Harborline Financial
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: SQL, NumPy, Python, Pandas, Natural Language Processing, Machine Learning
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0032,Talent Acquisition Specialist,Human Resources,3,"[""Recruitment"", ""Employee Relations"", ""Talent Acquisition"", ""Labor Law"", ""Onboarding""]","Talent Acquisition Specialist at Verdant Analytics
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Recruitment, Employee Relations, Talent Acquisition, Labor Law, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0033,Data Analyst,Data Science,0,"[""Pandas"", ""Machine Learning"", ""SQL"", ""Natural Language Processing"", ""PyTorch"", ""Deep Learning"", ""NumPy"", ""Python""]","Data Analyst at Meridian Softworks
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Pandas, Machine Learning, SQL, Natural Language Processing, PyTorch, Deep Learning, NumPy, Python
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0034,HR Business Partner,Human Resources,2,"[""Labor Law"", ""Recruitment"", ""Employee Relations"", ""Payroll"", ""Talent Acquisition"", ""Onboarding""]","HR Business Partner at Orbitline Technologies
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Labor Law, Recruitment, Employee Relations, Payroll, Talent Acquisition, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0035,Accounts Executive,Finance,5,"[""QuickBooks"", ""Budgeting"", ""Financial Analysis"", ""Accounting"", ""Auditing"", ""Excel"", ""Risk Management"", ""Forecasting""]","Accounts Executive at Novatrail Consulting
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: QuickBooks, Budgeting, Financial Analysis, Accounting, Auditing, Excel, Risk Management, Forecasting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0036,DevOps Engineer,DevOps,0,"[""Kubernetes"", ""AWS"", ""Ansible"", ""Docker"", ""Azure"", ""Jenkins"", ""CI/CD"", ""GCP""]","DevOps Engineer at Orbitline Technologies
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Kubernetes, AWS, Ansible, Docker, Azure, Jenkins, CI/CD, GCP
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0037,HR Executive,Human Resources,2,"[""Onboarding"", ""Performance Management"", ""Payroll"", ""Employee Relations"", ""Labor Law"", ""Recruitment"", ""HRIS""]","HR Executive at BluePeak Solutions
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Onboarding, Performance Management, Payroll, Employee Relations, Labor Law, Recruitment, HRIS
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0038,Accounts Executive,Finance,1,"[""Forecasting"", ""QuickBooks"", ""Auditing"", ""Financial Modeling"", ""Financial Analysis"", ""Accounting"", ""Excel""]","Accounts Executive at Trailhead Digital
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Forecasting, QuickBooks, Auditing, Financial Modeling, Financial Analysis, Accounting, Excel
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0039,Cloud Infrastructure Engineer,DevOps,2,"[""CI/CD"", ""Linux"", ""AWS"", ""Azure"", ""Kubernetes"", ""Jenkins""]","Cloud Infrastructure Engineer at Orbitline Technologies
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: CI/CD, Linux, AWS, Azure, Kubernetes, Jenkins
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0040,Financial Analyst,Finance,2,"[""Financial Analysis"", ""Risk Management"", ""Budgeting"", ""Excel"", ""Accounting"", ""SAP"", ""Forecasting"", ""QuickBooks""]","Financial Analyst at Corestack Labs
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Financial Analysis, Risk Management, Budgeting, Excel, Accounting, SAP, Forecasting, QuickBooks
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0041,Site Reliability Engineer,DevOps,3,"[""Ansible"", ""Jenkins"", ""Linux"", ""Azure"", ""CI/CD"", ""Terraform"", ""Docker""]","Site Reliability Engineer at Nimbus Systems
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Ansible, Jenkins, Linux, Azure, CI/CD, Terraform, Docker
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0042,DevOps Engineer,DevOps,2,"[""Ansible"", ""Jenkins"", ""Docker"", ""Linux"", ""Terraform"", ""Kubernetes""]","DevOps Engineer at Trailhead Digital
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Ansible, Jenkins, Docker, Linux, Terraform, Kubernetes
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0043,DevOps Engineer,DevOps,5,"[""Docker"", ""Terraform"", ""Linux"", ""Ansible"", ""CI/CD"", ""AWS"", ""Kubernetes""]","DevOps Engineer at Harborline Financial
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Docker, Terraform, Linux, Ansible, CI/CD, AWS, Kubernetes
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0044,HR Business Partner,Human Resources,3,"[""Onboarding"", ""Recruitment"", ""Labor Law"", ""Talent Acquisition"", ""Employee Relations"", ""Payroll"", ""HRIS""]","HR Business Partner at Harborline Financial
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Onboarding, Recruitment, Labor Law, Talent Acquisition, Employee Relations, Payroll, HRIS
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0045,Data Analyst,Data Science,2,"[""Natural Language Processing"", ""PyTorch"", ""Pandas"", ""NumPy"", ""TensorFlow"", ""Python"", ""Statistics"", ""Scikit-learn""]","Data Analyst at Quantwave Inc
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Natural Language Processing, PyTorch, Pandas, NumPy, TensorFlow, Python, Statistics, Scikit-learn
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0046,Accounts Executive,Finance,1,"[""Auditing"", ""Budgeting"", ""Excel"", ""SAP"", ""Financial Analysis"", ""Financial Modeling"", ""Accounting""]","Accounts Executive at Meridian Softworks
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Auditing, Budgeting, Excel, SAP, Financial Analysis, Financial Modeling, Accounting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0047,Backend Developer,Web Development,2,"[""Next.js"", ""HTML"", ""React"", ""Express.js"", ""MongoDB"", ""Node.js"", ""CSS""]","Backend Developer at Novatrail Consulting
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, HTML, React, Express.js, MongoDB, Node.js, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0048,Machine Learning Engineer,Data Science,1,"[""Machine Learning"", ""Scikit-learn"", ""Statistics"", ""PyTorch"", ""Pandas"", ""Natural Language Processing""]","Machine Learning Engineer at Falconbyte
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Machine Learning, Scikit-learn, Statistics, PyTorch, Pandas, Natural Language Processing
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0049,HR Executive,Human Resources,3,"[""Talent Acquisition"", ""Onboarding"", ""Labor Law"", ""Employee Relations"", ""HRIS"", ""Payroll"", ""Recruitment""]","HR Executive at Verdant Analytics
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Talent Acquisition, Onboarding, Labor Law, Employee Relations, HRIS, Payroll, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0050,HR Business Partner,Human Resources,0,"[""Labor Law"", ""Performance Management"", ""Recruitment"", ""HRIS"", ""Talent Acquisition"", ""Employee Relations"", ""Onboarding"", ""Payroll""]","HR Business Partner at Meridian Softworks
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Labor Law, Performance Management, Recruitment, HRIS, Talent Acquisition, Employee Relations, Onboarding, Payroll
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0051,Accounts Executive,Finance,5,"[""QuickBooks"", ""Auditing"", ""Budgeting"", ""Financial Analysis"", ""Accounting"", ""Financial Modeling"", ""Risk Management""]","Accounts Executive at Verdant Analytics
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: QuickBooks, Auditing, Budgeting, Financial Analysis, Accounting, Financial Modeling, Risk Management
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0052,Data Scientist,Data Science,3,"[""SQL"", ""Machine Learning"", ""Data Visualization"", ""PyTorch"", ""Pandas"", ""TensorFlow""]","Data Scientist at Trailhead Digital
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: SQL, Machine Learning, Data Visualization, PyTorch, Pandas, TensorFlow
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0053,Cloud Infrastructure Engineer,DevOps,3,"[""Ansible"", ""AWS"", ""Terraform"", ""Docker"", ""Kubernetes"", ""Jenkins"", ""Azure"", ""GCP""]","Cloud Infrastructure Engineer at Sundial HR Group
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Ansible, AWS, Terraform, Docker, Kubernetes, Jenkins, Azure, GCP
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0054,Machine Learning Engineer,Data Science,2,"[""Data Visualization"", ""NumPy"", ""Python"", ""TensorFlow"", ""Natural Language Processing"", ""PyTorch"", ""Machine Learning"", ""Deep Learning""]","Machine Learning Engineer at Orbitline Technologies
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Data Visualization, NumPy, Python, TensorFlow, Natural Language Processing, PyTorch, Machine Learning, Deep Learning
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0055,Full Stack Developer,Web Development,1,"[""Express.js"", ""MongoDB"", ""HTML"", ""REST API"", ""CSS"", ""Node.js"", ""React""]","Full Stack Developer at Orbitline Technologies
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Express.js, MongoDB, HTML, REST API, CSS, Node.js, React
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0056,Site Reliability Engineer,DevOps,2,"[""Kubernetes"", ""Docker"", ""Azure"", ""Linux"", ""GCP"", ""Jenkins""]","Site Reliability Engineer at Verdant Analytics
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Kubernetes, Docker, Azure, Linux, GCP, Jenkins
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0057,DevOps Engineer,DevOps,2,"[""CI/CD"", ""GCP"", ""Jenkins"", ""Kubernetes"", ""Azure"", ""AWS""]","DevOps Engineer at BluePeak Solutions
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: CI/CD, GCP, Jenkins, Kubernetes, Azure, AWS
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0058,Data Analyst,Data Science,1,"[""PyTorch"", ""Machine Learning"", ""TensorFlow"", ""Python"", ""Natural Language Processing"", ""Data Visualization""]","Data Analyst at Sundial HR Group
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: PyTorch, Machine Learning, TensorFlow, Python, Natural Language Processing, Data Visualization
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0059,Talent Acquisition Specialist,Human Resources,0,"[""Labor Law"", ""Payroll"", ""Performance Management"", ""Onboarding"", ""HRIS""]","Talent Acquisition Specialist at Harborline Financial
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Labor Law, Payroll, Performance Management, Onboarding, HRIS
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0060,Data Scientist,Data Science,3,"[""SQL"", ""Data Visualization"", ""Natural Language Processing"", ""Machine Learning"", ""Deep Learning"", ""TensorFlow""]","Data Scientist at Verdant Analytics
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: SQL, Data Visualization, Natural Language Processing, Machine Learning, Deep Learning, TensorFlow
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0061,Finance Manager,Finance,5,"[""Forecasting"", ""Risk Management"", ""SAP"", ""Excel"", ""Financial Modeling"", ""Budgeting"", ""Accounting""]","Finance Manager at Corestack Labs
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Forecasting, Risk Management, SAP, Excel, Financial Modeling, Budgeting, Accounting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0062,Machine Learning Engineer,Data Science,0,"[""Python"", ""Natural Language Processing"", ""TensorFlow"", ""Data Visualization"", ""SQL"", ""PyTorch"", ""Statistics"", ""Deep Learning""]","Machine Learning Engineer at Corestack Labs
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Python, Natural Language Processing, TensorFlow, Data Visualization, SQL, PyTorch, Statistics, Deep Learning
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0063,HR Business Partner,Human Resources,2,"[""Payroll"", ""Talent Acquisition"", ""Recruitment"", ""Labor Law"", ""HRIS"", ""Performance Management"", ""Onboarding""]","HR Business Partner at Trailhead Digital
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Payroll, Talent Acquisition, Recruitment, Labor Law, HRIS, Performance Management, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0064,Data Scientist,Data Science,3,"[""Pandas"", ""Deep Learning"", ""Data Visualization"", ""Python"", ""Statistics"", ""NumPy""]","Data Scientist at Orbitline Technologies
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Pandas, Deep Learning, Data Visualization, Python, Statistics, NumPy
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0065,Data Scientist,Data Science,1,"[""Data Visualization"", ""Pandas"", ""NumPy"", ""Scikit-learn"", ""TensorFlow""]","Data Scientist at Meridian Softworks
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Data Visualization, Pandas, NumPy, Scikit-learn, TensorFlow
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0066,Frontend Engineer,Web Development,2,"[""Node.js"", ""TypeScript"", ""React"", ""REST API"", ""MongoDB"", ""JavaScript""]","Frontend Engineer at BluePeak Solutions
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Node.js, TypeScript, React, REST API, MongoDB, JavaScript
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0067,Talent Acquisition Specialist,Human Resources,1,"[""HRIS"", ""Labor Law"", ""Employee Relations"", ""Recruitment"", ""Performance Management"", ""Onboarding"", ""Payroll""]","Talent Acquisition Specialist at Nimbus Systems
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: HRIS, Labor Law, Employee Relations, Recruitment, Performance Management, Onboarding, Payroll
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0068,HR Executive,Human Resources,0,"[""Performance Management"", ""Labor Law"", ""HRIS"", ""Talent Acquisition"", ""Onboarding""]","HR Executive at Verdant Analytics
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Performance Management, Labor Law, HRIS, Talent Acquisition, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0069,Site Reliability Engineer,DevOps,3,"[""Kubernetes"", ""Linux"", ""GCP"", ""Docker"", ""CI/CD"", ""Terraform""]","Site Reliability Engineer at Novatrail Consulting
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Kubernetes, Linux, GCP, Docker, CI/CD, Terraform
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0070,Frontend Engineer,Web Development,5,"[""CSS"", ""MongoDB"", ""Express.js"", ""Node.js"", ""React""]","Frontend Engineer at Trailhead Digital
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: CSS, MongoDB, Express.js, Node.js, React
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0071,Cloud Infrastructure Engineer,DevOps,1,"[""Ansible"", ""GCP"", ""CI/CD"", ""Kubernetes"", ""Linux""]","Cloud Infrastructure Engineer at Orbitline Technologies
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Ansible, GCP, CI/CD, Kubernetes, Linux
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0072,Full Stack Developer,Web Development,2,"[""React"", ""REST API"", ""CSS"", ""MongoDB"", ""JavaScript""]","Full Stack Developer at BluePeak Solutions
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: React, REST API, CSS, MongoDB, JavaScript
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0073,Frontend Engineer,Web Development,1,"[""TypeScript"", ""MongoDB"", ""CSS"", ""REST API"", ""React"", ""Node.js"", ""HTML""]","Frontend Engineer at Trailhead Digital
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: TypeScript, MongoDB, CSS, REST API, React, Node.js, HTML
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0074,Financial Analyst,Finance,0,"[""Risk Management"", ""Financial Modeling"", ""SAP"", ""Excel"", ""QuickBooks""]","Financial Analyst at Trailhead Digital
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Risk Management, Financial Modeling, SAP, Excel, QuickBooks
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0075,Frontend Engineer,Web Development,5,"[""REST API"", ""TypeScript"", ""JavaScript"", ""CSS"", ""HTML"", ""Express.js""]","Frontend Engineer at BluePeak Solutions
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: REST API, TypeScript, JavaScript, CSS, HTML, Express.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0076,Talent Acquisition Specialist,Human Resources,2,"[""Payroll"", ""Labor Law"", ""HRIS"", ""Employee Relations"", ""Performance Management"", ""Recruitment"", ""Onboarding"", ""Talent Acquisition""]","Talent Acquisition Specialist at Orbitline Technologies
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Payroll, Labor Law, HRIS, Employee Relations, Performance Management, Recruitment, Onboarding, Talent Acquisition
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0077,Site Reliability Engineer,DevOps,0,"[""Azure"", ""Ansible"", ""Kubernetes"", ""Terraform"", ""AWS"", ""Jenkins"", ""Linux"", ""Docker""]","Site Reliability Engineer at Meridian Softworks
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Azure, Ansible, Kubernetes, Terraform, AWS, Jenkins, Linux, Docker
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0078,Accounts Executive,Finance,2,"[""Excel"", ""SAP"", ""Auditing"", ""Risk Management"", ""Financial Modeling"", ""Forecasting""]","Accounts Executive at Sundial HR Group
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Excel, SAP, Auditing, Risk Management, Financial Modeling, Forecasting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0079,Frontend Engineer,Web Development,1,"[""CSS"", ""MongoDB"", ""REST API"", ""Next.js"", ""JavaScript"", ""Express.js"", ""React""]","Frontend Engineer at Novatrail Consulting
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: CSS, MongoDB, REST API, Next.js, JavaScript, Express.js, React
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0080,Backend Developer,Web Development,5,"[""JavaScript"", ""HTML"", ""TypeScript"", ""CSS"", ""REST API"", ""React""]","Backend Developer at Novatrail Consulting
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: JavaScript, HTML, TypeScript, CSS, REST API, React
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0081,Data Analyst,Data Science,5,"[""SQL"", ""Pandas"", ""Natural Language Processing"", ""Deep Learning"", ""Scikit-learn"", ""Machine Learning"", ""Python""]","Data Analyst at Orbitline Technologies
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: SQL, Pandas, Natural Language Processing, Deep Learning, Scikit-learn, Machine Learning, Python
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0082,Frontend Engineer,Web Development,5,"[""Express.js"", ""REST API"", ""HTML"", ""Node.js"", ""JavaScript"", ""MongoDB""]","Frontend Engineer at Meridian Softworks
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Express.js, REST API, HTML, Node.js, JavaScript, MongoDB
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0083,HR Executive,Human Resources,5,"[""Labor Law"", ""Employee Relations"", ""Onboarding"", ""Performance Management"", ""Recruitment"", ""Payroll"", ""Talent Acquisition"", ""HRIS""]","HR Executive at Sundial HR Group
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Labor Law, Employee Relations, Onboarding, Performance Management, Recruitment, Payroll, Talent Acquisition, HRIS
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0084,Financial Analyst,Finance,3,"[""Financial Modeling"", ""Risk Management"", ""Accounting"", ""Excel"", ""SAP""]","Financial Analyst at BluePeak Solutions
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Financial Modeling, Risk Management, Accounting, Excel, SAP
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0085,Full Stack Developer,Web Development,0,"[""REST API"", ""HTML"", ""Express.js"", ""Next.js"", ""Node.js"", ""JavaScript"", ""React"", ""MongoDB""]","Full Stack Developer at Meridian Softworks
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: REST API, HTML, Express.js, Next.js, Node.js, JavaScript, React, MongoDB
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0086,Financial Analyst,Finance,0,"[""SAP"", ""Auditing"", ""Accounting"", ""Forecasting"", ""QuickBooks"", ""Risk Management""]","Financial Analyst at Trailhead Digital
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: SAP, Auditing, Accounting, Forecasting, QuickBooks, Risk Management
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0087,Financial Analyst,Finance,5,"[""QuickBooks"", ""Excel"", ""Auditing"", ""Financial Analysis"", ""Forecasting"", ""SAP"", ""Accounting""]","Financial Analyst at Novatrail Consulting
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: QuickBooks, Excel, Auditing, Financial Analysis, Forecasting, SAP, Accounting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0088,Talent Acquisition Specialist,Human Resources,0,"[""Onboarding"", ""Performance Management"", ""Talent Acquisition"", ""Employee Relations"", ""HRIS"", ""Recruitment""]","Talent Acquisition Specialist at Corestack Labs
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Onboarding, Performance Management, Talent Acquisition, Employee Relations, HRIS, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0089,HR Business Partner,Human Resources,5,"[""Employee Relations"", ""Talent Acquisition"", ""Performance Management"", ""Payroll"", ""Labor Law"", ""Recruitment"", ""HRIS"", ""Onboarding""]","HR Business Partner at Harborline Financial
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Employee Relations, Talent Acquisition, Performance Management, Payroll, Labor Law, Recruitment, HRIS, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0090,Site Reliability Engineer,DevOps,2,"[""Ansible"", ""Linux"", ""Azure"", ""Docker"", ""Terraform"", ""GCP""]","Site Reliability Engineer at Sundial HR Group
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Ansible, Linux, Azure, Docker, Terraform, GCP
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0091,DevOps Engineer,DevOps,3,"[""Linux"", ""Jenkins"", ""Terraform"", ""Docker"", ""GCP"", ""Ansible"", ""CI/CD""]","DevOps Engineer at Harborline Financial
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Linux, Jenkins, Terraform, Docker, GCP, Ansible, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0092,Backend Developer,Web Development,3,"[""CSS"", ""React"", ""MongoDB"", ""Next.js"", ""REST API"", ""TypeScript"", ""HTML"", ""Node.js""]","Backend Developer at Trailhead Digital
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: CSS, React, MongoDB, Next.js, REST API, TypeScript, HTML, Node.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0093,Data Scientist,Data Science,5,"[""Data Visualization"", ""Statistics"", ""Machine Learning"", ""Natural Language Processing"", ""SQL""]","Data Scientist at Quantwave Inc
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Data Visualization, Statistics, Machine Learning, Natural Language Processing, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0094,Accounts Executive,Finance,3,"[""Risk Management"", ""Financial Modeling"", ""Forecasting"", ""Auditing"", ""SAP"", ""Financial Analysis"", ""QuickBooks"", ""Excel""]","Accounts Executive at Sundial HR Group
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Risk Management, Financial Modeling, Forecasting, Auditing, SAP, Financial Analysis, QuickBooks, Excel
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0095,Machine Learning Engineer,Data Science,3,"[""Data Visualization"", ""Deep Learning"", ""Python"", ""Scikit-learn"", ""Machine Learning"", ""Statistics""]","Machine Learning Engineer at Nimbus Systems
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Data Visualization, Deep Learning, Python, Scikit-learn, Machine Learning, Statistics
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0096,Site Reliability Engineer,DevOps,2,"[""Terraform"", ""GCP"", ""CI/CD"", ""AWS"", ""Ansible"", ""Docker"", ""Linux""]","Site Reliability Engineer at Sundial HR Group
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Terraform, GCP, CI/CD, AWS, Ansible, Docker, Linux
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0097,Full Stack Developer,Web Development,0,"[""Express.js"", ""Next.js"", ""TypeScript"", ""MongoDB"", ""HTML"", ""Node.js""]","Full Stack Developer at Falconbyte
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Express.js, Next.js, TypeScript, MongoDB, HTML, Node.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0098,Cloud Infrastructure Engineer,DevOps,2,"[""GCP"", ""Azure"", ""CI/CD"", ""AWS"", ""Linux"", ""Docker"", ""Jenkins""]","Cloud Infrastructure Engineer at Meridian Softworks
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: GCP, Azure, CI/CD, AWS, Linux, Docker, Jenkins
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0099,Finance Manager,Finance,1,"[""Accounting"", ""Risk Management"", ""SAP"", ""Financial Analysis"", ""Forecasting"", ""Auditing"", ""QuickBooks"", ""Excel""]","Finance Manager at Quantwave Inc
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Accounting, Risk Management, SAP, Financial Analysis, Forecasting, Auditing, QuickBooks, Excel
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0100,Backend Developer,Web Development,1,"[""JavaScript"", ""React"", ""HTML"", ""CSS"", ""Node.js"", ""REST API"", ""TypeScript""]","Backend Developer at Novatrail Consulting
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: JavaScript, React, HTML, CSS, Node.js, REST API, TypeScript
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0101,Talent Acquisition Specialist,Human Resources,2,"[""Payroll"", ""Recruitment"", ""Performance Management"", ""HRIS"", ""Labor Law""]","Talent Acquisition Specialist at Orbitline Technologies
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Payroll, Recruitment, Performance Management, HRIS, Labor Law
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0102,Finance Manager,Finance,3,"[""Risk Management"", ""Accounting"", ""Financial Analysis"", ""Financial Modeling"", ""Forecasting"", ""QuickBooks"", ""Auditing""]","Finance Manager at BluePeak Solutions
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Risk Management, Accounting, Financial Analysis, Financial Modeling, Forecasting, QuickBooks, Auditing
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0103,Data Analyst,Data Science,1,"[""SQL"", ""Deep Learning"", ""NumPy"", ""Python"", ""PyTorch"", ""Machine Learning""]","Data Analyst at BluePeak Solutions
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: SQL, Deep Learning, NumPy, Python, PyTorch, Machine Learning
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0104,Frontend Engineer,Web Development,5,"[""HTML"", ""Node.js"", ""JavaScript"", ""Express.js"", ""React"", ""MongoDB"", ""Next.js"", ""TypeScript""]","Frontend Engineer at Novatrail Consulting
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: HTML, Node.js, JavaScript, Express.js, React, MongoDB, Next.js, TypeScript
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0105,Accounts Executive,Finance,2,"[""Risk Management"", ""Accounting"", ""Financial Analysis"", ""Forecasting"", ""Budgeting"", ""SAP""]","Accounts Executive at Corestack Labs
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Risk Management, Accounting, Financial Analysis, Forecasting, Budgeting, SAP
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0106,DevOps Engineer,DevOps,1,"[""Terraform"", ""GCP"", ""CI/CD"", ""AWS"", ""Jenkins"", ""Linux"", ""Docker"", ""Azure""]","DevOps Engineer at Quantwave Inc
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Terraform, GCP, CI/CD, AWS, Jenkins, Linux, Docker, Azure
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0107,Accounts Executive,Finance,2,"[""Excel"", ""QuickBooks"", ""Auditing"", ""Budgeting"", ""Accounting"", ""Financial Modeling""]","Accounts Executive at BluePeak Solutions
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Excel, QuickBooks, Auditing, Budgeting, Accounting, Financial Modeling
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0108,Finance Manager,Finance,3,"[""Auditing"", ""Budgeting"", ""Financial Modeling"", ""SAP"", ""QuickBooks"", ""Risk Management""]","Finance Manager at Harborline Financial
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Auditing, Budgeting, Financial Modeling, SAP, QuickBooks, Risk Management
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0109,Machine Learning Engineer,Data Science,1,"[""Python"", ""SQL"", ""PyTorch"", ""Statistics"", ""Natural Language Processing"", ""Deep Learning""]","Machine Learning Engineer at Sundial HR Group
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Python, SQL, PyTorch, Statistics, Natural Language Processing, Deep Learning
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0110,Machine Learning Engineer,Data Science,1,"[""Machine Learning"", ""NumPy"", ""Data Visualization"", ""Statistics"", ""Python"", ""Scikit-learn"", ""SQL""]","Machine Learning Engineer at Meridian Softworks
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Machine Learning, NumPy, Data Visualization, Statistics, Python, Scikit-learn, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0111,HR Business Partner,Human Resources,3,"[""Labor Law"", ""Employee Relations"", ""HRIS"", ""Performance Management"", ""Talent Acquisition"", ""Recruitment""]","HR Business Partner at Novatrail Consulting
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Labor Law, Employee Relations, HRIS, Performance Management, Talent Acquisition, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0112,Backend Developer,Web Development,1,"[""JavaScript"", ""Next.js"", ""TypeScript"", ""CSS"", ""Express.js"", ""MongoDB"", ""REST API""]","Backend Developer at Meridian Softworks
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: JavaScript, Next.js, TypeScript, CSS, Express.js, MongoDB, REST API
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0113,Backend Developer,Web Development,2,"[""Next.js"", ""Node.js"", ""Express.js"", ""JavaScript"", ""TypeScript"", ""HTML""]","Backend Developer at Verdant Analytics
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, Node.js, Express.js, JavaScript, TypeScript, HTML
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0114,Data Analyst,Data Science,1,"[""TensorFlow"", ""Data Visualization"", ""Natural Language Processing"", ""Statistics"", ""SQL""]","Data Analyst at Falconbyte
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: TensorFlow, Data Visualization, Natural Language Processing, Statistics, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0115,Site Reliability Engineer,DevOps,0,"[""Kubernetes"", ""Jenkins"", ""Terraform"", ""GCP"", ""Ansible"", ""CI/CD""]","Site Reliability Engineer at Falconbyte
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Kubernetes, Jenkins, Terraform, GCP, Ansible, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0116,Frontend Engineer,Web Development,5,"[""REST API"", ""HTML"", ""Express.js"", ""Node.js"", ""TypeScript"", ""JavaScript"", ""Next.js""]","Frontend Engineer at Verdant Analytics
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: REST API, HTML, Express.js, Node.js, TypeScript, JavaScript, Next.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0117,DevOps Engineer,DevOps,0,"[""GCP"", ""Docker"", ""Azure"", ""Terraform"", ""AWS""]","DevOps Engineer at Orbitline Technologies
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: GCP, Docker, Azure, Terraform, AWS
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0118,Accounts Executive,Finance,2,"[""Financial Modeling"", ""Forecasting"", ""Risk Management"", ""Accounting"", ""Financial Analysis""]","Accounts Executive at Harborline Financial
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Financial Modeling, Forecasting, Risk Management, Accounting, Financial Analysis
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0119,Data Scientist,Data Science,0,"[""Pandas"", ""Statistics"", ""Data Visualization"", ""PyTorch"", ""Deep Learning"", ""NumPy""]","Data Scientist at Quantwave Inc
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Pandas, Statistics, Data Visualization, PyTorch, Deep Learning, NumPy
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0120,Frontend Engineer,Web Development,5,"[""Next.js"", ""Node.js"", ""MongoDB"", ""TypeScript"", ""React"", ""CSS"", ""REST API""]","Frontend Engineer at Nimbus Systems
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Next.js, Node.js, MongoDB, TypeScript, React, CSS, REST API
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0121,Data Analyst,Data Science,1,"[""NumPy"", ""Natural Language Processing"", ""Machine Learning"", ""Scikit-learn"", ""Deep Learning""]","Data Analyst at Novatrail Consulting
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: NumPy, Natural Language Processing, Machine Learning, Scikit-learn, Deep Learning
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0122,Machine Learning Engineer,Data Science,5,"[""Pandas"", ""Data Visualization"", ""Deep Learning"", ""Scikit-learn"", ""PyTorch"", ""SQL"", ""NumPy"", ""Natural Language Processing""]","Machine Learning Engineer at Verdant Analytics
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Pandas, Data Visualization, Deep Learning, Scikit-learn, PyTorch, SQL, NumPy, Natural Language Processing
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0123,Data Scientist,Data Science,0,"[""Pandas"", ""Scikit-learn"", ""Deep Learning"", ""Natural Language Processing"", ""PyTorch"", ""Machine Learning"", ""SQL""]","Data Scientist at Quantwave Inc
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Pandas, Scikit-learn, Deep Learning, Natural Language Processing, PyTorch, Machine Learning, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0124,HR Business Partner,Human Resources,1,"[""Onboarding"", ""Talent Acquisition"", ""Performance Management"", ""Employee Relations"", ""Payroll""]","HR Business Partner at Trailhead Digital
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Onboarding, Talent Acquisition, Performance Management, Employee Relations, Payroll
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0125,Site Reliability Engineer,DevOps,0,"[""AWS"", ""Ansible"", ""CI/CD"", ""GCP"", ""Terraform"", ""Azure"", ""Jenkins""]","Site Reliability Engineer at Meridian Softworks
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: AWS, Ansible, CI/CD, GCP, Terraform, Azure, Jenkins
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0126,HR Business Partner,Human Resources,2,"[""Labor Law"", ""Recruitment"", ""Employee Relations"", ""HRIS"", ""Payroll""]","HR Business Partner at Meridian Softworks
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Labor Law, Recruitment, Employee Relations, HRIS, Payroll
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0127,HR Business Partner,Human Resources,0,"[""Recruitment"", ""HRIS"", ""Labor Law"", ""Onboarding"", ""Talent Acquisition"", ""Performance Management"", ""Payroll""]","HR Business Partner at Quantwave Inc
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Recruitment, HRIS, Labor Law, Onboarding, Talent Acquisition, Performance Management, Payroll
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0128,Accounts Executive,Finance,3,"[""Financial Modeling"", ""Budgeting"", ""Risk Management"", ""Excel"", ""Accounting""]","Accounts Executive at Nimbus Systems
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Financial Modeling, Budgeting, Risk Management, Excel, Accounting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0129,Financial Analyst,Finance,2,"[""QuickBooks"", ""Forecasting"", ""Financial Modeling"", ""Excel"", ""Auditing"", ""SAP""]","Financial Analyst at BluePeak Solutions
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: QuickBooks, Forecasting, Financial Modeling, Excel, Auditing, SAP
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0130,Data Scientist,Data Science,0,"[""PyTorch"", ""Pandas"", ""Data Visualization"", ""Python"", ""SQL"", ""Statistics""]","Data Scientist at Sundial HR Group
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: PyTorch, Pandas, Data Visualization, Python, SQL, Statistics
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0131,Site Reliability Engineer,DevOps,0,"[""CI/CD"", ""Terraform"", ""AWS"", ""GCP"", ""Kubernetes""]","Site Reliability Engineer at Meridian Softworks
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: CI/CD, Terraform, AWS, GCP, Kubernetes
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0132,Backend Developer,Web Development,2,"[""Next.js"", ""HTML"", ""CSS"", ""Express.js"", ""TypeScript"", ""MongoDB""]","Backend Developer at Trailhead Digital
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, HTML, CSS, Express.js, TypeScript, MongoDB
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0133,Full Stack Developer,Web Development,2,"[""REST API"", ""JavaScript"", ""Next.js"", ""MongoDB"", ""HTML"", ""TypeScript"", ""Node.js""]","Full Stack Developer at Falconbyte
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: REST API, JavaScript, Next.js, MongoDB, HTML, TypeScript, Node.js
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0134,Accounts Executive,Finance,0,"[""Risk Management"", ""Financial Modeling"", ""Auditing"", ""Excel"", ""Forecasting""]","Accounts Executive at BluePeak Solutions
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Risk Management, Financial Modeling, Auditing, Excel, Forecasting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0135,Data Scientist,Data Science,2,"[""Deep Learning"", ""PyTorch"", ""Machine Learning"", ""Natural Language Processing"", ""Scikit-learn""]","Data Scientist at Sundial HR Group
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Deep Learning, PyTorch, Machine Learning, Natural Language Processing, Scikit-learn
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0136,HR Executive,Human Resources,5,"[""HRIS"", ""Employee Relations"", ""Labor Law"", ""Performance Management"", ""Recruitment"", ""Payroll"", ""Onboarding""]","HR Executive at Verdant Analytics
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: HRIS, Employee Relations, Labor Law, Performance Management, Recruitment, Payroll, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0137,HR Executive,Human Resources,0,"[""Employee Relations"", ""HRIS"", ""Recruitment"", ""Payroll"", ""Performance Management"", ""Talent Acquisition""]","HR Executive at BluePeak Solutions
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Employee Relations, HRIS, Recruitment, Payroll, Performance Management, Talent Acquisition
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0138,HR Business Partner,Human Resources,3,"[""Onboarding"", ""Performance Management"", ""Talent Acquisition"", ""Recruitment"", ""Labor Law"", ""Payroll""]","HR Business Partner at Quantwave Inc
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Onboarding, Performance Management, Talent Acquisition, Recruitment, Labor Law, Payroll
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0139,Full Stack Developer,Web Development,2,"[""Next.js"", ""JavaScript"", ""HTML"", ""REST API"", ""React"", ""Node.js"", ""Express.js"", ""CSS""]","Full Stack Developer at Orbitline Technologies
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, JavaScript, HTML, REST API, React, Node.js, Express.js, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0140,Site Reliability Engineer,DevOps,2,"[""Terraform"", ""Ansible"", ""CI/CD"", ""GCP"", ""Docker"", ""Azure""]","Site Reliability Engineer at Orbitline Technologies
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Terraform, Ansible, CI/CD, GCP, Docker, Azure
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0141,Accounts Executive,Finance,0,"[""SAP"", ""Accounting"", ""Financial Analysis"", ""QuickBooks"", ""Forecasting""]","Accounts Executive at Falconbyte
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: SAP, Accounting, Financial Analysis, QuickBooks, Forecasting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0142,HR Executive,Human Resources,2,"[""Payroll"", ""HRIS"", ""Performance Management"", ""Employee Relations"", ""Onboarding""]","HR Executive at Novatrail Consulting
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Payroll, HRIS, Performance Management, Employee Relations, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0143,Data Analyst,Data Science,1,"[""Statistics"", ""Machine Learning"", ""TensorFlow"", ""SQL"", ""Python""]","Data Analyst at Sundial HR Group
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Statistics, Machine Learning, TensorFlow, SQL, Python
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0144,DevOps Engineer,DevOps,0,"[""Docker"", ""AWS"", ""Kubernetes"", ""Terraform"", ""Ansible"", ""GCP"", ""CI/CD""]","DevOps Engineer at Harborline Financial
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Docker, AWS, Kubernetes, Terraform, Ansible, GCP, CI/CD
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0145,HR Executive,Human Resources,3,"[""Payroll"", ""Performance Management"", ""Talent Acquisition"", ""Recruitment"", ""HRIS""]","HR Executive at Trailhead Digital
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Payroll, Performance Management, Talent Acquisition, Recruitment, HRIS
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0146,Accounts Executive,Finance,3,"[""Budgeting"", ""Risk Management"", ""Auditing"", ""Forecasting"", ""Excel"", ""SAP"", ""Accounting"", ""QuickBooks""]","Accounts Executive at Falconbyte
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Budgeting, Risk Management, Auditing, Forecasting, Excel, SAP, Accounting, QuickBooks
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0147,Full Stack Developer,Web Development,0,"[""Express.js"", ""TypeScript"", ""HTML"", ""React"", ""Node.js"", ""REST API"", ""MongoDB"", ""CSS""]","Full Stack Developer at Quantwave Inc
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Express.js, TypeScript, HTML, React, Node.js, REST API, MongoDB, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0148,HR Business Partner,Human Resources,1,"[""Employee Relations"", ""Recruitment"", ""Payroll"", ""Talent Acquisition"", ""Onboarding"", ""HRIS"", ""Performance Management""]","HR Business Partner at Quantwave Inc
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Employee Relations, Recruitment, Payroll, Talent Acquisition, Onboarding, HRIS, Performance Management
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0149,Talent Acquisition Specialist,Human Resources,3,"[""Performance Management"", ""Payroll"", ""Talent Acquisition"", ""Labor Law"", ""HRIS"", ""Onboarding"", ""Employee Relations"", ""Recruitment""]","Talent Acquisition Specialist at Quantwave Inc
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Performance Management, Payroll, Talent Acquisition, Labor Law, HRIS, Onboarding, Employee Relations, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0150,Frontend Engineer,Web Development,5,"[""HTML"", ""Next.js"", ""Express.js"", ""CSS"", ""React"", ""REST API""]","Frontend Engineer at Falconbyte
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: HTML, Next.js, Express.js, CSS, React, REST API
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0151,Talent Acquisition Specialist,Human Resources,3,"[""HRIS"", ""Onboarding"", ""Payroll"", ""Performance Management"", ""Talent Acquisition"", ""Recruitment"", ""Labor Law""]","Talent Acquisition Specialist at Harborline Financial
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: HRIS, Onboarding, Payroll, Performance Management, Talent Acquisition, Recruitment, Labor Law
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0152,Machine Learning Engineer,Data Science,3,"[""Pandas"", ""Scikit-learn"", ""SQL"", ""Deep Learning"", ""TensorFlow"", ""NumPy""]","Machine Learning Engineer at Orbitline Technologies
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Pandas, Scikit-learn, SQL, Deep Learning, TensorFlow, NumPy
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0153,Machine Learning Engineer,Data Science,1,"[""TensorFlow"", ""Data Visualization"", ""Deep Learning"", ""NumPy"", ""Statistics"", ""Scikit-learn""]","Machine Learning Engineer at Harborline Financial
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: TensorFlow, Data Visualization, Deep Learning, NumPy, Statistics, Scikit-learn
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0154,Backend Developer,Web Development,5,"[""TypeScript"", ""MongoDB"", ""HTML"", ""REST API"", ""Next.js"", ""React"", ""Express.js"", ""CSS""]","Backend Developer at Harborline Financial
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: TypeScript, MongoDB, HTML, REST API, Next.js, React, Express.js, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0155,Machine Learning Engineer,Data Science,2,"[""Machine Learning"", ""Natural Language Processing"", ""Python"", ""Data Visualization"", ""SQL""]","Machine Learning Engineer at Verdant Analytics
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Machine Learning, Natural Language Processing, Python, Data Visualization, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0156,Cloud Infrastructure Engineer,DevOps,5,"[""AWS"", ""CI/CD"", ""Jenkins"", ""Linux"", ""Docker"", ""GCP""]","Cloud Infrastructure Engineer at Quantwave Inc
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: AWS, CI/CD, Jenkins, Linux, Docker, GCP
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0157,HR Executive,Human Resources,0,"[""Talent Acquisition"", ""Labor Law"", ""Onboarding"", ""Employee Relations"", ""HRIS"", ""Recruitment"", ""Payroll"", ""Performance Management""]","HR Executive at Meridian Softworks
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Talent Acquisition, Labor Law, Onboarding, Employee Relations, HRIS, Recruitment, Payroll, Performance Management
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0158,Financial Analyst,Finance,0,"[""Accounting"", ""QuickBooks"", ""Auditing"", ""Forecasting"", ""Financial Analysis"", ""Excel"", ""Financial Modeling"", ""Risk Management""]","Financial Analyst at Falconbyte
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Accounting, QuickBooks, Auditing, Forecasting, Financial Analysis, Excel, Financial Modeling, Risk Management
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0159,Data Scientist,Data Science,2,"[""TensorFlow"", ""PyTorch"", ""Natural Language Processing"", ""Statistics"", ""Deep Learning"", ""Data Visualization""]","Data Scientist at Harborline Financial
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: TensorFlow, PyTorch, Natural Language Processing, Statistics, Deep Learning, Data Visualization
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0160,HR Executive,Human Resources,0,"[""Labor Law"", ""Recruitment"", ""Payroll"", ""HRIS"", ""Employee Relations"", ""Onboarding""]","HR Executive at Quantwave Inc
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Labor Law, Recruitment, Payroll, HRIS, Employee Relations, Onboarding
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0161,Backend Developer,Web Development,2,"[""Next.js"", ""CSS"", ""REST API"", ""React"", ""JavaScript"", ""MongoDB""]","Backend Developer at Quantwave Inc
+
+We are looking for a Backend Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, CSS, REST API, React, JavaScript, MongoDB
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0162,Data Scientist,Data Science,2,"[""Data Visualization"", ""PyTorch"", ""Python"", ""TensorFlow"", ""Deep Learning"", ""Statistics"", ""SQL""]","Data Scientist at Novatrail Consulting
+
+We are looking for a Data Scientist to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Data Visualization, PyTorch, Python, TensorFlow, Deep Learning, Statistics, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0163,Financial Analyst,Finance,2,"[""Auditing"", ""Forecasting"", ""Accounting"", ""Financial Modeling"", ""QuickBooks""]","Financial Analyst at Sundial HR Group
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Auditing, Forecasting, Accounting, Financial Modeling, QuickBooks
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0164,Cloud Infrastructure Engineer,DevOps,1,"[""Linux"", ""Terraform"", ""Docker"", ""AWS"", ""Azure"", ""CI/CD"", ""Ansible"", ""Kubernetes""]","Cloud Infrastructure Engineer at Nimbus Systems
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Linux, Terraform, Docker, AWS, Azure, CI/CD, Ansible, Kubernetes
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0165,Finance Manager,Finance,3,"[""Financial Analysis"", ""Financial Modeling"", ""Budgeting"", ""SAP"", ""Excel""]","Finance Manager at Meridian Softworks
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Financial Analysis, Financial Modeling, Budgeting, SAP, Excel
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0166,Machine Learning Engineer,Data Science,2,"[""Natural Language Processing"", ""TensorFlow"", ""Scikit-learn"", ""Data Visualization"", ""Statistics"", ""Pandas"", ""SQL""]","Machine Learning Engineer at Orbitline Technologies
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Natural Language Processing, TensorFlow, Scikit-learn, Data Visualization, Statistics, Pandas, SQL
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0167,Cloud Infrastructure Engineer,DevOps,5,"[""Ansible"", ""Jenkins"", ""Azure"", ""Docker"", ""CI/CD"", ""Linux""]","Cloud Infrastructure Engineer at Quantwave Inc
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Ansible, Jenkins, Azure, Docker, CI/CD, Linux
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0168,Machine Learning Engineer,Data Science,1,"[""Deep Learning"", ""Machine Learning"", ""Pandas"", ""Statistics"", ""Natural Language Processing""]","Machine Learning Engineer at Verdant Analytics
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Deep Learning, Machine Learning, Pandas, Statistics, Natural Language Processing
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0169,Accounts Executive,Finance,1,"[""Excel"", ""Financial Analysis"", ""Financial Modeling"", ""Forecasting"", ""Auditing"", ""Accounting""]","Accounts Executive at Verdant Analytics
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Excel, Financial Analysis, Financial Modeling, Forecasting, Auditing, Accounting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0170,Financial Analyst,Finance,0,"[""Forecasting"", ""Excel"", ""QuickBooks"", ""Financial Modeling"", ""Financial Analysis"", ""Auditing"", ""Budgeting"", ""Accounting""]","Financial Analyst at Orbitline Technologies
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Forecasting, Excel, QuickBooks, Financial Modeling, Financial Analysis, Auditing, Budgeting, Accounting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0171,Data Analyst,Data Science,3,"[""TensorFlow"", ""Statistics"", ""Pandas"", ""Data Visualization"", ""Python""]","Data Analyst at Verdant Analytics
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: TensorFlow, Statistics, Pandas, Data Visualization, Python
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0172,Site Reliability Engineer,DevOps,5,"[""Ansible"", ""CI/CD"", ""GCP"", ""Jenkins"", ""Terraform"", ""Kubernetes""]","Site Reliability Engineer at Corestack Labs
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Ansible, CI/CD, GCP, Jenkins, Terraform, Kubernetes
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0173,Data Analyst,Data Science,1,"[""Deep Learning"", ""SQL"", ""Python"", ""Machine Learning"", ""Natural Language Processing"", ""Statistics"", ""PyTorch"", ""TensorFlow""]","Data Analyst at Harborline Financial
+
+We are looking for a Data Analyst to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Deep Learning, SQL, Python, Machine Learning, Natural Language Processing, Statistics, PyTorch, TensorFlow
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0174,Machine Learning Engineer,Data Science,5,"[""Pandas"", ""Deep Learning"", ""Scikit-learn"", ""Natural Language Processing"", ""Statistics""]","Machine Learning Engineer at Trailhead Digital
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Pandas, Deep Learning, Scikit-learn, Natural Language Processing, Statistics
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0175,DevOps Engineer,DevOps,2,"[""Azure"", ""Jenkins"", ""CI/CD"", ""Ansible"", ""AWS"", ""Terraform"", ""Kubernetes"", ""GCP""]","DevOps Engineer at Trailhead Digital
+
+We are looking for a DevOps Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Azure, Jenkins, CI/CD, Ansible, AWS, Terraform, Kubernetes, GCP
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0176,Cloud Infrastructure Engineer,DevOps,0,"[""Kubernetes"", ""Docker"", ""GCP"", ""CI/CD"", ""AWS"", ""Azure""]","Cloud Infrastructure Engineer at Meridian Softworks
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Kubernetes, Docker, GCP, CI/CD, AWS, Azure
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0177,HR Business Partner,Human Resources,2,"[""Onboarding"", ""Employee Relations"", ""HRIS"", ""Performance Management"", ""Recruitment""]","HR Business Partner at Corestack Labs
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Onboarding, Employee Relations, HRIS, Performance Management, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0178,HR Executive,Human Resources,1,"[""Labor Law"", ""Employee Relations"", ""Payroll"", ""Performance Management"", ""Talent Acquisition"", ""Onboarding"", ""Recruitment""]","HR Executive at Harborline Financial
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Labor Law, Employee Relations, Payroll, Performance Management, Talent Acquisition, Onboarding, Recruitment
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0179,Machine Learning Engineer,Data Science,1,"[""TensorFlow"", ""PyTorch"", ""Statistics"", ""Scikit-learn"", ""Natural Language Processing"", ""Pandas"", ""Data Visualization""]","Machine Learning Engineer at Orbitline Technologies
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: TensorFlow, PyTorch, Statistics, Scikit-learn, Natural Language Processing, Pandas, Data Visualization
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0180,Talent Acquisition Specialist,Human Resources,3,"[""Recruitment"", ""Performance Management"", ""Onboarding"", ""Employee Relations"", ""Payroll"", ""HRIS"", ""Labor Law"", ""Talent Acquisition""]","Talent Acquisition Specialist at Nimbus Systems
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Recruitment, Performance Management, Onboarding, Employee Relations, Payroll, HRIS, Labor Law, Talent Acquisition
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0181,Frontend Engineer,Web Development,2,"[""Next.js"", ""Node.js"", ""HTML"", ""JavaScript"", ""REST API"", ""MongoDB""]","Frontend Engineer at Orbitline Technologies
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, Node.js, HTML, JavaScript, REST API, MongoDB
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0182,Site Reliability Engineer,DevOps,1,"[""Docker"", ""Ansible"", ""Linux"", ""Kubernetes"", ""AWS"", ""Jenkins""]","Site Reliability Engineer at BluePeak Solutions
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Docker, Ansible, Linux, Kubernetes, AWS, Jenkins
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0183,Talent Acquisition Specialist,Human Resources,3,"[""Performance Management"", ""Payroll"", ""Onboarding"", ""Labor Law"", ""Recruitment"", ""Talent Acquisition"", ""HRIS"", ""Employee Relations""]","Talent Acquisition Specialist at Sundial HR Group
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Performance Management, Payroll, Onboarding, Labor Law, Recruitment, Talent Acquisition, HRIS, Employee Relations
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0184,Financial Analyst,Finance,1,"[""Accounting"", ""SAP"", ""Auditing"", ""Risk Management"", ""Excel"", ""QuickBooks"", ""Budgeting""]","Financial Analyst at Corestack Labs
+
+We are looking for a Financial Analyst to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Accounting, SAP, Auditing, Risk Management, Excel, QuickBooks, Budgeting
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0185,Site Reliability Engineer,DevOps,2,"[""GCP"", ""Linux"", ""Kubernetes"", ""Jenkins"", ""Ansible"", ""Azure"", ""AWS""]","Site Reliability Engineer at Sundial HR Group
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: GCP, Linux, Kubernetes, Jenkins, Ansible, Azure, AWS
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0186,Full Stack Developer,Web Development,2,"[""Next.js"", ""MongoDB"", ""React"", ""JavaScript"", ""HTML"", ""Node.js"", ""TypeScript""]","Full Stack Developer at BluePeak Solutions
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Next.js, MongoDB, React, JavaScript, HTML, Node.js, TypeScript
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0187,Frontend Engineer,Web Development,5,"[""MongoDB"", ""CSS"", ""TypeScript"", ""Express.js"", ""Node.js"", ""React"", ""REST API""]","Frontend Engineer at Trailhead Digital
+
+We are looking for a Frontend Engineer to join our Web Development team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: MongoDB, CSS, TypeScript, Express.js, Node.js, React, REST API
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0188,Full Stack Developer,Web Development,1,"[""HTML"", ""MongoDB"", ""Express.js"", ""JavaScript"", ""Node.js"", ""CSS""]","Full Stack Developer at Meridian Softworks
+
+We are looking for a Full Stack Developer to join our Web Development team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: HTML, MongoDB, Express.js, JavaScript, Node.js, CSS
+
+Responsibilities include applying the above skills to real-world web development problems and collaborating with cross-functional teams."
+J0189,Finance Manager,Finance,1,"[""Excel"", ""QuickBooks"", ""Auditing"", ""SAP"", ""Budgeting"", ""Accounting"", ""Financial Modeling""]","Finance Manager at Meridian Softworks
+
+We are looking for a Finance Manager to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Excel, QuickBooks, Auditing, SAP, Budgeting, Accounting, Financial Modeling
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0190,Site Reliability Engineer,DevOps,5,"[""Terraform"", ""Docker"", ""Ansible"", ""Kubernetes"", ""Linux"", ""Azure""]","Site Reliability Engineer at Quantwave Inc
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Terraform, Docker, Ansible, Kubernetes, Linux, Azure
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0191,HR Executive,Human Resources,5,"[""HRIS"", ""Employee Relations"", ""Payroll"", ""Performance Management"", ""Onboarding"", ""Labor Law""]","HR Executive at Harborline Financial
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: HRIS, Employee Relations, Payroll, Performance Management, Onboarding, Labor Law
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0192,Machine Learning Engineer,Data Science,0,"[""Natural Language Processing"", ""Python"", ""Pandas"", ""SQL"", ""NumPy"", ""Machine Learning"", ""Data Visualization""]","Machine Learning Engineer at Sundial HR Group
+
+We are looking for a Machine Learning Engineer to join our Data Science team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Natural Language Processing, Python, Pandas, SQL, NumPy, Machine Learning, Data Visualization
+
+Responsibilities include applying the above skills to real-world data science problems and collaborating with cross-functional teams."
+J0193,Site Reliability Engineer,DevOps,1,"[""CI/CD"", ""AWS"", ""Jenkins"", ""Docker"", ""Linux"", ""GCP"", ""Terraform""]","Site Reliability Engineer at Falconbyte
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: CI/CD, AWS, Jenkins, Docker, Linux, GCP, Terraform
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0194,HR Executive,Human Resources,5,"[""Employee Relations"", ""HRIS"", ""Payroll"", ""Labor Law"", ""Recruitment"", ""Onboarding"", ""Performance Management"", ""Talent Acquisition""]","HR Executive at Sundial HR Group
+
+We are looking for a HR Executive to join our Human Resources team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Employee Relations, HRIS, Payroll, Labor Law, Recruitment, Onboarding, Performance Management, Talent Acquisition
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0195,Talent Acquisition Specialist,Human Resources,3,"[""Employee Relations"", ""HRIS"", ""Onboarding"", ""Labor Law"", ""Recruitment"", ""Payroll"", ""Performance Management""]","Talent Acquisition Specialist at Novatrail Consulting
+
+We are looking for a Talent Acquisition Specialist to join our Human Resources team. The ideal candidate has at least 3 years of relevant experience.
+
+Required Skills: Employee Relations, HRIS, Onboarding, Labor Law, Recruitment, Payroll, Performance Management
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0196,Site Reliability Engineer,DevOps,2,"[""Terraform"", ""Linux"", ""Docker"", ""GCP"", ""CI/CD"", ""AWS""]","Site Reliability Engineer at Orbitline Technologies
+
+We are looking for a Site Reliability Engineer to join our DevOps team. The ideal candidate has at least 2 years of relevant experience.
+
+Required Skills: Terraform, Linux, Docker, GCP, CI/CD, AWS
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."
+J0197,Accounts Executive,Finance,1,"[""Budgeting"", ""Forecasting"", ""Financial Modeling"", ""Financial Analysis"", ""Auditing""]","Accounts Executive at Sundial HR Group
+
+We are looking for a Accounts Executive to join our Finance team. The ideal candidate has at least 1 years of relevant experience.
+
+Required Skills: Budgeting, Forecasting, Financial Modeling, Financial Analysis, Auditing
+
+Responsibilities include applying the above skills to real-world finance problems and collaborating with cross-functional teams."
+J0198,HR Business Partner,Human Resources,0,"[""Onboarding"", ""Labor Law"", ""Performance Management"", ""Recruitment"", ""Talent Acquisition""]","HR Business Partner at BluePeak Solutions
+
+We are looking for a HR Business Partner to join our Human Resources team. The ideal candidate has at least 0 years of relevant experience.
+
+Required Skills: Onboarding, Labor Law, Performance Management, Recruitment, Talent Acquisition
+
+Responsibilities include applying the above skills to real-world human resources problems and collaborating with cross-functional teams."
+J0199,Cloud Infrastructure Engineer,DevOps,5,"[""Terraform"", ""Kubernetes"", ""Linux"", ""AWS"", ""Docker"", ""CI/CD"", ""Jenkins""]","Cloud Infrastructure Engineer at Nimbus Systems
+
+We are looking for a Cloud Infrastructure Engineer to join our DevOps team. The ideal candidate has at least 5 years of relevant experience.
+
+Required Skills: Terraform, Kubernetes, Linux, AWS, Docker, CI/CD, Jenkins
+
+Responsibilities include applying the above skills to real-world devops problems and collaborating with cross-functional teams."

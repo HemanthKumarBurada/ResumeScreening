@@ -1,0 +1,5 @@
+tier,tp,fp,fn,tn,precision,recall,mcc_one_vs_rest,accuracy_one_vs_rest
+Best,97,8,4,141,0.9238,0.9604,0.9014,0.952
+Average,39,8,8,195,0.8298,0.8298,0.7904,0.936
+Low,98,0,4,148,1.0,0.9608,0.9672,0.984
+Overall,,,,,,,0.8996,0.936

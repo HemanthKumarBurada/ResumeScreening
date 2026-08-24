@@ -1,0 +1,10 @@
+{
+  "semantic_weight": 0.3,
+  "skill_weight": 0.7,
+  "contextual_threshold": 0.65,
+  "best_cut": 65,
+  "avg_cut": 40,
+  "pearson_corr": 0.9856,
+  "tier_accuracy": 0.936,
+  "overall_mcc": 0.8996
+}

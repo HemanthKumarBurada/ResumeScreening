@@ -1,0 +1,51 @@
+category,canonical_skill,fuzzy_variants,contextual_paraphrase
+Data Science,Python,Pyhton; python3; Python ,wrote automation scripts and backend services in a high-level scripting language
+Data Science,Machine Learning,ML; Machine-Learning; Machin Learning,built predictive models that learn patterns from historical data
+Data Science,Deep Learning,,trained multi-layer neural networks for pattern recognition tasks
+Data Science,Pandas,,
+Data Science,NumPy,,
+Data Science,Scikit-learn,sklearn; Scikit Learn; Scikitlearn,
+Data Science,TensorFlow,Tensor Flow; TF; Tensorflow,
+Data Science,PyTorch,Py Torch; Pytorch,
+Data Science,SQL,SQl; My SQL; Sql,wrote complex queries to extract and join data from relational databases
+Data Science,Data Visualization,,created dashboards and charts to communicate insights to stakeholders
+Data Science,Statistics,,
+Data Science,Natural Language Processing,,
+Web Development,JavaScript,Javascript; JS; Java Script,
+Web Development,React,ReactJS; React.js; Reactjs,"built dynamic, component-based user interfaces for single-page applications"
+Web Development,Node.js,NodeJS; Node JS; Node,developed server-side applications using an event-driven JavaScript runtime
+Web Development,HTML,,
+Web Development,CSS,,
+Web Development,TypeScript,Typescript; TS,
+Web Development,REST API,RESTful API; Rest Apis; REST-API,designed and exposed HTTP endpoints for internal service communication
+Web Development,MongoDB,Mongo DB; Mongodb,
+Web Development,Express.js,,
+Web Development,Next.js,,
+DevOps,Docker,Dockers; docker ,"packaged applications into portable, isolated containers for deployment"
+DevOps,Kubernetes,K8s; Kubernets; Kubernetes ,orchestrated containerized workloads across a distributed cluster
+DevOps,AWS,Amazon Web Services; A.W.S.,provisioned and managed cloud infrastructure on a major public cloud platform
+DevOps,CI/CD,CICD; CI-CD,set up automated build and deployment pipelines triggered on every commit
+DevOps,Jenkins,,
+DevOps,Terraform,,
+DevOps,Linux,,
+DevOps,Ansible,,
+DevOps,Azure,,
+DevOps,GCP,,
+Human Resources,Recruitment,,managed the full candidate sourcing and hiring lifecycle
+Human Resources,Onboarding,,
+Human Resources,Employee Relations,,
+Human Resources,Payroll,,processed monthly employee compensation and statutory deductions
+Human Resources,HRIS,HR IS; H.R.I.S.,
+Human Resources,Talent Acquisition,,
+Human Resources,Performance Management,,
+Human Resources,Labor Law,,
+Finance,Financial Modeling,,built spreadsheet models to forecast company revenue and cash flow
+Finance,Excel,MS Excel; Micosoft Excel,
+Finance,Accounting,,
+Finance,SAP,S.A.P.; SAP ,
+Finance,Budgeting,,
+Finance,Forecasting,,
+Finance,Risk Management,,identified and mitigated operational and financial exposure for the business
+Finance,Auditing,,
+Finance,QuickBooks,,
+Finance,Financial Analysis,,
