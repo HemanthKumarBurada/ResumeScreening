@@ -50,7 +50,7 @@ export default function HrRankingPage() {
           <tr style={{ borderBottom: "2px solid #ddd" }}>
             <th style={{ padding: "12px 8px" }}>Rank</th>
             <th style={{ padding: "12px 8px" }}>Candidate</th>
-            <th style={{ padding: "12px 8px" }}>Status</th>
+            <th style={{ padding: "12px 8px" }}>Status</th> 
             <th style={{ padding: "12px 8px" }}>Screening Score</th>
             <th style={{ padding: "12px 8px" }}>MCQ Score</th>
             <th style={{ padding: "12px 8px" }}>Final Score</th>
